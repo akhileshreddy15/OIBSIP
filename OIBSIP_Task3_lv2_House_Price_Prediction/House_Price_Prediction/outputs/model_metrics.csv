@@ -1,0 +1,3 @@
+Model,MAE_INR,RMSE_INR,R2
+Linear Regression,559209.433,681477.471,0.968
+Ridge Regression,559787.017,682477.64,0.967

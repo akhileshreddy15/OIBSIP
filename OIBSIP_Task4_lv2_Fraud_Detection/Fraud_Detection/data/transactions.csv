@@ -1,0 +1,2401 @@
+Transaction_Amount_INR,Transaction_Hour,Online_Transaction,International_Transaction,Merchant_Category,Days_Since_Last_Transaction,Account_Age_Months,Is_Fraud
+52.04,11,Yes,Yes,Digital Services,37,183,0
+371.29,9,Yes,No,Travel,55,61,0
+109.87,9,No,No,Digital Services,83,41,0
+223.78,10,No,No,Electronics,222,158,0
+233.52,8,Yes,No,Digital Services,44,72,0
+21.24,18,Yes,No,Digital Services,15,32,0
+277.67,12,Yes,No,Retail,40,103,0
+59.47,19,No,No,Retail,304,77,0
+44.42,9,Yes,No,Electronics,53,94,0
+529.5,17,Yes,No,Retail,235,73,0
+30.16,12,No,No,Travel,169,138,0
+30.93,20,No,No,Food,321,81,0
+67.8,12,Yes,No,Electronics,76,40,0
+717.88,8,Yes,No,Retail,294,186,0
+432.96,15,Yes,No,Food,154,168,0
+137.7,2,Yes,No,Retail,299,18,0
+1093.76,2,Yes,No,Retail,355,42,0
+73.85,11,Yes,No,Digital Services,322,173,0
+24.9,13,Yes,No,Digital Services,287,215,0
+331.34,0,No,No,Food,169,26,0
+205.89,11,Yes,No,Retail,235,85,0
+235.75,17,Yes,No,Electronics,321,92,0
+51.93,1,Yes,No,Food,157,117,0
+296.58,12,No,No,Retail,11,239,0
+226.44,3,Yes,No,Electronics,170,159,0
+44.08,14,Yes,No,Food,215,56,0
+288.22,10,Yes,Yes,Retail,77,182,0
+219.8,23,Yes,Yes,Retail,259,27,0
+731.91,22,Yes,No,Digital Services,16,55,0
+108.3,14,Yes,No,Retail,19,201,0
+214.48,7,No,No,Retail,135,121,0
+435.5,2,Yes,No,Electronics,75,180,0
+45.09,0,Yes,No,Retail,164,137,0
+94.51,9,Yes,No,Food,267,35,0
+58.3,13,Yes,Yes,Digital Services,83,192,0
+91.7,4,Yes,No,Retail,199,154,0
+674.62,16,No,Yes,Digital Services,255,40,0
+342.3,2,No,No,Electronics,137,122,0
+252.47,7,No,No,Food,270,196,0
+230.9,5,Yes,No,Digital Services,159,93,0
+293.7,15,Yes,No,Digital Services,19,141,0
+728.38,13,No,No,Food,184,58,0
+321.48,11,Yes,No,Digital Services,354,110,0
+780.64,15,Yes,No,Digital Services,359,159,0
+217.66,21,Yes,No,Electronics,284,16,0
+172.0,12,Yes,No,Travel,303,77,0
+238.13,21,No,Yes,Electronics,355,209,0
+123.85,18,Yes,No,Retail,130,121,0
+285.16,2,No,No,Digital Services,283,76,0
+11.37,17,No,No,Retail,161,77,0
+104.81,11,Yes,No,Electronics,26,206,0
+90.39,4,Yes,No,Electronics,69,157,0
+59.42,17,Yes,No,Digital Services,202,86,0
+330.61,16,No,No,Travel,69,163,0
+477.97,3,Yes,No,Food,48,94,0
+531.07,5,Yes,No,Electronics,111,232,0
+68.89,9,Yes,No,Food,299,67,0
+272.81,13,Yes,No,Food,289,29,0
+30.03,4,Yes,No,Food,102,159,0
+105.55,11,No,No,Retail,108,178,0
+132.87,2,Yes,No,Retail,63,94,0
+137.16,23,No,No,Retail,186,192,0
+126.67,12,Yes,No,Food,54,182,0
+401.76,20,Yes,No,Travel,109,194,0
+23.89,11,Yes,No,Retail,258,91,0
+196.2,22,No,No,Retail,105,5,0
+79.47,16,No,No,Electronics,282,85,0
+130.63,9,No,No,Travel,205,215,0
+725.74,8,Yes,No,Travel,155,217,0
+606.55,13,Yes,No,Digital Services,158,163,0
+197.2,17,Yes,No,Electronics,49,154,0
+1962.15,6,Yes,No,Food,87,62,0
+178.12,1,Yes,No,Food,162,238,0
+246.53,3,No,No,Retail,204,45,0
+502.46,23,Yes,Yes,Food,150,31,0
+97.84,14,Yes,No,Retail,54,14,0
+113.27,8,Yes,No,Electronics,242,82,0
+409.37,1,Yes,No,Electronics,321,147,1
+33.49,1,No,No,Retail,221,63,0
+87.99,18,Yes,No,Travel,315,130,0
+21.3,21,Yes,No,Digital Services,356,203,0
+1689.02,22,Yes,No,Electronics,144,41,0
+99.52,23,Yes,No,Electronics,310,46,0
+304.19,14,Yes,No,Electronics,275,201,0
+40.39,2,Yes,No,Digital Services,155,94,0
+1351.71,9,Yes,No,Food,346,197,0
+41.37,15,No,Yes,Digital Services,39,50,0
+107.8,14,Yes,No,Retail,83,189,0
+1952.63,3,Yes,No,Electronics,193,23,1
+349.15,5,Yes,No,Retail,309,228,0
+113.8,4,No,No,Food,262,234,0
+647.21,3,No,No,Electronics,110,134,0
+196.96,16,Yes,No,Digital Services,293,107,0
+171.91,15,Yes,Yes,Digital Services,334,183,0
+88.47,12,No,Yes,Travel,149,69,0
+60.68,16,No,No,Retail,142,9,0
+66.43,5,Yes,No,Electronics,57,131,0
+71.89,20,No,Yes,Food,40,224,0
+83.08,13,No,No,Electronics,61,232,0
+199.08,19,Yes,Yes,Food,12,60,0
+185.05,5,Yes,No,Food,151,224,0
+144.38,20,Yes,No,Digital Services,96,190,0
+171.64,9,Yes,No,Digital Services,329,27,0
+122.85,16,Yes,No,Retail,104,50,0
+371.23,8,Yes,No,Food,257,173,0
+252.61,19,Yes,No,Travel,318,139,0
+869.13,9,Yes,No,Retail,48,163,0
+124.37,22,No,No,Food,229,196,0
+1874.32,17,Yes,No,Electronics,68,76,0
+229.7,0,Yes,No,Electronics,101,232,0
+227.3,8,No,No,Electronics,257,143,0
+454.35,6,Yes,No,Electronics,211,126,0
+99.64,12,Yes,No,Retail,345,39,0
+273.36,16,Yes,Yes,Food,288,185,0
+345.92,16,Yes,No,Retail,291,88,0
+235.64,21,Yes,No,Retail,299,185,0
+256.03,12,No,No,Electronics,65,234,0
+40.48,4,Yes,Yes,Travel,55,225,1
+1090.84,17,No,Yes,Food,327,60,0
+140.76,22,Yes,Yes,Food,146,72,0
+11.79,9,No,No,Digital Services,44,175,0
+1083.84,2,Yes,No,Electronics,149,140,0
+317.91,20,No,No,Travel,195,97,0
+252.58,18,No,No,Travel,324,147,0
+143.72,9,No,No,Digital Services,207,8,0
+112.37,10,No,No,Food,30,10,0
+313.42,21,No,No,Digital Services,141,201,0
+2060.71,13,No,No,Food,337,15,0
+339.02,22,Yes,No,Food,74,138,0
+466.97,15,No,No,Food,199,68,0
+191.35,4,Yes,No,Digital Services,135,109,0
+46.07,0,Yes,No,Food,221,229,0
+139.59,15,Yes,Yes,Retail,244,236,0
+142.3,18,No,No,Retail,137,36,0
+309.28,2,Yes,Yes,Travel,101,181,1
+261.15,4,Yes,No,Electronics,336,181,0
+163.37,19,Yes,No,Food,43,41,0
+35.8,19,No,No,Electronics,337,112,0
+35.07,16,Yes,No,Retail,77,186,0
+60.11,5,Yes,No,Food,171,223,0
+17.01,12,No,No,Food,4,50,1
+44.0,5,Yes,No,Retail,280,127,0
+489.83,8,No,Yes,Retail,7,197,0
+107.0,1,No,No,Digital Services,33,38,0
+37.89,22,Yes,No,Electronics,240,49,0
+32.28,23,Yes,No,Travel,98,227,0
+194.42,23,Yes,No,Food,291,180,0
+199.91,6,Yes,No,Electronics,125,118,0
+178.73,19,No,No,Electronics,197,83,0
+244.28,17,No,No,Retail,226,34,0
+129.13,6,No,No,Digital Services,157,129,0
+167.72,18,Yes,No,Digital Services,280,229,0
+46.7,11,Yes,No,Food,37,194,0
+102.34,7,No,No,Retail,64,201,0
+153.27,21,Yes,No,Retail,137,112,0
+28.63,4,Yes,No,Electronics,188,194,0
+77.89,18,No,No,Digital Services,95,173,0
+110.66,2,No,No,Food,192,15,0
+1276.64,23,No,No,Food,32,184,0
+255.63,12,No,Yes,Retail,158,199,0
+256.74,0,No,No,Travel,201,180,0
+496.82,1,No,No,Travel,221,95,0
+160.51,22,Yes,No,Retail,242,123,0
+1275.63,4,No,No,Travel,86,211,0
+73.1,19,Yes,No,Food,6,91,0
+47.85,19,Yes,No,Digital Services,269,213,0
+201.26,2,Yes,No,Electronics,346,156,0
+98.87,14,Yes,No,Retail,70,91,0
+61.27,2,No,No,Electronics,88,96,0
+167.17,12,Yes,No,Retail,143,127,0
+14.56,16,Yes,No,Travel,107,221,0
+231.79,17,No,No,Retail,153,29,0
+81.87,0,No,No,Retail,163,132,0
+193.13,12,Yes,Yes,Food,301,150,0
+64.52,21,No,No,Digital Services,200,135,0
+100.42,17,No,Yes,Retail,207,207,0
+441.08,19,Yes,No,Food,231,202,0
+55.74,0,No,No,Retail,231,200,0
+544.98,18,Yes,No,Food,290,99,0
+113.48,18,No,Yes,Food,130,107,0
+1927.73,8,Yes,Yes,Travel,164,238,1
+35.24,20,Yes,No,Electronics,148,211,0
+573.32,12,Yes,Yes,Food,294,42,0
+116.35,22,Yes,No,Digital Services,101,96,0
+818.5,16,No,No,Travel,162,65,0
+77.04,13,Yes,No,Electronics,316,143,0
+39.06,6,Yes,No,Retail,229,155,0
+144.89,16,Yes,No,Food,2,228,0
+194.65,21,Yes,No,Food,42,14,0
+109.56,22,Yes,No,Electronics,364,61,0
+158.87,23,Yes,No,Retail,345,184,0
+119.7,21,No,No,Retail,47,217,0
+86.6,18,Yes,No,Retail,55,135,0
+31.61,10,No,Yes,Food,125,219,0
+345.11,14,Yes,No,Travel,104,133,0
+317.27,1,Yes,No,Food,357,155,0
+67.26,2,No,No,Retail,231,62,0
+546.47,13,Yes,No,Retail,212,84,0
+149.91,11,Yes,No,Electronics,218,75,0
+244.59,12,Yes,No,Electronics,28,194,0
+96.47,4,No,No,Retail,112,71,0
+434.03,8,Yes,No,Retail,192,87,0
+1141.73,14,Yes,Yes,Retail,310,132,0
+311.2,12,Yes,No,Food,363,78,0
+239.92,3,Yes,No,Retail,143,12,0
+44.01,13,No,No,Digital Services,187,170,0
+318.62,5,No,No,Retail,167,233,0
+75.77,12,Yes,No,Food,357,102,0
+83.07,11,Yes,No,Retail,76,79,0
+178.35,6,Yes,No,Retail,130,42,0
+376.33,15,Yes,Yes,Retail,235,174,0
+135.53,11,Yes,Yes,Digital Services,313,136,0
+953.29,8,Yes,No,Digital Services,103,115,0
+421.38,12,Yes,No,Electronics,142,95,0
+74.03,8,Yes,No,Digital Services,244,79,0
+184.01,11,No,No,Retail,184,104,0
+556.43,8,Yes,No,Digital Services,307,83,0
+192.51,1,No,No,Electronics,101,45,0
+174.66,2,Yes,Yes,Retail,352,16,1
+1384.12,23,Yes,Yes,Retail,162,113,0
+4962.77,4,Yes,No,Food,107,39,1
+913.63,17,Yes,No,Retail,148,28,0
+31.09,10,Yes,No,Electronics,141,139,0
+185.35,21,Yes,No,Electronics,197,77,0
+83.02,23,Yes,Yes,Digital Services,187,12,0
+41.71,18,Yes,No,Travel,54,34,0
+66.06,2,Yes,No,Food,247,83,0
+41.87,1,Yes,No,Food,96,204,0
+93.48,19,Yes,No,Digital Services,249,3,0
+169.2,3,Yes,No,Electronics,301,10,0
+147.84,3,Yes,No,Food,72,216,0
+178.63,17,Yes,No,Electronics,71,56,0
+85.16,5,No,No,Retail,179,37,0
+67.88,18,Yes,No,Food,85,152,0
+1260.43,15,Yes,No,Retail,174,230,0
+220.78,12,No,No,Retail,10,149,0
+161.64,18,Yes,No,Electronics,133,64,0
+393.85,12,Yes,No,Food,314,68,0
+524.08,19,No,No,Retail,9,74,0
+86.84,1,Yes,No,Electronics,333,194,0
+62.7,20,Yes,No,Digital Services,27,145,0
+136.59,7,No,No,Retail,200,131,0
+82.72,4,Yes,No,Retail,259,82,0
+158.58,0,No,No,Retail,117,147,0
+592.63,13,Yes,No,Food,9,114,0
+217.39,7,No,No,Digital Services,81,143,0
+159.79,8,Yes,No,Digital Services,146,199,0
+164.52,5,No,No,Digital Services,157,161,0
+60.26,6,Yes,No,Electronics,104,182,0
+93.98,9,No,No,Travel,315,177,0
+2042.12,2,Yes,No,Retail,203,21,0
+194.89,7,Yes,No,Retail,42,32,0
+119.2,7,Yes,No,Retail,320,46,0
+1175.2,23,No,No,Food,185,10,0
+606.51,12,No,No,Food,26,17,0
+177.76,11,No,No,Food,272,185,0
+61.21,4,Yes,No,Travel,207,214,0
+77.85,1,Yes,No,Travel,208,156,0
+781.88,13,No,Yes,Digital Services,139,109,0
+524.64,2,Yes,No,Retail,121,170,0
+382.68,1,Yes,No,Electronics,63,146,0
+592.93,4,Yes,No,Digital Services,273,174,0
+347.65,11,Yes,No,Travel,272,103,0
+260.89,10,Yes,No,Retail,288,188,0
+182.93,6,Yes,No,Retail,27,66,0
+190.75,0,No,Yes,Retail,129,110,0
+66.19,4,Yes,No,Food,133,10,0
+139.87,12,Yes,No,Food,104,24,0
+24.08,23,No,No,Retail,249,164,0
+17.34,4,Yes,No,Retail,201,48,0
+199.17,21,Yes,Yes,Food,333,79,0
+56.11,9,No,No,Retail,304,232,0
+521.78,6,Yes,No,Electronics,355,64,0
+264.9,1,Yes,Yes,Food,352,34,1
+848.24,18,Yes,Yes,Electronics,211,5,1
+1041.68,18,No,No,Electronics,187,150,0
+454.68,3,Yes,No,Digital Services,80,79,0
+91.44,12,Yes,No,Digital Services,278,157,0
+49.84,14,Yes,No,Retail,42,75,0
+525.98,0,No,No,Digital Services,137,67,0
+280.22,13,No,No,Digital Services,338,188,0
+13.14,22,Yes,No,Electronics,91,34,0
+94.21,12,Yes,No,Digital Services,71,239,0
+161.5,3,Yes,No,Retail,236,197,0
+281.46,2,Yes,No,Retail,191,94,0
+2742.88,17,Yes,No,Digital Services,206,202,0
+423.47,3,Yes,No,Travel,345,47,0
+79.94,12,No,No,Food,94,123,0
+1860.43,0,No,No,Electronics,71,54,0
+368.44,15,Yes,No,Travel,75,198,1
+131.82,7,No,No,Electronics,208,116,0
+384.76,5,No,No,Food,204,99,0
+596.28,19,Yes,No,Retail,204,11,0
+446.32,4,Yes,No,Electronics,232,127,0
+198.46,1,Yes,No,Retail,260,181,0
+83.33,0,Yes,No,Retail,56,58,0
+67.96,2,Yes,No,Travel,155,114,0
+126.75,10,Yes,No,Electronics,343,8,0
+590.35,17,Yes,No,Food,149,146,0
+37.42,1,Yes,Yes,Retail,176,101,1
+33.65,22,Yes,No,Retail,220,16,0
+557.33,14,No,No,Food,10,43,0
+139.3,0,Yes,Yes,Retail,301,141,1
+154.06,5,No,No,Electronics,184,145,0
+183.53,9,Yes,No,Electronics,74,9,0
+64.3,16,Yes,No,Electronics,153,104,0
+641.4,13,Yes,No,Food,207,188,0
+492.88,15,Yes,No,Food,15,202,0
+166.44,21,Yes,Yes,Retail,51,48,0
+24.16,3,Yes,No,Retail,280,194,0
+239.57,1,Yes,No,Electronics,157,153,0
+1602.84,0,No,Yes,Retail,237,93,1
+1384.05,16,Yes,No,Food,228,22,0
+103.12,23,Yes,No,Food,270,189,0
+63.65,18,Yes,No,Electronics,161,165,0
+941.76,8,Yes,Yes,Food,178,227,0
+683.28,14,Yes,No,Retail,228,45,0
+369.81,23,Yes,No,Digital Services,57,106,0
+72.57,14,No,No,Travel,81,80,0
+214.19,8,No,No,Retail,290,72,0
+16.16,23,Yes,No,Retail,15,142,0
+87.52,23,Yes,No,Retail,316,34,0
+141.26,23,Yes,No,Electronics,310,96,0
+130.26,19,Yes,No,Electronics,211,150,0
+74.52,4,No,No,Travel,246,192,0
+49.14,12,No,No,Retail,264,181,0
+258.66,17,Yes,No,Retail,235,137,0
+53.34,0,Yes,No,Food,215,91,0
+76.42,19,No,No,Travel,117,10,0
+78.86,9,Yes,No,Electronics,244,223,0
+409.28,10,Yes,No,Food,200,196,0
+95.13,5,Yes,No,Digital Services,303,226,0
+90.39,6,No,No,Digital Services,13,102,0
+58.55,9,Yes,Yes,Digital Services,10,129,1
+31.39,14,Yes,No,Food,270,106,0
+381.51,11,Yes,No,Digital Services,227,53,0
+653.83,13,Yes,No,Food,357,220,0
+26.86,0,Yes,No,Retail,190,122,0
+38.26,16,Yes,No,Retail,83,182,0
+226.97,22,Yes,No,Food,333,103,0
+797.36,3,Yes,No,Digital Services,169,142,0
+209.66,1,Yes,No,Travel,244,176,0
+15.14,2,Yes,No,Retail,81,179,1
+1119.23,1,Yes,No,Food,1,197,0
+342.98,9,No,No,Food,258,160,0
+23.63,4,Yes,Yes,Retail,338,15,1
+115.66,11,Yes,No,Electronics,162,197,0
+209.8,9,Yes,No,Digital Services,229,101,0
+142.76,2,Yes,No,Digital Services,277,47,0
+229.69,1,No,No,Digital Services,5,46,0
+70.39,12,Yes,No,Food,13,102,0
+162.12,2,Yes,No,Retail,173,232,0
+126.0,4,No,Yes,Digital Services,233,89,0
+76.39,20,No,No,Retail,173,76,0
+154.22,10,Yes,No,Digital Services,218,121,0
+122.01,12,Yes,No,Food,110,29,0
+279.36,11,Yes,No,Retail,25,85,0
+84.94,15,Yes,No,Retail,22,51,0
+102.62,7,Yes,No,Food,253,126,1
+1783.65,5,No,No,Food,221,162,0
+478.15,15,Yes,No,Digital Services,17,48,0
+113.05,7,Yes,No,Food,340,213,0
+526.28,1,Yes,No,Food,317,108,0
+268.6,3,No,No,Retail,285,113,0
+44.19,3,Yes,No,Travel,113,107,0
+339.96,16,No,No,Digital Services,187,75,0
+276.93,7,No,No,Electronics,45,99,0
+67.85,7,Yes,No,Food,3,64,1
+129.38,15,Yes,No,Food,237,5,0
+123.73,12,Yes,No,Food,341,35,0
+336.91,19,No,No,Travel,189,153,0
+91.75,22,Yes,No,Electronics,333,232,0
+47.14,9,Yes,No,Retail,249,134,0
+962.3,11,No,Yes,Travel,52,141,0
+522.37,9,No,No,Digital Services,321,129,0
+112.34,22,Yes,No,Travel,81,162,0
+164.34,1,No,No,Retail,191,65,1
+51.54,8,No,No,Retail,150,202,0
+128.37,18,Yes,No,Food,227,152,0
+262.48,1,Yes,No,Digital Services,74,107,1
+96.06,5,No,No,Retail,109,171,0
+288.19,14,Yes,No,Retail,290,145,0
+336.85,17,Yes,No,Retail,306,154,0
+142.44,4,Yes,No,Electronics,72,187,0
+751.75,7,Yes,No,Retail,207,147,0
+32.64,12,No,No,Retail,90,21,0
+183.69,14,Yes,No,Electronics,234,159,0
+28.39,9,No,No,Electronics,160,31,0
+115.29,5,No,No,Food,361,48,0
+42.37,12,Yes,No,Food,152,81,0
+335.94,16,No,No,Electronics,63,63,0
+104.07,16,No,No,Retail,73,231,0
+23.03,9,No,No,Electronics,251,46,0
+71.16,22,No,No,Electronics,206,95,0
+229.4,17,Yes,Yes,Digital Services,318,26,0
+138.62,1,Yes,No,Retail,318,152,0
+142.8,5,Yes,No,Digital Services,229,143,0
+172.36,7,No,No,Digital Services,131,186,0
+623.58,12,Yes,No,Electronics,20,131,0
+177.58,15,No,No,Food,165,118,0
+901.41,19,Yes,No,Travel,306,129,0
+276.43,23,No,No,Food,162,2,0
+91.23,10,No,No,Food,77,178,0
+147.66,14,Yes,Yes,Retail,189,205,0
+313.52,4,No,No,Retail,244,196,0
+86.03,5,No,No,Electronics,51,160,0
+50.65,8,Yes,No,Digital Services,264,145,0
+107.32,21,Yes,Yes,Electronics,286,238,0
+104.49,15,Yes,No,Electronics,286,62,0
+85.0,6,Yes,No,Retail,257,14,0
+259.29,7,No,No,Digital Services,331,48,0
+31.03,16,No,No,Retail,244,29,0
+82.41,18,Yes,No,Retail,282,228,0
+506.04,18,No,No,Retail,330,70,0
+101.6,7,Yes,No,Food,18,149,0
+76.65,9,No,No,Food,227,208,0
+93.26,2,Yes,No,Retail,219,98,0
+202.39,12,No,No,Electronics,192,218,0
+136.07,3,No,No,Retail,172,158,0
+626.63,9,No,No,Digital Services,253,103,0
+727.77,14,Yes,No,Electronics,126,192,0
+49.61,11,No,No,Digital Services,254,180,0
+75.67,4,Yes,No,Retail,14,147,1
+62.04,20,No,No,Food,179,237,0
+98.96,23,No,No,Retail,283,73,0
+39.02,19,Yes,No,Food,49,40,0
+93.37,1,Yes,No,Digital Services,169,38,0
+141.96,17,Yes,No,Electronics,218,225,0
+268.97,23,Yes,Yes,Travel,220,30,0
+469.36,21,Yes,No,Digital Services,132,37,0
+325.74,9,Yes,No,Digital Services,89,61,0
+242.41,17,Yes,No,Food,160,23,0
+96.12,14,No,Yes,Digital Services,117,165,0
+171.6,11,No,No,Digital Services,65,134,0
+163.08,16,Yes,Yes,Food,283,94,0
+25.74,12,Yes,No,Retail,242,134,0
+591.55,16,No,No,Digital Services,211,172,0
+464.48,9,Yes,No,Retail,192,97,0
+152.11,2,Yes,Yes,Travel,245,39,1
+207.59,20,Yes,No,Food,185,175,0
+180.9,2,Yes,No,Digital Services,160,40,0
+303.04,20,Yes,No,Food,319,186,0
+393.52,23,Yes,No,Retail,287,220,1
+466.21,18,Yes,No,Travel,287,204,0
+161.44,3,Yes,No,Food,112,145,0
+25.53,7,Yes,No,Food,183,12,0
+63.63,15,Yes,Yes,Food,0,181,0
+476.64,4,No,No,Retail,30,58,0
+718.41,22,Yes,No,Food,117,232,0
+194.47,12,Yes,No,Food,118,91,0
+101.98,19,No,No,Retail,214,230,0
+233.07,6,Yes,No,Digital Services,275,67,0
+255.28,20,Yes,No,Digital Services,115,10,0
+103.61,9,Yes,No,Food,196,175,0
+90.45,19,Yes,No,Electronics,217,52,0
+192.22,10,Yes,No,Retail,356,204,0
+1493.24,3,No,No,Retail,14,93,0
+152.83,17,Yes,No,Travel,273,168,0
+151.02,19,Yes,No,Retail,123,208,0
+375.18,5,Yes,No,Travel,116,218,0
+843.7,5,Yes,No,Retail,125,239,0
+575.93,4,Yes,No,Food,11,168,0
+288.32,5,No,No,Travel,192,18,0
+960.46,6,No,No,Digital Services,82,115,0
+2029.39,20,Yes,No,Food,317,101,0
+232.27,12,No,No,Food,257,205,0
+59.7,14,No,Yes,Retail,288,195,0
+192.89,18,Yes,No,Travel,140,62,0
+101.81,8,No,No,Digital Services,284,17,0
+98.81,17,Yes,No,Food,114,225,0
+269.44,10,No,No,Travel,294,190,0
+246.61,16,Yes,No,Food,219,211,0
+74.25,23,Yes,No,Retail,21,111,0
+235.18,13,Yes,No,Retail,113,80,0
+5213.33,20,Yes,No,Retail,170,211,1
+547.16,13,Yes,No,Digital Services,17,48,0
+200.76,18,Yes,No,Digital Services,68,25,0
+75.55,6,Yes,No,Travel,289,168,0
+109.81,6,Yes,No,Retail,215,113,0
+345.64,3,No,No,Electronics,307,148,0
+103.77,13,Yes,No,Food,221,70,0
+225.39,7,No,No,Retail,64,28,0
+195.58,22,Yes,No,Digital Services,15,123,0
+216.83,23,No,No,Electronics,9,85,0
+176.61,14,No,No,Food,277,218,0
+45.97,11,No,No,Food,53,120,0
+201.89,21,Yes,No,Retail,79,111,0
+332.87,15,No,No,Retail,15,127,0
+462.92,22,No,No,Digital Services,35,40,0
+79.6,16,Yes,No,Electronics,338,212,0
+82.89,19,No,Yes,Retail,223,178,0
+158.15,10,Yes,No,Electronics,223,231,0
+158.27,14,No,Yes,Retail,181,235,0
+180.62,23,No,No,Food,307,20,0
+26.26,18,No,No,Food,78,198,0
+282.67,16,No,Yes,Retail,115,77,0
+854.44,4,Yes,No,Retail,43,185,0
+259.56,13,Yes,No,Electronics,264,128,0
+267.62,16,No,No,Retail,240,86,0
+116.27,14,Yes,No,Electronics,23,55,0
+482.73,13,No,Yes,Food,60,236,0
+620.74,3,Yes,No,Retail,165,1,0
+242.62,2,Yes,Yes,Food,240,102,1
+549.62,6,Yes,No,Electronics,8,227,0
+48.46,9,Yes,No,Digital Services,336,104,0
+93.67,5,Yes,No,Food,341,51,0
+140.02,10,Yes,Yes,Retail,51,167,0
+42.63,6,Yes,Yes,Travel,143,15,0
+24.39,2,Yes,No,Electronics,131,13,0
+100.94,15,Yes,No,Retail,53,159,0
+68.66,5,Yes,No,Retail,0,167,0
+736.3,4,Yes,No,Food,264,72,0
+28.01,18,Yes,No,Retail,289,151,0
+274.68,17,No,No,Food,81,147,0
+125.91,12,No,Yes,Food,226,176,0
+335.73,10,No,No,Digital Services,347,30,0
+371.37,12,Yes,No,Retail,318,154,0
+135.38,1,Yes,Yes,Travel,335,151,1
+166.66,5,No,No,Retail,309,183,0
+268.14,13,No,No,Retail,165,139,0
+155.78,17,Yes,No,Retail,337,74,0
+146.98,23,Yes,No,Retail,348,20,0
+1151.21,18,Yes,No,Digital Services,68,43,0
+348.84,21,Yes,No,Travel,225,234,0
+161.93,14,No,No,Retail,68,102,0
+100.87,6,No,Yes,Food,337,55,0
+322.12,17,No,No,Travel,334,216,0
+333.09,9,Yes,No,Travel,14,155,0
+142.11,16,No,No,Digital Services,76,87,0
+63.02,22,No,No,Retail,198,13,0
+91.18,6,Yes,No,Food,133,222,0
+215.31,17,No,No,Digital Services,355,101,0
+156.29,16,Yes,No,Food,273,28,0
+69.97,16,Yes,No,Retail,131,104,0
+394.73,17,Yes,No,Digital Services,187,218,0
+318.34,22,No,No,Travel,40,116,0
+71.91,23,Yes,No,Electronics,106,59,0
+155.67,13,Yes,No,Travel,254,139,0
+118.55,8,Yes,Yes,Digital Services,225,224,0
+300.82,22,Yes,No,Travel,153,201,0
+82.84,10,Yes,No,Digital Services,70,215,0
+384.81,3,No,No,Electronics,69,160,0
+138.23,15,Yes,Yes,Travel,310,38,0
+193.53,20,Yes,No,Food,116,178,0
+117.27,22,Yes,No,Retail,249,156,0
+2150.03,15,Yes,No,Food,309,126,0
+361.59,17,No,Yes,Electronics,175,54,0
+103.6,0,Yes,No,Food,99,6,0
+518.51,1,No,No,Digital Services,363,106,0
+64.57,2,No,No,Digital Services,88,85,0
+170.93,4,Yes,No,Retail,310,164,0
+192.44,20,Yes,No,Electronics,89,238,0
+341.58,12,Yes,No,Electronics,248,34,0
+509.93,7,Yes,No,Digital Services,303,165,1
+257.83,20,Yes,No,Retail,292,76,0
+763.52,12,Yes,No,Food,182,165,0
+687.27,18,No,No,Digital Services,262,114,0
+201.74,20,Yes,No,Food,323,181,0
+165.31,4,No,No,Digital Services,227,125,0
+465.99,18,Yes,No,Food,207,43,0
+63.6,14,No,No,Electronics,265,224,0
+172.57,16,Yes,No,Retail,69,205,0
+197.09,12,Yes,No,Retail,136,188,0
+854.77,5,Yes,No,Retail,157,111,0
+118.18,17,No,No,Travel,140,230,0
+221.27,1,Yes,No,Food,113,215,0
+149.39,5,No,No,Food,342,126,0
+57.95,13,Yes,No,Food,328,116,0
+625.05,19,Yes,No,Digital Services,261,198,0
+378.51,16,No,Yes,Retail,213,65,0
+203.92,8,Yes,Yes,Food,335,51,0
+15.8,16,No,No,Digital Services,86,105,0
+580.38,2,Yes,No,Retail,322,214,0
+496.4,14,No,No,Retail,13,78,0
+267.59,21,Yes,No,Retail,197,70,0
+102.74,6,Yes,No,Retail,208,98,0
+141.65,7,Yes,Yes,Food,2,113,1
+580.95,5,Yes,No,Electronics,364,173,0
+149.53,4,Yes,No,Electronics,343,222,0
+209.49,6,Yes,No,Retail,353,31,0
+145.01,1,Yes,No,Electronics,162,231,0
+23.15,21,Yes,No,Retail,156,64,0
+40.88,15,Yes,Yes,Food,293,139,0
+77.63,12,Yes,No,Digital Services,46,68,0
+96.45,13,No,No,Electronics,146,190,1
+861.5,1,Yes,Yes,Retail,74,73,1
+281.99,2,Yes,No,Retail,203,103,0
+113.5,6,No,No,Travel,206,213,0
+385.16,16,Yes,No,Travel,140,30,0
+268.31,12,No,No,Retail,210,68,0
+62.73,6,Yes,No,Retail,253,39,0
+236.7,5,Yes,No,Food,337,139,0
+147.22,13,Yes,No,Digital Services,207,29,0
+91.96,17,No,No,Electronics,171,33,0
+1164.34,14,Yes,No,Electronics,344,193,0
+169.75,18,Yes,No,Retail,143,30,0
+229.87,21,Yes,No,Digital Services,139,96,0
+294.07,5,Yes,No,Retail,260,207,0
+42.08,6,Yes,No,Retail,169,108,0
+440.39,2,Yes,No,Travel,0,80,0
+316.96,6,Yes,No,Retail,263,4,0
+58.89,20,Yes,Yes,Travel,251,217,0
+85.72,11,Yes,No,Travel,122,69,0
+321.88,23,No,No,Digital Services,206,30,0
+2342.71,10,No,Yes,Retail,313,184,0
+21.32,13,Yes,No,Retail,89,224,1
+544.27,3,Yes,Yes,Digital Services,69,103,1
+386.85,14,Yes,No,Travel,272,39,0
+285.08,19,Yes,No,Digital Services,141,126,0
+116.61,11,No,Yes,Digital Services,57,60,0
+74.85,9,Yes,Yes,Food,134,28,0
+36.89,21,Yes,Yes,Retail,266,95,0
+127.69,20,Yes,No,Food,137,82,0
+207.33,15,Yes,No,Retail,297,181,0
+100.68,0,Yes,No,Food,234,43,0
+337.12,20,No,No,Food,183,53,0
+18.62,19,Yes,No,Retail,216,223,0
+238.65,9,No,No,Digital Services,35,6,0
+128.07,3,No,Yes,Electronics,120,110,0
+78.5,3,Yes,No,Retail,351,137,0
+217.31,6,No,No,Digital Services,114,81,0
+1018.32,6,Yes,No,Travel,327,211,0
+170.9,11,No,No,Retail,330,21,0
+37.98,5,Yes,No,Retail,95,132,0
+98.66,3,Yes,No,Digital Services,1,46,0
+645.24,12,Yes,No,Food,304,95,0
+219.38,14,Yes,No,Retail,164,96,0
+170.4,1,Yes,No,Retail,112,162,0
+241.83,14,Yes,No,Travel,99,235,0
+181.31,14,Yes,No,Digital Services,218,77,0
+177.88,6,No,No,Retail,248,128,0
+150.97,6,No,No,Digital Services,264,28,0
+992.3,10,Yes,No,Retail,135,137,0
+177.64,17,Yes,No,Digital Services,173,55,0
+301.98,9,Yes,No,Electronics,123,93,0
+81.24,20,No,No,Food,265,76,0
+124.73,2,Yes,No,Food,115,211,0
+165.84,4,Yes,No,Food,234,125,0
+738.06,7,No,No,Retail,202,197,0
+360.83,13,No,No,Travel,221,16,0
+65.43,7,Yes,No,Food,331,115,0
+517.69,6,Yes,No,Retail,276,196,0
+269.16,13,Yes,No,Digital Services,217,26,0
+149.04,9,Yes,No,Food,271,131,0
+449.74,0,Yes,No,Electronics,108,231,0
+147.14,17,No,No,Retail,335,33,0
+127.55,4,Yes,Yes,Electronics,270,220,1
+81.71,17,No,No,Retail,82,113,0
+219.28,10,Yes,No,Retail,125,187,0
+196.81,1,Yes,No,Retail,136,9,0
+272.43,21,Yes,No,Electronics,75,176,0
+50.21,18,No,No,Retail,194,134,0
+323.45,21,No,No,Retail,183,237,0
+168.56,12,No,No,Electronics,305,208,0
+31.61,1,Yes,No,Digital Services,134,195,0
+268.23,2,No,Yes,Digital Services,346,74,0
+1364.42,3,No,No,Digital Services,212,21,0
+101.46,7,No,No,Digital Services,131,210,0
+113.24,10,Yes,No,Retail,223,81,0
+104.3,7,No,No,Travel,60,221,0
+89.27,14,Yes,No,Travel,64,49,0
+53.37,5,Yes,No,Electronics,158,92,0
+198.9,22,Yes,Yes,Travel,50,128,0
+93.71,23,Yes,Yes,Retail,329,30,0
+92.95,17,No,Yes,Electronics,349,21,0
+129.22,18,Yes,No,Retail,144,97,0
+135.33,1,Yes,No,Retail,47,115,0
+335.77,21,Yes,No,Retail,135,98,0
+908.4,23,No,Yes,Retail,189,225,0
+944.23,15,Yes,Yes,Food,339,216,0
+273.93,1,Yes,No,Electronics,322,90,0
+62.47,9,No,No,Food,138,164,0
+673.38,22,Yes,No,Food,59,110,0
+79.35,2,No,No,Digital Services,172,175,0
+110.57,21,No,No,Retail,363,100,0
+198.11,1,Yes,No,Electronics,24,220,0
+285.26,20,No,No,Retail,69,221,0
+116.57,12,No,No,Food,19,210,0
+105.73,13,Yes,No,Retail,182,138,0
+42.45,22,Yes,No,Digital Services,267,146,0
+60.9,18,Yes,No,Food,185,161,0
+189.45,7,Yes,No,Retail,71,56,0
+70.63,23,Yes,No,Electronics,299,120,0
+156.32,3,Yes,No,Digital Services,321,82,0
+495.95,10,Yes,No,Electronics,259,217,0
+73.09,8,No,No,Retail,239,10,0
+66.66,2,No,Yes,Retail,225,94,0
+42.77,18,Yes,No,Retail,330,178,0
+272.45,9,No,Yes,Digital Services,178,111,0
+87.18,19,No,No,Digital Services,187,34,0
+389.39,7,Yes,Yes,Food,10,186,0
+23.12,19,No,No,Retail,94,7,0
+202.84,1,No,No,Digital Services,332,124,0
+2481.93,11,Yes,No,Digital Services,129,103,0
+51.58,23,No,No,Retail,138,222,0
+25.92,13,No,No,Digital Services,325,21,0
+84.75,11,Yes,Yes,Retail,82,229,0
+847.61,10,Yes,No,Retail,259,60,0
+84.3,0,Yes,No,Food,203,168,0
+124.37,5,No,No,Retail,187,177,0
+419.16,16,No,No,Retail,32,236,0
+103.83,10,Yes,No,Retail,250,55,0
+68.48,1,Yes,No,Retail,48,147,0
+148.16,0,Yes,No,Food,116,156,0
+433.3,20,No,No,Electronics,70,143,1
+236.51,22,Yes,No,Electronics,351,193,0
+146.35,2,No,No,Electronics,201,223,0
+135.2,5,Yes,No,Travel,187,151,0
+196.83,4,Yes,No,Digital Services,87,171,0
+47.68,6,Yes,No,Electronics,241,3,0
+278.8,8,Yes,Yes,Food,4,4,1
+117.58,2,Yes,No,Retail,149,62,0
+96.17,3,Yes,No,Digital Services,210,7,0
+253.85,1,No,No,Digital Services,360,98,0
+87.97,2,No,No,Electronics,319,176,0
+72.46,16,No,No,Electronics,266,121,0
+61.34,10,Yes,No,Food,37,12,0
+49.2,5,No,No,Food,46,20,0
+60.01,5,Yes,No,Food,200,3,0
+242.11,12,No,No,Food,329,25,0
+464.3,15,No,No,Travel,59,181,0
+632.05,4,Yes,Yes,Retail,18,150,1
+108.55,10,Yes,No,Retail,34,47,0
+82.73,5,Yes,Yes,Travel,264,180,0
+354.13,0,Yes,No,Food,118,222,0
+1868.75,0,Yes,No,Digital Services,251,191,1
+467.2,3,Yes,No,Food,259,63,0
+114.2,18,Yes,No,Food,36,148,0
+291.51,18,No,No,Food,27,138,0
+80.1,6,Yes,No,Digital Services,240,180,0
+35.9,11,No,No,Electronics,167,221,0
+113.23,16,Yes,No,Retail,301,186,0
+302.78,14,No,No,Digital Services,334,189,0
+383.1,0,No,No,Retail,137,179,0
+171.67,2,Yes,Yes,Electronics,318,39,1
+291.05,14,Yes,No,Electronics,117,6,0
+14.65,19,Yes,No,Retail,259,126,0
+179.46,5,Yes,No,Travel,170,178,0
+241.98,21,Yes,No,Retail,262,51,0
+29.4,11,Yes,No,Electronics,54,189,0
+115.93,11,Yes,No,Food,224,198,0
+188.75,2,No,No,Digital Services,138,125,0
+68.71,9,Yes,No,Travel,104,150,0
+35.9,1,No,No,Retail,4,17,0
+201.53,18,No,No,Digital Services,311,80,0
+598.05,15,Yes,No,Digital Services,215,159,0
+496.46,9,Yes,No,Electronics,209,52,0
+70.46,18,Yes,No,Retail,297,97,0
+119.09,1,Yes,No,Travel,138,107,0
+359.11,14,Yes,No,Retail,241,156,0
+52.14,5,Yes,No,Retail,283,177,0
+206.06,20,Yes,No,Food,98,47,0
+433.74,11,Yes,No,Digital Services,44,95,0
+278.94,0,Yes,No,Retail,269,172,0
+198.2,16,Yes,No,Electronics,197,146,0
+465.86,4,No,No,Digital Services,192,178,0
+34.5,4,Yes,No,Retail,95,48,0
+366.7,23,Yes,No,Digital Services,236,15,0
+286.07,2,Yes,No,Travel,310,17,0
+230.61,23,No,No,Food,27,115,0
+106.6,3,Yes,No,Food,191,123,0
+1085.2,3,Yes,No,Travel,306,156,0
+235.21,10,Yes,No,Food,136,226,0
+70.52,0,Yes,No,Digital Services,73,200,0
+87.84,4,Yes,No,Digital Services,246,32,0
+287.21,6,Yes,Yes,Digital Services,302,216,0
+107.01,2,Yes,No,Electronics,35,106,0
+13.16,1,No,No,Retail,75,10,0
+103.0,10,No,Yes,Travel,289,206,0
+690.44,0,Yes,No,Retail,140,94,0
+54.42,7,No,No,Retail,212,18,0
+220.27,22,Yes,No,Electronics,121,153,0
+22.21,22,No,No,Food,263,235,0
+1071.36,15,Yes,Yes,Digital Services,19,12,1
+65.38,13,No,No,Retail,34,193,0
+590.76,9,No,No,Retail,330,159,0
+267.78,19,Yes,No,Electronics,154,126,0
+116.88,23,Yes,No,Retail,342,95,0
+285.51,1,Yes,Yes,Retail,185,43,1
+46.89,21,No,No,Food,307,186,0
+90.33,0,No,Yes,Travel,309,71,0
+53.41,21,Yes,No,Food,362,35,0
+117.18,13,Yes,No,Food,37,165,0
+221.86,11,Yes,No,Digital Services,195,106,0
+325.96,1,No,No,Digital Services,128,156,0
+101.96,11,Yes,No,Digital Services,181,124,0
+41.65,21,Yes,No,Retail,273,144,0
+246.49,9,Yes,No,Digital Services,174,73,0
+33.17,4,No,No,Electronics,103,53,0
+176.25,20,Yes,No,Retail,39,128,0
+493.28,22,Yes,No,Electronics,215,137,0
+249.1,12,No,No,Retail,7,102,0
+217.0,22,No,No,Digital Services,267,2,0
+140.61,17,Yes,No,Digital Services,290,146,0
+117.16,13,Yes,No,Travel,344,177,0
+84.59,21,Yes,Yes,Retail,126,198,0
+320.01,15,No,No,Retail,48,62,0
+206.22,17,No,No,Travel,87,78,0
+224.82,0,Yes,No,Retail,207,77,0
+71.66,0,Yes,No,Digital Services,270,166,0
+139.43,9,Yes,No,Retail,257,70,0
+292.3,9,Yes,Yes,Electronics,229,229,0
+72.04,17,Yes,No,Retail,348,85,0
+63.46,10,No,No,Food,240,5,0
+70.58,18,Yes,No,Electronics,322,30,0
+357.88,4,Yes,No,Food,261,203,0
+286.37,12,Yes,No,Digital Services,125,189,0
+812.29,7,Yes,Yes,Food,154,227,0
+106.25,23,Yes,No,Digital Services,194,164,0
+82.4,6,Yes,No,Electronics,140,198,0
+73.35,5,Yes,No,Food,177,231,0
+54.09,15,No,No,Electronics,55,80,0
+247.35,4,Yes,No,Food,63,106,1
+212.27,21,No,No,Food,265,122,0
+263.65,14,Yes,No,Retail,341,137,0
+73.57,14,Yes,No,Food,159,69,0
+51.68,20,Yes,No,Digital Services,96,110,0
+86.48,2,Yes,No,Electronics,330,125,0
+8.46,20,Yes,No,Retail,216,157,0
+109.86,23,Yes,No,Food,281,161,0
+154.22,17,Yes,No,Electronics,164,160,0
+187.23,22,Yes,No,Food,66,160,0
+137.04,8,Yes,No,Food,315,16,0
+407.34,5,Yes,No,Travel,149,181,0
+34.49,17,Yes,No,Electronics,258,51,0
+259.99,16,Yes,No,Food,159,140,0
+278.39,14,Yes,No,Retail,305,70,0
+186.11,4,Yes,No,Food,215,10,0
+61.41,11,Yes,No,Retail,248,3,0
+136.99,18,Yes,No,Electronics,65,50,0
+339.82,14,No,No,Digital Services,3,149,0
+13.58,7,No,No,Travel,199,148,0
+67.39,6,No,No,Food,177,138,0
+352.35,9,Yes,No,Food,21,216,0
+217.73,4,Yes,No,Travel,274,148,0
+112.34,17,Yes,No,Travel,61,148,0
+1922.13,2,Yes,No,Digital Services,187,57,1
+21.33,9,Yes,No,Electronics,344,89,0
+195.06,17,Yes,No,Electronics,130,44,0
+139.68,12,Yes,No,Travel,47,189,0
+59.1,7,No,No,Digital Services,363,169,0
+333.59,23,No,No,Food,63,76,0
+282.63,11,Yes,No,Electronics,104,5,0
+144.06,5,Yes,No,Digital Services,28,229,0
+443.48,9,Yes,Yes,Food,79,201,0
+31.92,7,No,No,Retail,318,24,0
+295.01,2,Yes,No,Travel,252,213,0
+32.5,8,Yes,No,Electronics,143,182,0
+941.41,9,No,No,Electronics,47,148,0
+279.41,10,Yes,No,Travel,294,151,0
+40.0,5,Yes,No,Digital Services,9,110,0
+584.56,18,No,No,Food,189,189,0
+439.51,8,Yes,Yes,Food,176,220,0
+67.55,0,No,No,Retail,55,146,0
+464.31,14,No,No,Retail,13,73,0
+237.73,16,Yes,No,Digital Services,253,124,0
+14.79,11,Yes,No,Digital Services,82,67,0
+47.21,0,No,No,Travel,255,209,0
+284.91,22,Yes,Yes,Digital Services,242,131,0
+133.42,4,Yes,No,Electronics,216,62,0
+73.41,7,No,Yes,Food,187,172,0
+2399.64,1,No,No,Retail,12,66,0
+417.63,12,Yes,No,Retail,230,225,0
+64.49,4,No,No,Digital Services,26,181,0
+221.47,0,No,No,Digital Services,290,183,0
+119.11,23,Yes,No,Digital Services,207,217,0
+856.29,20,Yes,No,Food,50,102,0
+176.16,17,Yes,No,Electronics,89,130,0
+187.87,19,Yes,No,Retail,143,119,0
+512.4,19,Yes,No,Digital Services,351,185,0
+536.8,2,Yes,No,Retail,312,6,0
+58.09,22,Yes,No,Electronics,161,64,0
+210.1,10,No,No,Retail,355,12,0
+425.58,16,Yes,No,Food,42,101,0
+384.34,2,Yes,No,Digital Services,358,79,0
+436.41,6,No,No,Food,37,199,0
+26.05,3,Yes,Yes,Food,7,43,1
+43.44,23,Yes,No,Retail,25,38,0
+71.32,8,Yes,Yes,Food,260,143,0
+50.76,15,No,No,Retail,216,229,0
+535.42,7,Yes,Yes,Digital Services,268,16,0
+34.56,23,Yes,No,Food,8,10,0
+28.84,10,Yes,No,Food,161,153,0
+297.81,23,Yes,No,Retail,139,100,0
+27.08,2,Yes,No,Electronics,325,2,1
+258.96,23,Yes,No,Travel,44,18,0
+85.2,16,Yes,No,Electronics,119,129,1
+195.45,6,Yes,No,Travel,249,46,0
+228.54,19,Yes,Yes,Electronics,280,228,0
+376.35,0,No,No,Digital Services,7,175,0
+63.19,0,Yes,No,Retail,207,201,0
+152.94,4,Yes,No,Food,279,192,0
+122.7,7,No,No,Food,26,96,0
+140.41,8,No,No,Retail,207,174,0
+868.71,17,Yes,Yes,Travel,76,156,0
+204.69,17,Yes,No,Electronics,316,228,0
+109.76,11,No,No,Digital Services,311,192,0
+58.46,4,Yes,No,Retail,38,181,0
+3756.6,12,Yes,Yes,Retail,266,194,1
+170.65,7,Yes,No,Travel,159,42,0
+343.98,23,Yes,No,Food,148,84,0
+100.69,6,No,Yes,Retail,119,77,0
+684.47,9,Yes,No,Retail,10,234,0
+38.81,16,Yes,No,Electronics,164,141,0
+107.78,18,Yes,No,Retail,20,36,0
+1103.57,15,No,No,Food,54,222,0
+424.42,9,No,Yes,Travel,308,135,0
+106.8,14,No,No,Retail,274,16,0
+286.15,16,No,No,Retail,133,41,0
+529.59,22,No,Yes,Food,234,7,0
+922.7,5,No,No,Retail,345,182,0
+256.24,13,No,No,Digital Services,131,126,0
+333.27,9,No,No,Retail,92,27,0
+156.86,9,Yes,No,Retail,282,148,0
+128.85,8,Yes,No,Retail,3,110,0
+59.88,2,Yes,No,Food,248,2,0
+107.16,9,No,Yes,Food,296,210,0
+132.28,15,Yes,No,Electronics,165,85,0
+482.27,8,No,No,Retail,266,12,0
+34.4,23,Yes,No,Travel,0,121,0
+90.6,21,Yes,No,Food,277,57,0
+71.87,3,No,No,Electronics,239,182,0
+29.53,14,No,No,Retail,39,82,0
+77.91,18,Yes,No,Food,360,33,0
+119.17,22,No,No,Digital Services,258,164,0
+50.37,0,No,No,Electronics,236,100,0
+84.35,9,Yes,No,Digital Services,20,104,0
+332.16,9,Yes,Yes,Travel,358,179,0
+517.96,18,Yes,No,Electronics,50,80,0
+35.11,19,Yes,No,Retail,206,140,0
+215.81,6,Yes,No,Retail,24,231,0
+282.28,1,Yes,No,Electronics,264,42,0
+13.7,2,No,No,Retail,348,110,0
+187.73,9,Yes,No,Food,74,187,0
+197.18,16,Yes,No,Retail,168,59,0
+107.51,21,Yes,No,Travel,74,204,0
+647.51,17,No,No,Retail,94,6,0
+260.21,16,Yes,No,Food,139,130,0
+98.16,14,No,No,Electronics,298,224,0
+152.23,18,Yes,No,Retail,36,4,0
+51.55,12,No,No,Food,212,183,0
+122.44,9,Yes,No,Travel,325,79,0
+223.87,10,Yes,No,Retail,315,49,0
+31.78,13,No,No,Retail,225,15,0
+37.45,7,Yes,No,Electronics,284,206,0
+27.29,18,Yes,Yes,Retail,97,202,0
+827.63,10,Yes,Yes,Food,128,18,0
+91.39,13,No,No,Electronics,178,239,0
+1288.71,10,Yes,No,Retail,41,84,0
+1284.69,15,No,Yes,Digital Services,206,206,0
+314.81,16,No,No,Retail,311,89,0
+43.31,11,No,No,Food,284,209,0
+131.58,18,No,No,Food,193,135,0
+86.91,12,No,No,Electronics,164,171,1
+334.58,1,Yes,No,Food,193,114,0
+676.82,5,Yes,No,Digital Services,11,130,0
+307.41,22,No,No,Travel,125,135,0
+161.96,18,Yes,No,Electronics,134,161,0
+174.84,4,Yes,No,Food,5,93,0
+26.69,23,Yes,No,Digital Services,7,184,0
+115.46,19,No,No,Retail,323,122,0
+91.29,1,Yes,No,Electronics,272,4,1
+67.5,18,Yes,Yes,Electronics,84,115,0
+865.79,10,No,No,Retail,296,165,0
+176.03,0,Yes,No,Retail,34,188,0
+106.79,8,No,No,Retail,299,48,0
+1433.08,14,No,No,Food,129,5,0
+1004.07,7,Yes,No,Food,41,155,0
+3095.58,22,Yes,No,Retail,101,164,0
+1367.18,3,Yes,No,Digital Services,235,75,0
+20.56,11,Yes,No,Travel,101,231,0
+139.02,5,No,No,Food,72,209,0
+195.49,1,Yes,No,Food,191,177,0
+53.31,5,Yes,No,Digital Services,252,50,0
+1165.29,13,Yes,No,Electronics,238,171,0
+151.14,6,No,Yes,Retail,116,11,0
+101.44,23,No,No,Electronics,298,48,0
+77.97,23,No,No,Travel,255,72,0
+62.2,15,No,No,Retail,108,66,0
+197.28,15,Yes,Yes,Food,65,136,0
+301.32,0,No,No,Digital Services,211,161,0
+63.66,23,Yes,No,Food,23,52,0
+130.88,5,No,No,Travel,183,130,0
+407.39,11,Yes,Yes,Food,11,121,0
+67.74,22,Yes,No,Retail,208,184,0
+71.34,18,No,Yes,Travel,109,168,0
+540.98,15,No,Yes,Retail,27,161,0
+84.85,14,No,No,Digital Services,97,145,0
+27.04,0,No,No,Retail,355,157,0
+235.82,16,No,No,Travel,271,166,0
+96.46,17,Yes,Yes,Food,121,31,1
+1258.2,11,Yes,No,Food,235,192,0
+44.51,11,Yes,No,Digital Services,351,190,0
+598.69,18,No,No,Retail,75,65,0
+80.96,20,Yes,No,Food,335,209,0
+84.58,20,Yes,No,Electronics,162,81,0
+292.6,11,Yes,No,Retail,311,21,0
+223.73,18,No,No,Travel,336,108,0
+121.01,10,Yes,No,Retail,176,20,0
+628.94,16,No,No,Food,171,67,0
+39.31,3,Yes,No,Electronics,26,102,0
+393.78,20,Yes,No,Travel,17,85,0
+51.28,7,No,No,Digital Services,262,3,0
+34.56,8,No,No,Digital Services,346,113,0
+1099.12,23,No,No,Electronics,352,23,0
+417.06,14,Yes,No,Digital Services,112,44,0
+78.0,14,Yes,No,Retail,330,162,0
+58.46,16,Yes,No,Retail,176,204,0
+77.02,7,Yes,Yes,Food,1,28,0
+169.49,0,Yes,No,Travel,123,3,0
+1849.15,1,Yes,No,Retail,100,126,0
+153.33,23,Yes,No,Digital Services,93,225,1
+50.36,15,Yes,No,Food,148,61,0
+434.05,3,No,No,Retail,203,75,0
+248.25,1,No,No,Food,269,75,0
+108.18,3,Yes,No,Food,51,238,0
+34.63,15,Yes,No,Retail,225,147,0
+94.75,21,Yes,No,Travel,130,194,0
+185.54,19,No,No,Electronics,152,77,0
+86.27,20,Yes,No,Retail,48,142,0
+75.72,11,Yes,No,Electronics,310,230,0
+173.2,11,No,No,Food,88,106,0
+103.34,1,No,No,Digital Services,70,108,0
+307.11,16,No,No,Retail,107,40,0
+189.72,16,No,No,Retail,353,148,0
+447.23,8,No,No,Retail,308,22,0
+239.15,17,No,No,Retail,15,108,0
+1187.78,4,No,Yes,Electronics,105,133,1
+186.56,5,No,No,Food,331,152,0
+318.48,10,Yes,No,Electronics,55,179,0
+154.76,2,Yes,No,Food,133,92,0
+576.15,10,No,No,Electronics,136,71,0
+104.65,21,Yes,Yes,Food,239,112,0
+122.22,18,No,No,Retail,253,221,0
+1486.7,3,Yes,No,Electronics,159,79,0
+391.86,12,Yes,Yes,Retail,226,4,1
+266.33,11,Yes,No,Retail,13,145,0
+283.03,7,Yes,No,Electronics,81,92,0
+338.49,21,Yes,No,Digital Services,24,220,0
+342.58,16,Yes,Yes,Electronics,47,28,0
+57.64,17,Yes,No,Retail,208,129,0
+62.29,9,No,No,Food,254,47,0
+73.24,19,No,No,Electronics,50,231,0
+17.54,4,Yes,No,Retail,202,102,0
+425.73,13,Yes,No,Digital Services,205,183,0
+173.09,7,Yes,No,Retail,229,191,0
+509.19,8,Yes,No,Digital Services,231,63,0
+83.02,11,Yes,No,Digital Services,357,197,0
+79.33,3,Yes,No,Retail,2,146,0
+99.11,18,Yes,No,Retail,207,232,0
+178.19,11,Yes,No,Electronics,260,63,0
+246.23,17,Yes,No,Electronics,295,144,0
+168.06,2,Yes,No,Electronics,273,187,0
+181.72,11,Yes,No,Retail,348,123,0
+112.1,6,No,No,Food,146,76,0
+234.52,19,Yes,Yes,Retail,156,51,0
+180.77,8,Yes,No,Retail,56,14,0
+63.31,1,Yes,No,Retail,55,40,0
+1099.12,14,No,No,Electronics,25,124,0
+106.24,4,No,No,Travel,271,49,0
+924.85,20,Yes,No,Retail,214,102,0
+280.83,12,No,No,Electronics,323,18,0
+164.58,17,Yes,Yes,Retail,119,154,0
+146.66,13,Yes,No,Travel,29,107,0
+163.25,22,Yes,No,Retail,133,125,0
+82.33,17,Yes,No,Food,283,237,0
+40.08,18,No,No,Travel,242,204,0
+94.4,5,Yes,No,Electronics,35,5,0
+42.25,16,Yes,No,Retail,22,166,0
+128.93,0,Yes,No,Travel,275,92,0
+122.22,19,Yes,No,Digital Services,9,172,0
+759.0,23,Yes,No,Food,187,26,0
+38.18,13,No,No,Retail,113,224,0
+216.97,11,Yes,No,Retail,303,178,0
+57.12,6,Yes,No,Retail,195,91,0
+303.67,8,Yes,No,Retail,339,146,0
+137.17,1,Yes,No,Electronics,0,201,0
+81.71,12,Yes,No,Retail,91,73,0
+77.38,19,No,No,Electronics,253,218,0
+215.8,4,No,No,Retail,1,60,0
+329.98,19,Yes,No,Retail,358,19,0
+13.67,20,Yes,No,Retail,39,52,0
+460.43,21,No,No,Retail,98,90,0
+187.25,9,Yes,No,Food,86,190,0
+49.88,4,No,No,Digital Services,199,111,0
+638.38,10,Yes,Yes,Retail,205,175,0
+34.47,3,Yes,No,Digital Services,342,123,0
+208.33,12,Yes,No,Digital Services,72,185,0
+615.06,3,Yes,Yes,Retail,163,90,1
+73.44,20,Yes,No,Travel,190,137,0
+725.14,3,No,Yes,Digital Services,232,140,1
+33.26,16,Yes,Yes,Digital Services,202,186,0
+36.81,9,No,No,Food,25,46,0
+160.06,5,Yes,No,Travel,235,22,0
+179.32,2,Yes,No,Food,179,114,0
+408.71,19,Yes,No,Retail,312,32,0
+267.5,8,Yes,Yes,Digital Services,178,36,0
+169.32,12,Yes,No,Digital Services,258,4,0
+49.71,5,Yes,No,Travel,99,107,0
+102.63,5,Yes,No,Food,267,203,0
+85.66,22,No,No,Retail,278,67,0
+15.1,23,Yes,No,Food,191,106,0
+90.44,11,Yes,No,Electronics,183,159,0
+198.63,13,Yes,No,Food,65,115,0
+141.27,18,Yes,No,Retail,232,231,0
+171.63,0,No,No,Electronics,134,156,0
+448.57,15,No,No,Retail,319,27,0
+100.11,11,Yes,No,Travel,101,107,0
+325.96,0,Yes,No,Food,145,161,0
+85.92,13,No,Yes,Retail,122,212,0
+151.06,16,No,No,Food,303,6,0
+91.62,2,Yes,No,Travel,267,4,0
+99.87,7,Yes,No,Travel,184,82,0
+70.79,7,No,No,Retail,132,62,0
+414.85,5,Yes,No,Electronics,354,127,0
+271.55,10,Yes,No,Electronics,93,72,0
+31.77,1,No,No,Food,277,188,0
+86.54,18,Yes,No,Electronics,220,207,0
+539.14,15,Yes,No,Food,89,177,0
+82.59,6,Yes,No,Retail,190,209,0
+80.62,23,No,No,Food,79,194,0
+272.72,13,Yes,No,Electronics,10,169,0
+265.43,15,Yes,No,Digital Services,256,197,0
+276.1,3,No,Yes,Travel,301,153,0
+349.25,4,No,No,Travel,110,228,0
+46.45,4,Yes,No,Retail,329,3,0
+314.32,5,Yes,No,Digital Services,288,197,1
+32.22,3,No,No,Digital Services,107,168,0
+356.15,8,No,Yes,Travel,51,133,0
+212.45,7,Yes,No,Retail,164,99,0
+527.95,18,Yes,No,Digital Services,6,218,0
+216.79,21,Yes,No,Food,343,71,0
+216.69,12,Yes,No,Food,62,89,0
+1188.14,2,Yes,No,Digital Services,139,228,0
+33.6,14,No,No,Retail,195,233,0
+1509.98,4,No,No,Travel,121,14,0
+31.01,17,Yes,No,Retail,219,160,0
+1248.0,22,No,No,Retail,333,25,0
+361.04,11,Yes,No,Retail,243,77,0
+53.09,2,No,No,Travel,354,155,0
+468.54,3,Yes,No,Travel,104,120,0
+254.79,23,Yes,No,Travel,13,238,0
+51.35,18,No,No,Travel,362,14,0
+268.36,6,Yes,No,Retail,40,48,0
+22.9,13,Yes,No,Retail,291,87,0
+31.83,15,Yes,No,Digital Services,320,234,0
+194.74,7,Yes,No,Food,70,106,1
+234.04,15,Yes,No,Electronics,308,155,1
+49.19,10,No,No,Digital Services,32,206,0
+258.94,8,Yes,No,Digital Services,227,192,0
+76.37,16,Yes,No,Digital Services,362,155,0
+270.54,3,Yes,No,Retail,72,59,0
+595.77,6,Yes,Yes,Food,364,118,0
+598.87,20,Yes,No,Food,217,154,0
+15.5,6,Yes,Yes,Travel,216,123,0
+860.82,17,No,No,Electronics,233,231,0
+103.17,11,Yes,No,Food,116,127,0
+875.43,20,Yes,No,Digital Services,267,164,0
+352.75,11,No,No,Food,305,38,0
+318.62,12,Yes,No,Retail,363,100,0
+41.5,5,Yes,No,Food,125,120,0
+813.35,19,Yes,Yes,Retail,310,81,0
+238.09,21,Yes,Yes,Travel,327,142,0
+264.6,20,No,No,Food,129,103,0
+227.27,12,No,No,Retail,202,105,0
+66.99,8,No,No,Retail,100,183,0
+73.55,10,Yes,No,Retail,232,180,0
+117.1,17,Yes,No,Digital Services,38,179,0
+269.88,9,No,Yes,Retail,35,140,0
+35.91,1,Yes,No,Electronics,143,190,0
+237.71,15,Yes,No,Digital Services,79,63,0
+1823.77,3,No,No,Digital Services,186,59,0
+159.01,19,Yes,No,Digital Services,102,186,0
+121.75,16,No,No,Food,205,222,0
+593.09,17,No,No,Retail,83,5,0
+52.64,3,Yes,Yes,Food,39,10,1
+54.75,17,No,No,Electronics,144,13,0
+187.13,21,Yes,No,Food,193,76,0
+547.47,10,Yes,No,Food,126,95,0
+32.22,14,Yes,No,Electronics,242,176,0
+504.86,18,No,No,Retail,54,140,0
+55.04,0,No,No,Retail,256,152,0
+115.61,20,Yes,No,Food,262,236,0
+333.86,22,Yes,No,Electronics,317,155,0
+172.96,17,No,No,Food,347,204,0
+154.76,13,Yes,No,Digital Services,145,143,0
+24.81,7,Yes,Yes,Retail,233,55,0
+236.96,11,Yes,No,Digital Services,16,183,0
+317.5,3,Yes,No,Digital Services,143,7,0
+123.33,13,Yes,No,Electronics,252,78,0
+66.66,23,Yes,No,Electronics,58,82,0
+103.1,18,Yes,No,Retail,192,231,0
+178.64,16,Yes,No,Digital Services,147,55,0
+88.8,13,Yes,No,Retail,154,36,0
+935.14,1,No,No,Digital Services,251,203,0
+1384.36,1,Yes,No,Retail,124,9,0
+16.36,15,Yes,No,Travel,123,237,0
+302.99,9,No,No,Retail,17,204,0
+46.09,8,Yes,No,Retail,76,157,0
+123.62,22,Yes,No,Retail,274,89,0
+242.29,11,Yes,No,Digital Services,199,192,0
+155.86,13,Yes,No,Digital Services,242,223,0
+397.5,21,Yes,No,Digital Services,107,89,0
+98.08,0,Yes,No,Food,195,29,0
+588.61,2,No,Yes,Electronics,316,239,1
+263.03,17,Yes,No,Travel,249,137,0
+762.38,23,Yes,Yes,Electronics,38,188,0
+179.16,5,Yes,No,Retail,6,147,0
+96.62,17,Yes,No,Electronics,6,202,1
+551.55,2,No,No,Digital Services,89,83,0
+283.64,16,No,No,Retail,105,168,0
+95.93,19,Yes,No,Travel,306,183,0
+661.32,16,No,Yes,Retail,318,189,0
+183.96,8,No,No,Retail,250,41,0
+364.09,17,Yes,No,Electronics,340,141,0
+398.3,20,No,No,Digital Services,5,180,0
+140.55,11,Yes,No,Food,196,71,0
+110.83,17,Yes,No,Retail,258,124,0
+104.03,12,Yes,No,Retail,237,204,0
+122.34,3,Yes,No,Travel,343,47,0
+359.3,9,No,No,Food,323,201,0
+286.7,13,Yes,No,Electronics,198,156,0
+576.75,2,Yes,No,Food,35,117,1
+430.98,12,Yes,No,Digital Services,242,27,0
+114.28,0,Yes,No,Digital Services,157,97,0
+192.04,20,Yes,No,Food,347,49,0
+81.2,22,Yes,No,Retail,310,210,0
+55.25,13,Yes,Yes,Travel,330,224,0
+199.91,13,Yes,No,Travel,60,231,0
+165.4,11,Yes,No,Digital Services,354,218,0
+31.71,18,Yes,Yes,Retail,116,142,0
+152.71,0,Yes,Yes,Digital Services,318,4,1
+27.53,22,Yes,Yes,Electronics,134,74,0
+41.28,21,Yes,No,Retail,126,88,0
+1248.19,8,Yes,No,Travel,176,91,0
+649.64,9,No,No,Food,66,177,0
+34.11,19,Yes,No,Digital Services,64,173,0
+117.5,17,Yes,No,Digital Services,68,177,0
+764.75,12,Yes,No,Electronics,304,171,0
+167.1,12,Yes,No,Digital Services,164,208,0
+436.41,8,No,No,Food,261,156,0
+135.49,14,No,No,Retail,111,135,1
+246.28,6,No,No,Retail,231,181,0
+299.9,5,Yes,Yes,Electronics,277,118,0
+6.14,8,Yes,Yes,Retail,190,69,0
+182.49,0,Yes,No,Food,78,200,0
+365.02,4,No,No,Travel,3,170,0
+848.71,15,Yes,Yes,Digital Services,139,115,1
+931.84,9,Yes,No,Travel,0,142,0
+193.17,17,Yes,No,Electronics,259,140,0
+482.56,8,Yes,No,Retail,106,210,0
+22.97,10,Yes,No,Food,131,7,0
+47.0,23,Yes,No,Electronics,6,126,0
+9.32,16,Yes,No,Digital Services,62,232,0
+219.78,0,Yes,No,Electronics,352,170,0
+164.16,5,Yes,No,Digital Services,242,84,0
+15.82,21,Yes,No,Digital Services,84,123,0
+387.66,23,No,No,Digital Services,124,143,0
+479.72,9,Yes,No,Food,312,88,0
+693.81,10,Yes,No,Retail,202,56,0
+449.74,0,Yes,No,Food,219,94,0
+68.35,20,Yes,No,Food,259,108,0
+348.55,12,Yes,No,Electronics,102,1,0
+426.46,17,Yes,No,Food,288,7,0
+26.04,2,No,No,Retail,274,144,0
+30.59,21,Yes,No,Digital Services,267,177,0
+152.21,3,Yes,No,Digital Services,292,49,0
+1672.51,8,No,Yes,Food,5,92,0
+86.19,11,Yes,No,Electronics,147,155,0
+40.07,17,No,No,Food,137,175,0
+386.87,21,Yes,Yes,Food,293,32,0
+35.61,5,Yes,No,Retail,230,188,0
+496.46,2,No,No,Electronics,230,191,0
+106.2,22,Yes,No,Retail,112,165,0
+174.03,19,Yes,No,Retail,246,67,0
+32.53,5,No,No,Food,29,71,0
+55.83,6,No,No,Digital Services,70,222,0
+21.31,16,Yes,No,Food,165,92,0
+65.76,20,Yes,No,Retail,55,25,0
+67.59,23,No,No,Electronics,39,37,0
+1075.47,9,No,No,Food,239,237,0
+347.64,0,Yes,No,Digital Services,106,105,0
+215.05,12,No,No,Food,42,106,0
+74.45,5,No,No,Electronics,51,88,0
+82.31,22,Yes,No,Digital Services,269,5,0
+182.17,16,No,Yes,Digital Services,316,174,0
+42.85,13,Yes,No,Food,357,114,0
+355.85,16,Yes,No,Retail,50,125,0
+63.44,11,No,Yes,Retail,238,135,0
+85.63,15,Yes,No,Retail,108,169,0
+776.33,10,Yes,No,Retail,10,135,0
+365.27,0,No,No,Retail,274,133,0
+171.37,6,Yes,No,Retail,80,104,0
+474.01,14,Yes,Yes,Digital Services,255,142,0
+316.95,20,Yes,No,Travel,17,163,0
+460.99,23,Yes,No,Retail,186,131,0
+585.31,5,Yes,No,Food,303,218,0
+93.32,6,No,No,Electronics,179,204,0
+305.76,2,Yes,No,Retail,288,173,0
+121.0,17,Yes,No,Retail,156,174,1
+218.21,7,Yes,No,Retail,141,191,0
+59.29,8,Yes,No,Retail,345,12,0
+53.1,21,Yes,No,Food,85,142,0
+66.03,14,Yes,Yes,Retail,358,13,0
+685.65,3,No,No,Digital Services,103,159,0
+652.14,0,Yes,No,Food,250,66,0
+117.29,23,Yes,No,Retail,329,6,0
+99.13,22,No,No,Digital Services,101,83,0
+117.1,19,Yes,No,Travel,106,93,0
+404.82,22,Yes,No,Retail,280,200,0
+148.4,9,Yes,No,Retail,109,82,0
+13.98,2,No,No,Food,161,82,0
+423.99,8,Yes,No,Travel,239,180,0
+127.41,8,Yes,No,Retail,349,63,0
+179.68,23,Yes,No,Electronics,216,46,0
+338.0,13,Yes,Yes,Food,120,181,0
+109.11,16,Yes,No,Food,59,205,0
+95.15,5,Yes,No,Food,117,12,0
+301.9,15,Yes,No,Electronics,141,23,1
+776.36,1,Yes,Yes,Retail,363,97,1
+76.79,12,Yes,No,Electronics,316,194,0
+189.74,7,Yes,No,Retail,75,170,0
+183.21,3,Yes,Yes,Retail,145,209,1
+148.68,22,Yes,No,Food,63,237,1
+362.44,16,Yes,No,Electronics,247,197,0
+131.75,11,Yes,No,Retail,268,8,0
+52.71,5,Yes,No,Electronics,245,188,0
+45.37,18,Yes,No,Travel,302,164,0
+832.56,14,Yes,Yes,Food,294,84,0
+102.52,8,No,No,Retail,336,184,0
+140.4,3,Yes,No,Retail,289,109,0
+72.49,22,Yes,No,Travel,43,107,0
+827.24,5,Yes,No,Food,51,217,0
+382.75,0,Yes,No,Electronics,136,19,0
+172.92,14,No,No,Travel,282,135,0
+146.03,18,Yes,No,Retail,302,109,0
+291.68,0,No,No,Food,50,186,0
+27.26,17,Yes,No,Electronics,104,213,0
+189.67,11,Yes,No,Electronics,345,69,0
+96.37,10,Yes,No,Electronics,91,26,0
+536.15,23,Yes,No,Travel,291,238,0
+168.97,21,Yes,No,Food,275,143,0
+158.22,1,No,No,Electronics,157,30,0
+454.74,20,Yes,Yes,Food,363,12,0
+13.74,9,No,No,Retail,238,68,0
+92.82,13,Yes,No,Food,130,188,0
+75.95,16,Yes,No,Retail,358,75,0
+112.86,1,Yes,No,Retail,198,182,0
+180.01,20,No,No,Food,350,22,0
+91.38,22,No,No,Retail,15,177,0
+40.08,20,Yes,No,Food,76,187,0
+371.17,7,No,No,Travel,280,191,0
+74.8,7,No,No,Digital Services,275,163,0
+88.13,4,Yes,No,Digital Services,232,9,0
+444.15,11,Yes,No,Travel,94,65,0
+643.46,15,Yes,No,Food,346,99,0
+205.81,12,Yes,No,Electronics,12,206,0
+782.75,17,Yes,No,Retail,106,148,0
+423.52,23,Yes,No,Food,240,52,0
+88.64,18,Yes,No,Food,317,94,0
+92.6,13,Yes,No,Digital Services,263,110,0
+99.53,10,Yes,No,Food,274,173,0
+172.87,9,Yes,No,Food,108,58,0
+63.18,2,Yes,No,Food,139,237,0
+145.45,16,No,No,Travel,239,9,0
+29.01,6,No,Yes,Electronics,95,55,0
+95.77,19,Yes,No,Electronics,161,236,0
+38.4,0,Yes,No,Travel,140,198,0
+174.04,5,Yes,No,Retail,183,236,0
+258.98,12,Yes,No,Food,28,107,0
+378.23,7,Yes,No,Digital Services,59,129,0
+207.32,6,No,No,Electronics,118,91,0
+115.34,14,Yes,No,Retail,180,15,0
+377.1,18,No,No,Retail,307,122,0
+246.31,4,Yes,No,Food,73,76,0
+247.58,21,Yes,No,Digital Services,297,179,0
+45.15,16,Yes,No,Retail,306,110,0
+123.21,20,Yes,No,Travel,53,184,0
+64.01,4,No,No,Electronics,201,39,0
+90.4,16,Yes,No,Food,362,157,0
+411.68,18,No,No,Digital Services,280,126,0
+89.22,11,No,No,Food,268,147,0
+146.6,14,No,No,Retail,119,226,0
+179.58,12,Yes,No,Electronics,29,150,0
+818.79,18,No,No,Digital Services,1,151,0
+86.77,19,Yes,No,Retail,53,68,0
+184.2,10,Yes,No,Electronics,130,88,0
+92.19,9,Yes,No,Food,100,96,0
+1579.88,8,Yes,Yes,Electronics,213,191,1
+178.75,5,Yes,Yes,Digital Services,241,1,1
+115.87,3,No,No,Travel,245,182,0
+283.94,11,Yes,No,Digital Services,78,147,0
+333.03,8,Yes,No,Retail,58,178,0
+103.62,5,Yes,No,Digital Services,271,126,0
+20.4,5,Yes,No,Digital Services,224,122,0
+229.12,15,Yes,No,Food,198,72,1
+184.6,16,Yes,No,Retail,44,56,0
+144.56,11,Yes,No,Electronics,355,87,0
+329.02,5,Yes,No,Travel,141,234,0
+59.83,0,Yes,No,Digital Services,196,198,0
+261.74,13,No,No,Retail,164,20,0
+617.82,12,No,No,Digital Services,69,89,0
+28.71,17,No,No,Retail,18,6,0
+68.64,18,Yes,No,Food,276,18,0
+185.12,14,Yes,No,Food,221,207,0
+154.22,22,Yes,Yes,Retail,355,145,0
+576.98,12,Yes,No,Travel,29,213,0
+135.22,2,No,No,Retail,355,55,0
+307.76,3,Yes,No,Retail,362,143,0
+102.77,8,Yes,No,Retail,136,69,0
+67.54,7,Yes,No,Food,362,191,0
+296.36,6,Yes,No,Digital Services,343,180,0
+37.5,13,No,No,Retail,128,34,0
+27.02,12,Yes,No,Digital Services,127,186,0
+37.02,2,No,No,Food,107,72,0
+413.24,6,Yes,No,Food,9,35,0
+850.93,21,No,No,Digital Services,297,234,0
+84.21,22,Yes,No,Digital Services,123,126,0
+321.66,7,Yes,No,Travel,126,208,0
+65.52,18,No,No,Food,224,109,0
+893.87,21,Yes,No,Digital Services,60,91,0
+63.27,17,No,No,Food,22,171,0
+55.61,16,Yes,No,Food,87,122,0
+181.25,6,Yes,No,Electronics,3,208,0
+238.89,17,Yes,No,Digital Services,211,42,0
+1390.02,16,No,No,Travel,172,151,0
+849.22,1,No,No,Electronics,298,19,0
+157.2,11,Yes,No,Electronics,49,234,0
+78.4,10,Yes,No,Food,1,39,0
+62.2,22,No,No,Travel,15,175,0
+120.03,17,Yes,No,Electronics,206,185,0
+35.26,7,No,No,Electronics,21,185,0
+208.87,12,No,No,Electronics,79,84,0
+615.83,2,Yes,No,Electronics,189,111,0
+35.42,13,No,No,Retail,5,232,0
+492.58,4,Yes,No,Travel,334,27,0
+163.05,0,Yes,No,Travel,307,53,0
+176.74,0,No,No,Retail,211,203,0
+131.3,0,Yes,No,Food,162,37,0
+496.56,18,No,No,Retail,275,69,0
+202.06,4,Yes,No,Food,323,33,0
+151.04,22,Yes,No,Digital Services,158,230,0
+218.89,20,No,Yes,Retail,220,178,0
+1545.82,5,No,No,Food,131,137,0
+416.96,15,Yes,No,Electronics,290,212,0
+133.29,13,No,No,Digital Services,95,132,0
+67.83,19,Yes,Yes,Digital Services,342,138,0
+351.04,2,No,No,Retail,224,173,1
+183.1,1,No,No,Retail,168,29,0
+232.56,23,Yes,No,Retail,124,11,0
+155.2,11,No,No,Food,268,85,0
+433.69,19,Yes,No,Retail,275,8,0
+88.94,14,Yes,No,Food,337,20,0
+78.99,0,No,No,Travel,290,154,0
+98.8,15,No,No,Food,0,138,0
+105.68,21,Yes,Yes,Food,285,15,0
+114.53,5,No,No,Electronics,271,195,0
+19.29,15,No,No,Retail,134,83,0
+34.86,18,Yes,No,Retail,69,72,0
+63.23,10,No,No,Food,12,69,0
+21.89,11,No,No,Retail,212,220,0
+231.89,12,Yes,No,Retail,254,212,0
+2303.66,15,Yes,No,Digital Services,290,56,0
+40.29,15,Yes,No,Food,327,210,0
+846.03,17,Yes,No,Digital Services,190,73,0
+66.32,23,Yes,No,Food,336,69,1
+50.8,4,Yes,No,Travel,167,12,0
+43.06,23,No,No,Food,130,94,0
+132.67,15,No,No,Digital Services,173,32,0
+351.47,19,No,No,Electronics,24,184,0
+276.5,23,Yes,No,Digital Services,309,3,0
+498.4,7,No,No,Retail,110,239,0
+214.73,19,Yes,No,Retail,79,210,0
+30.54,1,No,No,Food,323,158,0
+128.0,15,Yes,No,Digital Services,290,119,0
+49.21,19,No,No,Food,0,221,0
+66.2,1,Yes,No,Retail,266,160,0
+44.29,23,Yes,No,Travel,268,77,0
+25.04,16,Yes,No,Retail,323,160,0
+255.26,9,No,No,Food,139,121,0
+72.58,11,No,No,Electronics,34,125,0
+1071.81,13,Yes,No,Digital Services,122,124,0
+97.92,17,Yes,No,Food,23,169,0
+257.28,1,No,No,Electronics,273,81,0
+358.92,17,Yes,No,Digital Services,105,187,0
+119.11,20,Yes,No,Digital Services,257,238,0
+408.31,6,Yes,No,Digital Services,307,81,0
+522.64,12,No,No,Retail,104,173,0
+269.64,2,Yes,Yes,Electronics,349,131,1
+198.81,3,Yes,No,Retail,47,117,0
+200.62,12,Yes,No,Electronics,297,177,0
+82.42,9,No,No,Digital Services,9,82,0
+680.66,5,Yes,No,Food,35,98,0
+32.28,23,Yes,No,Food,314,59,0
+134.26,20,Yes,No,Digital Services,204,172,0
+193.91,11,No,No,Electronics,85,157,0
+1070.5,9,Yes,Yes,Retail,199,195,0
+160.91,21,Yes,No,Electronics,6,9,0
+531.97,22,No,No,Retail,244,237,0
+384.3,10,No,No,Retail,97,38,0
+461.4,9,No,No,Electronics,158,13,0
+147.1,22,No,No,Electronics,186,63,0
+170.57,5,Yes,No,Electronics,54,191,0
+301.37,17,Yes,No,Retail,143,83,0
+321.28,17,Yes,No,Retail,105,198,0
+15.21,23,Yes,No,Retail,224,51,0
+151.53,8,No,No,Electronics,51,67,0
+106.21,21,No,No,Digital Services,296,112,0
+99.2,18,Yes,No,Retail,195,133,0
+31.52,5,Yes,No,Electronics,160,190,0
+279.34,12,Yes,No,Travel,37,135,0
+375.54,21,Yes,No,Travel,130,138,0
+575.86,21,Yes,No,Retail,30,8,0
+620.86,14,Yes,No,Digital Services,5,122,0
+306.84,1,No,No,Digital Services,25,148,0
+84.5,10,Yes,No,Retail,150,25,0
+82.05,10,Yes,No,Digital Services,156,127,0
+179.51,22,Yes,No,Retail,117,7,0
+1197.13,5,Yes,No,Retail,250,104,0
+118.15,14,Yes,No,Digital Services,350,50,0
+72.74,16,Yes,No,Food,360,201,0
+195.22,22,Yes,No,Digital Services,349,28,0
+70.38,15,No,Yes,Food,125,116,0
+118.51,21,Yes,Yes,Travel,265,66,0
+312.37,20,Yes,No,Retail,222,223,0
+591.38,22,Yes,No,Digital Services,117,232,0
+123.16,21,Yes,No,Digital Services,138,157,0
+306.61,6,Yes,No,Retail,235,204,0
+300.05,0,No,No,Food,3,105,0
+80.0,6,No,No,Digital Services,177,56,0
+176.37,11,No,No,Food,269,203,0
+235.08,23,No,Yes,Retail,299,4,0
+191.17,0,Yes,Yes,Food,289,175,1
+226.28,9,Yes,No,Electronics,62,23,0
+856.32,19,Yes,No,Retail,237,23,0
+437.11,22,Yes,No,Travel,284,158,0
+48.49,15,Yes,No,Food,245,76,0
+2507.78,19,Yes,No,Retail,159,45,0
+62.35,19,Yes,No,Food,326,227,0
+239.84,14,Yes,No,Retail,244,62,0
+736.25,12,Yes,No,Digital Services,126,238,0
+30.95,14,Yes,No,Digital Services,303,224,0
+409.98,21,No,No,Digital Services,266,140,0
+105.84,16,No,No,Retail,42,232,0
+281.13,10,No,No,Retail,269,239,1
+176.9,20,Yes,No,Food,329,69,0
+384.59,10,Yes,No,Retail,180,65,0
+251.82,6,No,No,Food,220,216,0
+41.51,5,Yes,No,Electronics,41,215,0
+106.37,3,Yes,No,Digital Services,125,1,1
+59.8,4,No,No,Travel,162,117,0
+86.4,17,Yes,No,Retail,79,63,0
+37.82,14,No,No,Electronics,210,192,0
+140.1,6,No,No,Retail,358,37,0
+70.0,5,No,No,Retail,281,218,0
+158.44,3,Yes,No,Electronics,236,63,0
+271.12,21,Yes,Yes,Retail,6,127,0
+268.4,11,Yes,No,Digital Services,303,26,0
+490.0,9,Yes,No,Food,35,91,0
+146.37,0,Yes,No,Retail,297,84,0
+339.78,6,No,No,Digital Services,8,238,0
+105.94,19,Yes,No,Food,263,48,0
+85.75,6,No,No,Digital Services,4,128,0
+460.29,5,Yes,No,Food,55,20,0
+74.37,23,Yes,No,Electronics,252,227,0
+149.2,12,Yes,No,Digital Services,169,37,0
+50.7,1,Yes,No,Food,245,122,0
+155.02,15,Yes,No,Food,132,40,0
+223.31,7,No,No,Food,168,80,0
+37.04,23,Yes,No,Travel,357,205,0
+551.85,20,No,No,Travel,199,137,0
+91.61,1,No,No,Electronics,144,61,0
+111.68,2,No,No,Food,197,233,0
+258.18,17,Yes,No,Food,326,85,0
+272.96,18,Yes,No,Travel,330,18,0
+79.54,19,No,No,Retail,340,55,0
+135.43,17,No,No,Electronics,58,197,0
+297.4,16,Yes,No,Retail,53,89,0
+320.25,17,No,No,Retail,250,203,0
+653.4,7,Yes,No,Food,83,53,0
+520.2,6,Yes,Yes,Digital Services,287,185,0
+1270.49,3,Yes,No,Food,331,221,0
+75.09,10,No,No,Electronics,133,205,0
+1818.91,13,Yes,No,Food,84,212,0
+603.85,9,Yes,Yes,Electronics,23,40,0
+89.19,22,No,No,Retail,217,174,0
+131.74,23,Yes,No,Food,317,72,0
+61.41,7,No,Yes,Travel,64,144,0
+11.54,15,No,No,Electronics,100,238,0
+157.48,0,Yes,No,Digital Services,329,65,0
+235.61,13,Yes,No,Electronics,355,28,0
+156.87,19,Yes,No,Digital Services,111,203,0
+121.0,15,Yes,No,Retail,214,137,0
+82.14,13,No,No,Retail,81,173,0
+211.5,19,Yes,No,Retail,329,10,0
+54.35,6,Yes,No,Food,282,231,0
+161.43,9,Yes,No,Food,65,162,0
+207.64,4,Yes,No,Digital Services,96,208,0
+910.79,6,Yes,No,Digital Services,285,163,0
+367.84,6,Yes,No,Electronics,49,99,1
+98.35,21,Yes,No,Food,162,31,0
+646.0,20,Yes,No,Retail,169,25,0
+602.95,16,No,No,Digital Services,158,118,0
+19.97,0,Yes,No,Digital Services,207,80,0
+113.95,2,No,No,Travel,16,53,0
+175.16,20,No,No,Retail,146,84,0
+193.36,2,Yes,Yes,Retail,172,61,1
+223.23,20,Yes,No,Food,242,75,0
+121.28,13,Yes,No,Travel,219,211,0
+900.01,5,Yes,No,Food,88,213,0
+266.83,23,No,No,Food,286,226,0
+156.77,16,Yes,No,Electronics,299,46,0
+510.07,23,No,No,Travel,313,221,0
+426.52,5,No,Yes,Food,23,96,0
+1247.81,16,Yes,No,Digital Services,112,3,0
+143.1,12,Yes,No,Travel,54,99,0
+317.75,20,Yes,Yes,Retail,32,180,0
+202.57,19,Yes,No,Retail,18,60,0
+431.89,8,Yes,No,Electronics,146,113,0
+33.32,5,No,No,Retail,180,185,0
+22.97,0,Yes,No,Retail,114,33,0
+230.56,16,Yes,No,Travel,298,163,0
+37.79,10,No,No,Electronics,343,50,0
+432.57,18,Yes,No,Electronics,21,6,0
+133.69,20,Yes,No,Digital Services,364,174,0
+405.46,22,No,No,Travel,119,143,0
+154.23,8,Yes,No,Electronics,54,8,0
+178.45,12,Yes,No,Digital Services,198,63,0
+65.17,23,No,No,Electronics,26,165,0
+320.12,0,No,No,Digital Services,198,36,0
+35.33,4,No,No,Digital Services,259,82,0
+156.15,8,Yes,No,Digital Services,105,41,0
+30.45,10,Yes,No,Digital Services,278,63,0
+36.24,0,Yes,No,Retail,333,185,0
+405.12,4,Yes,No,Retail,340,192,0
+122.15,9,Yes,Yes,Retail,219,153,0
+425.16,13,Yes,No,Retail,196,138,0
+623.01,22,No,No,Food,123,182,0
+41.58,1,Yes,Yes,Travel,197,159,1
+40.8,8,No,No,Digital Services,299,29,0
+27.5,5,Yes,No,Retail,129,72,0
+206.98,12,Yes,No,Travel,15,148,0
+136.02,9,Yes,No,Digital Services,204,168,0
+47.93,17,Yes,No,Travel,259,53,0
+107.3,8,Yes,No,Retail,325,3,0
+110.03,17,Yes,Yes,Retail,218,78,1
+42.13,10,Yes,No,Electronics,165,174,0
+136.82,15,Yes,No,Digital Services,97,147,0
+77.04,22,Yes,No,Digital Services,353,121,0
+232.89,19,Yes,No,Retail,226,75,0
+164.91,3,Yes,No,Retail,290,225,0
+44.89,0,Yes,No,Digital Services,337,149,0
+625.91,11,No,No,Travel,231,56,0
+390.06,8,Yes,No,Travel,131,232,0
+1014.79,5,No,No,Electronics,62,110,0
+62.19,12,Yes,No,Digital Services,78,47,0
+894.73,16,Yes,No,Food,297,58,0
+48.51,6,Yes,No,Retail,337,135,0
+672.11,17,Yes,No,Food,157,109,0
+61.2,19,Yes,No,Travel,116,121,0
+269.14,4,Yes,No,Electronics,48,203,0
+356.53,7,Yes,No,Electronics,48,72,0
+1257.08,23,Yes,No,Retail,158,80,0
+419.52,5,Yes,No,Retail,151,41,0
+16.41,7,Yes,No,Electronics,29,31,0
+306.03,14,Yes,No,Food,297,146,0
+327.69,2,Yes,Yes,Retail,312,107,1
+89.72,17,Yes,No,Food,103,170,0
+180.36,17,Yes,No,Retail,279,159,0
+493.02,13,Yes,Yes,Digital Services,84,101,0
+21.06,4,No,No,Food,325,238,0
+106.43,8,No,No,Retail,247,4,0
+48.59,16,No,No,Retail,66,31,0
+208.77,22,Yes,No,Electronics,45,84,0
+999.11,4,Yes,No,Food,306,15,0
+229.18,1,Yes,No,Retail,29,80,0
+128.13,20,Yes,No,Digital Services,310,198,0
+474.27,5,Yes,No,Travel,227,96,0
+227.6,23,No,No,Electronics,119,28,0
+192.47,12,Yes,No,Retail,215,213,0
+537.42,11,Yes,No,Food,244,186,0
+156.53,23,Yes,No,Retail,346,44,0
+45.34,13,No,Yes,Retail,150,10,0
+30.44,23,No,Yes,Retail,171,102,0
+104.08,13,Yes,No,Retail,71,35,0
+109.94,15,Yes,Yes,Digital Services,110,39,0
+121.98,11,Yes,Yes,Electronics,81,93,0
+917.42,14,No,No,Electronics,356,153,0
+55.71,23,Yes,No,Electronics,208,131,0
+180.8,5,Yes,Yes,Travel,197,23,0
+54.57,3,Yes,No,Food,352,93,0
+65.04,19,Yes,No,Retail,238,226,0
+923.44,22,Yes,No,Retail,321,148,0
+112.08,5,Yes,No,Retail,185,157,0
+379.93,3,Yes,Yes,Retail,248,46,1
+77.57,7,No,No,Digital Services,70,142,0
+127.69,5,Yes,No,Retail,271,46,0
+113.14,6,Yes,No,Food,5,69,0
+104.59,11,Yes,Yes,Electronics,84,216,0
+34.92,12,Yes,No,Digital Services,357,18,0
+129.33,6,Yes,No,Food,235,15,1
+32.61,4,No,No,Electronics,228,193,0
+827.17,12,Yes,No,Retail,43,128,0
+217.52,10,No,Yes,Electronics,147,19,0
+79.66,7,No,Yes,Digital Services,121,139,0
+119.42,11,Yes,No,Retail,254,16,0
+42.56,5,Yes,No,Travel,247,127,0
+48.37,9,Yes,No,Electronics,152,187,0
+61.42,12,Yes,No,Electronics,170,147,0
+71.12,22,Yes,No,Food,342,237,0
+733.65,11,No,No,Electronics,277,40,0
+14.77,14,Yes,No,Retail,291,130,0
+420.96,7,Yes,No,Retail,30,130,0
+84.83,7,Yes,No,Travel,356,231,0
+418.44,16,No,No,Retail,202,170,0
+72.85,14,Yes,No,Electronics,163,195,0
+39.08,23,Yes,No,Retail,196,115,0
+89.59,21,Yes,No,Electronics,181,173,0
+136.59,8,Yes,No,Digital Services,203,135,0
+156.44,13,Yes,No,Digital Services,309,51,0
+215.28,13,Yes,No,Retail,60,144,0
+408.9,11,No,No,Digital Services,352,117,0
+163.33,14,Yes,No,Travel,211,184,0
+26.62,10,Yes,No,Electronics,134,7,0
+273.39,1,No,No,Electronics,206,64,0
+300.86,8,Yes,No,Food,230,31,0
+68.22,6,No,No,Food,215,124,0
+368.78,12,Yes,No,Digital Services,100,172,0
+334.17,12,Yes,No,Food,323,183,0
+119.8,14,No,Yes,Electronics,92,149,0
+13.25,21,No,No,Food,193,160,0
+232.72,3,Yes,Yes,Retail,297,52,1
+794.12,4,Yes,No,Food,298,130,0
+148.27,5,Yes,No,Retail,132,64,0
+423.72,10,No,No,Food,86,121,0
+111.6,3,No,Yes,Retail,67,2,1
+86.47,22,No,No,Travel,10,165,0
+20.94,12,No,No,Food,274,238,0
+91.11,19,Yes,No,Retail,277,218,0
+128.98,13,Yes,Yes,Retail,142,220,0
+38.58,16,No,No,Food,184,60,0
+184.64,8,Yes,No,Electronics,7,96,0
+1144.65,10,No,No,Retail,362,50,0
+31.39,16,No,No,Travel,42,140,0
+3218.67,18,Yes,Yes,Travel,329,95,1
+50.1,15,Yes,No,Digital Services,273,237,0
+228.78,21,No,No,Retail,82,42,0
+1513.7,12,No,Yes,Food,73,208,0
+130.48,12,No,Yes,Electronics,268,109,0
+221.83,8,Yes,No,Electronics,339,149,0
+255.73,21,No,No,Digital Services,159,40,0
+146.01,13,No,Yes,Digital Services,52,26,0
+103.18,1,Yes,No,Digital Services,209,211,0
+390.17,6,Yes,No,Travel,31,147,0
+1944.09,7,Yes,No,Digital Services,258,24,0
+182.26,8,No,Yes,Food,355,224,0
+118.25,16,Yes,No,Electronics,323,106,0
+148.06,22,No,No,Retail,174,166,0
+83.52,23,Yes,No,Digital Services,253,232,0
+58.48,9,Yes,No,Digital Services,46,23,0
+288.66,17,Yes,No,Digital Services,94,50,0
+314.78,19,No,No,Food,92,215,0
+26.93,16,Yes,No,Food,91,108,0
+1839.25,1,No,No,Food,320,186,0
+63.98,3,No,No,Digital Services,204,91,0
+305.89,2,No,No,Electronics,249,23,0
+402.22,17,Yes,Yes,Retail,308,228,0
+79.34,15,Yes,No,Retail,17,100,0
+100.44,11,No,No,Electronics,24,141,0
+132.99,17,Yes,No,Food,293,228,0
+643.3,16,Yes,No,Electronics,201,8,0
+541.56,14,Yes,No,Food,92,32,0
+167.49,22,Yes,No,Food,145,193,0
+252.45,1,No,Yes,Electronics,215,70,0
+1011.87,19,Yes,No,Retail,154,50,0
+103.15,20,Yes,No,Retail,37,33,0
+58.54,20,Yes,No,Electronics,214,109,0
+1326.23,12,Yes,No,Electronics,191,119,0
+167.41,18,Yes,No,Retail,65,6,0
+250.74,11,Yes,No,Food,51,166,0
+46.17,22,Yes,Yes,Digital Services,255,51,0
+107.74,23,Yes,No,Retail,58,55,0
+667.2,18,No,No,Travel,99,98,0
+131.62,16,Yes,Yes,Retail,132,193,0
+53.3,6,Yes,Yes,Retail,334,223,0
+1019.58,13,Yes,No,Retail,223,184,0
+115.09,2,Yes,No,Travel,282,106,0
+183.48,5,Yes,No,Digital Services,193,201,0
+284.0,13,No,Yes,Retail,284,192,0
+109.81,23,Yes,Yes,Retail,318,195,0
+399.8,3,Yes,No,Retail,211,185,0
+61.14,16,Yes,No,Food,318,184,0
+292.93,16,Yes,No,Food,249,236,0
+35.56,9,Yes,No,Travel,156,180,0
+160.88,20,No,No,Digital Services,308,75,0
+171.76,12,Yes,No,Retail,59,78,0
+1259.16,10,Yes,No,Retail,276,190,0
+40.29,21,Yes,No,Digital Services,199,33,0
+485.64,4,Yes,No,Travel,42,85,0
+94.43,0,No,No,Electronics,105,177,0
+83.0,8,No,No,Electronics,201,60,0
+51.68,14,Yes,No,Travel,273,220,0
+373.11,13,Yes,No,Food,223,172,0
+370.69,8,No,No,Retail,195,160,0
+368.23,5,Yes,No,Travel,343,232,0
+276.39,4,Yes,No,Travel,227,97,0
+34.94,11,Yes,Yes,Travel,307,16,0
+64.37,16,No,No,Retail,112,154,0
+563.65,16,Yes,No,Electronics,127,122,0
+1379.53,21,Yes,No,Electronics,195,148,0
+104.9,11,No,No,Retail,0,100,0
+201.31,10,Yes,No,Electronics,126,38,0
+144.3,9,No,No,Food,343,41,0
+510.03,12,Yes,No,Food,99,162,0
+82.82,3,No,No,Food,237,109,0
+25.36,2,No,No,Food,68,146,0
+109.54,12,No,No,Travel,35,51,0
+1040.73,17,No,No,Retail,264,164,0
+117.53,3,Yes,No,Retail,103,28,0
+101.0,23,Yes,No,Retail,259,104,0
+227.26,17,Yes,No,Food,323,108,0
+60.76,10,Yes,No,Food,54,11,0
+538.41,19,No,No,Retail,136,106,0
+130.79,18,Yes,Yes,Food,269,125,0
+175.97,18,Yes,No,Food,40,225,0
+84.31,14,Yes,No,Retail,239,157,0
+93.84,5,No,No,Electronics,74,200,0
+110.74,11,Yes,No,Electronics,316,26,0
+596.11,10,Yes,No,Retail,36,113,0
+617.09,14,Yes,Yes,Food,0,98,1
+100.96,21,Yes,No,Food,24,180,0
+149.73,16,Yes,No,Retail,157,194,1
+498.62,23,No,Yes,Food,278,108,0
+238.39,21,Yes,No,Retail,345,18,0
+22.84,19,Yes,No,Travel,253,26,0
+107.64,12,Yes,No,Travel,93,58,0
+44.27,16,Yes,No,Travel,9,188,0
+111.05,13,Yes,No,Retail,104,88,0
+550.71,9,No,No,Travel,202,145,0
+1071.02,12,Yes,No,Electronics,293,170,0
+103.53,23,Yes,No,Electronics,337,50,0
+153.53,2,Yes,Yes,Food,122,176,1
+22.25,15,Yes,Yes,Food,309,113,0
+105.87,11,Yes,No,Electronics,16,136,0
+15.86,19,No,No,Food,199,63,0
+170.18,22,No,No,Electronics,324,23,0
+65.8,4,Yes,No,Food,44,148,0
+1080.31,9,Yes,Yes,Retail,154,80,0
+206.09,17,No,No,Electronics,65,5,0
+421.16,18,Yes,Yes,Travel,218,1,1
+1554.96,10,No,No,Retail,317,53,0
+97.74,5,Yes,No,Food,108,23,0
+456.77,15,Yes,Yes,Electronics,211,188,0
+230.33,18,Yes,No,Food,254,195,0
+104.1,3,No,No,Retail,338,209,0
+169.56,14,Yes,No,Food,125,144,0
+101.12,14,Yes,No,Retail,249,182,0
+43.85,23,Yes,No,Retail,91,134,0
+59.09,23,Yes,No,Retail,71,40,0
+284.27,17,Yes,Yes,Retail,17,184,0
+124.57,6,Yes,No,Electronics,98,22,0
+919.0,6,Yes,No,Retail,116,177,0
+864.72,17,No,Yes,Retail,35,128,0
+55.8,17,No,No,Electronics,92,181,0
+135.88,7,Yes,Yes,Food,234,174,0
+204.91,8,Yes,No,Food,169,151,0
+49.53,19,No,No,Food,71,66,0
+737.23,6,Yes,No,Retail,184,157,0
+398.97,5,Yes,No,Digital Services,109,20,0
+342.01,19,No,No,Travel,79,127,0
+233.65,10,No,No,Food,10,22,0
+208.62,12,Yes,Yes,Food,293,216,0
+38.45,10,No,No,Electronics,283,238,0
+79.55,1,Yes,No,Electronics,122,193,0
+176.19,1,Yes,No,Electronics,295,46,0
+160.66,17,Yes,Yes,Food,83,233,0
+179.69,14,Yes,Yes,Food,305,37,0
+328.8,21,No,No,Food,104,56,0
+380.31,21,No,No,Food,199,24,0
+169.06,17,No,No,Electronics,54,238,0
+876.67,20,No,No,Electronics,295,209,0
+98.13,5,Yes,No,Food,95,91,0
+225.83,15,Yes,No,Travel,23,54,0
+583.27,0,Yes,No,Retail,335,74,0
+136.62,12,Yes,No,Electronics,361,161,0
+134.26,22,No,No,Digital Services,239,19,0
+357.34,9,Yes,No,Digital Services,16,157,0
+719.6,0,Yes,No,Retail,339,119,0
+195.27,0,Yes,No,Electronics,39,139,0
+161.92,19,No,No,Retail,189,153,0
+122.83,5,Yes,No,Retail,194,130,0
+357.8,19,Yes,No,Travel,100,228,0
+199.62,14,Yes,No,Digital Services,307,209,0
+452.58,14,No,No,Electronics,221,128,0
+117.28,18,Yes,No,Travel,336,175,0
+44.58,9,Yes,No,Retail,55,160,0
+125.3,13,No,No,Digital Services,186,154,0
+157.57,19,Yes,No,Digital Services,143,152,0
+163.03,15,Yes,No,Digital Services,175,223,0
+73.18,14,Yes,No,Food,245,18,0
+261.85,17,Yes,No,Electronics,179,213,0
+258.76,23,No,No,Travel,303,24,0
+718.43,23,Yes,No,Electronics,237,177,0
+321.03,8,Yes,No,Food,211,23,0
+378.84,9,Yes,No,Food,90,62,0
+122.27,22,Yes,No,Food,97,85,0
+99.43,15,Yes,No,Electronics,116,85,0
+396.52,22,Yes,No,Retail,91,131,0
+144.59,2,Yes,No,Travel,92,98,0
+169.21,20,Yes,No,Travel,350,69,0
+136.28,20,Yes,Yes,Travel,160,22,0
+64.6,4,Yes,No,Electronics,81,26,0
+268.65,22,Yes,No,Travel,314,173,0
+41.74,1,No,No,Electronics,202,169,0
+41.71,1,Yes,No,Food,335,150,0
+110.88,0,No,No,Retail,114,102,0
+101.67,13,No,No,Electronics,173,235,0
+448.01,23,No,No,Digital Services,274,72,0
+38.65,16,Yes,No,Digital Services,332,104,0
+906.12,18,Yes,No,Retail,131,217,0
+16.08,23,Yes,No,Food,101,17,0
+96.29,15,Yes,No,Retail,129,68,0
+124.07,8,Yes,No,Electronics,223,146,0
+235.75,22,Yes,Yes,Electronics,175,122,0
+1883.56,19,Yes,No,Electronics,95,91,0
+203.08,3,Yes,No,Retail,145,117,0
+171.39,12,Yes,No,Electronics,268,33,0
+90.35,13,No,No,Digital Services,210,90,0
+27.61,3,Yes,No,Electronics,156,120,0
+365.63,20,Yes,No,Digital Services,286,12,0
+22.82,4,Yes,No,Food,335,211,1
+531.24,1,Yes,No,Electronics,254,88,0
+101.54,23,No,No,Retail,331,159,0
+337.11,15,Yes,No,Food,295,159,0
+529.47,20,No,No,Digital Services,248,128,0
+50.23,8,Yes,Yes,Electronics,58,179,0
+103.78,5,No,Yes,Electronics,347,18,0
+145.54,1,Yes,No,Electronics,156,201,0
+122.1,13,Yes,No,Retail,213,235,0
+392.07,21,Yes,No,Digital Services,316,199,0
+61.76,10,No,Yes,Electronics,354,157,0
+562.83,13,No,No,Digital Services,196,215,0
+123.46,22,No,No,Digital Services,130,11,0
+110.29,22,No,No,Retail,208,224,0
+38.37,18,Yes,No,Digital Services,223,10,0
+87.86,14,Yes,No,Retail,202,37,0
+31.85,7,Yes,No,Digital Services,210,140,0
+91.66,6,No,No,Retail,100,52,0
+1127.86,12,Yes,No,Electronics,311,5,0
+225.23,9,No,No,Travel,298,143,0
+472.47,14,No,No,Electronics,70,216,0
+319.06,21,No,No,Electronics,178,100,0
+469.48,4,No,No,Travel,300,73,0
+405.35,17,Yes,No,Electronics,0,89,0
+234.98,6,Yes,No,Travel,258,234,0
+19.69,22,No,Yes,Electronics,45,5,0
+89.52,5,No,No,Digital Services,339,168,0
+12.75,8,No,No,Electronics,196,184,0
+28.53,2,Yes,No,Travel,106,2,0
+412.4,13,Yes,No,Food,134,88,0
+315.01,8,No,No,Food,180,5,0
+16.26,7,Yes,No,Retail,23,20,0
+231.04,22,Yes,No,Travel,234,83,0
+24.52,7,Yes,Yes,Travel,291,213,0
+71.0,17,Yes,Yes,Retail,54,169,0
+149.17,23,No,No,Food,315,144,0
+153.42,1,Yes,No,Digital Services,277,99,0
+156.96,22,Yes,No,Food,189,156,0
+96.66,14,Yes,No,Electronics,336,223,0
+11.54,5,No,No,Food,2,53,0
+350.81,8,Yes,No,Retail,220,99,0
+48.43,8,No,No,Retail,158,108,0
+490.26,16,Yes,No,Retail,301,216,0
+2724.52,13,Yes,No,Retail,348,107,0
+517.23,0,Yes,No,Food,16,62,0
+132.02,20,Yes,No,Travel,151,109,0
+31.34,19,Yes,No,Digital Services,341,200,0
+85.05,9,Yes,No,Digital Services,51,224,0
+653.82,5,Yes,No,Food,88,180,0
+608.54,13,Yes,No,Retail,206,173,0
+229.01,19,Yes,No,Retail,267,74,0
+77.01,15,Yes,No,Retail,239,48,0
+272.4,19,No,No,Digital Services,42,14,0
+127.48,0,Yes,No,Retail,175,194,0
+135.18,7,Yes,No,Retail,169,204,0
+125.15,8,Yes,No,Retail,232,5,0
+129.88,22,No,No,Electronics,319,133,0
+280.03,14,Yes,No,Food,101,152,0
+120.17,8,Yes,No,Food,9,107,0
+90.91,16,Yes,No,Digital Services,136,221,0
+389.39,5,Yes,No,Digital Services,213,86,0
+85.54,5,Yes,No,Food,54,84,0
+359.15,22,Yes,No,Food,151,128,0
+145.63,1,Yes,No,Food,174,92,0
+211.79,18,No,No,Electronics,293,167,0
+10.78,4,Yes,No,Retail,41,226,0
+510.71,12,Yes,No,Retail,91,200,0
+24.45,5,Yes,Yes,Food,70,77,0
+242.5,9,Yes,No,Food,160,192,0
+475.54,12,Yes,No,Retail,336,127,0
+340.81,13,Yes,No,Food,47,195,0
+7.15,6,Yes,No,Electronics,81,231,0
+153.39,1,No,No,Electronics,184,219,0
+219.19,10,No,No,Food,278,152,0
+9.94,4,Yes,No,Digital Services,162,99,1
+631.8,23,Yes,No,Digital Services,153,177,0
+374.98,2,No,No,Food,129,60,0
+145.89,15,No,Yes,Food,64,111,0
+170.73,18,Yes,No,Travel,296,96,0
+569.42,9,Yes,No,Retail,341,128,0
+118.2,4,Yes,No,Travel,18,12,0
+98.14,20,Yes,No,Food,99,105,0
+157.67,13,Yes,No,Retail,132,44,0
+34.93,0,Yes,No,Food,154,142,0
+304.04,21,Yes,No,Retail,290,116,0
+78.5,14,Yes,No,Digital Services,103,48,0
+305.12,19,Yes,No,Digital Services,253,96,0
+104.56,4,No,No,Travel,321,71,0
+187.43,13,Yes,No,Electronics,285,126,0
+37.67,12,No,Yes,Food,115,16,0
+440.81,0,Yes,No,Travel,136,46,0
+178.79,20,No,No,Digital Services,46,226,0
+142.51,2,Yes,Yes,Food,285,2,1
+172.21,7,Yes,No,Digital Services,140,178,0
+292.05,8,Yes,No,Travel,273,129,0
+239.55,21,Yes,No,Retail,124,234,0
+39.17,8,Yes,No,Travel,293,141,0
+207.91,20,No,No,Retail,251,196,0
+40.85,19,Yes,No,Retail,251,230,0
+172.31,22,Yes,Yes,Electronics,19,166,0
+189.83,18,No,No,Food,33,161,0
+155.51,19,Yes,No,Electronics,14,27,0
+501.1,3,Yes,No,Travel,51,20,0
+160.48,4,No,No,Food,323,41,0
+196.53,22,Yes,Yes,Food,114,177,0
+88.95,11,Yes,Yes,Electronics,120,65,0
+67.1,8,Yes,No,Retail,309,225,0
+200.99,5,Yes,No,Retail,271,85,0
+527.77,16,No,No,Food,22,178,0
+88.07,5,Yes,Yes,Digital Services,231,50,0
+535.05,20,Yes,No,Travel,199,170,0
+100.41,2,Yes,No,Retail,26,101,0
+123.19,17,Yes,No,Food,170,156,0
+91.9,6,Yes,No,Retail,121,34,0
+419.37,11,No,No,Retail,153,36,0
+374.94,9,Yes,No,Travel,276,141,0
+9.24,5,Yes,No,Travel,115,169,0
+138.95,0,Yes,No,Electronics,14,50,0
+209.76,17,Yes,No,Digital Services,279,237,0
+57.06,2,No,No,Retail,155,77,0
+105.82,13,Yes,No,Travel,26,21,0
+93.97,8,No,No,Food,158,214,0
+49.16,20,Yes,No,Retail,154,201,0
+53.62,14,No,No,Food,13,159,0
+49.95,18,No,No,Food,81,169,0
+51.99,3,Yes,No,Food,115,112,0
+327.1,19,No,No,Electronics,339,87,0
+399.29,18,Yes,No,Digital Services,253,16,0
+164.63,20,Yes,No,Electronics,324,120,0
+256.15,22,Yes,No,Digital Services,147,22,0
+99.4,16,Yes,No,Retail,176,161,0
+27.41,11,No,No,Travel,300,86,0
+30.32,5,No,No,Digital Services,273,83,0
+222.66,20,Yes,No,Retail,346,73,0
+272.37,9,Yes,No,Food,83,197,0
+150.35,17,Yes,No,Digital Services,194,129,0
+1237.06,18,Yes,No,Electronics,23,34,0
+120.6,15,No,No,Food,25,57,0
+90.62,13,Yes,No,Retail,267,137,0
+1001.54,22,No,No,Retail,200,147,0
+40.34,5,Yes,No,Food,296,31,0
+167.39,13,No,No,Food,155,196,0
+74.19,22,No,No,Food,90,208,0
+223.91,16,No,No,Food,87,88,0
+61.77,21,Yes,No,Food,148,58,0
+103.54,3,Yes,No,Retail,82,90,0
+84.28,22,Yes,No,Electronics,149,232,0
+247.25,14,No,No,Food,304,213,0
+360.08,2,No,No,Retail,233,74,0
+45.98,17,No,No,Food,55,44,0
+276.43,18,Yes,No,Digital Services,341,15,0
+122.28,9,Yes,Yes,Travel,36,123,0
+74.08,4,Yes,No,Retail,330,18,0
+621.88,10,No,Yes,Digital Services,218,51,0
+461.44,22,No,No,Digital Services,110,184,0
+459.58,12,No,No,Electronics,70,42,0
+184.27,9,Yes,No,Retail,161,33,0
+75.55,4,No,No,Retail,208,141,0
+282.45,21,No,No,Food,41,59,0
+136.86,16,No,No,Food,332,151,0
+1700.53,9,No,No,Travel,171,140,0
+60.28,2,Yes,No,Electronics,361,2,1
+476.56,18,Yes,No,Retail,105,45,0
+667.91,3,Yes,Yes,Travel,46,228,1
+106.04,19,Yes,No,Travel,0,164,0
+73.0,3,Yes,No,Retail,212,21,0
+207.96,4,No,Yes,Food,94,76,0
+172.24,13,No,No,Travel,128,232,0
+72.42,23,Yes,No,Food,65,11,0
+64.43,20,No,No,Retail,138,206,0
+36.33,5,No,No,Electronics,76,103,0
+346.35,15,Yes,No,Food,210,184,0
+130.27,1,Yes,No,Retail,314,94,0
+213.85,6,No,No,Retail,333,179,0
+219.98,6,Yes,No,Digital Services,155,39,0
+1045.25,23,Yes,No,Retail,235,227,0
+159.42,15,Yes,No,Digital Services,51,197,0
+92.17,17,No,No,Retail,202,207,0
+172.83,15,No,No,Retail,155,88,0
+62.83,21,Yes,No,Retail,337,10,0
+288.36,12,Yes,Yes,Retail,234,220,0
+73.47,20,No,No,Digital Services,17,101,0
+234.76,19,Yes,No,Digital Services,78,72,0
+65.7,4,No,No,Retail,292,199,0
+34.76,6,Yes,No,Retail,112,93,0
+25.85,22,No,Yes,Digital Services,45,37,0
+177.97,11,No,No,Travel,143,61,0
+376.94,0,Yes,No,Travel,219,149,0
+135.36,8,Yes,No,Food,310,19,0
+116.9,8,Yes,No,Retail,29,90,0
+365.39,18,Yes,No,Retail,280,170,0
+230.38,6,Yes,No,Electronics,230,31,0
+160.39,6,No,No,Travel,354,54,0
+603.39,18,No,No,Retail,29,63,0
+71.45,20,Yes,No,Retail,363,106,0
+65.44,6,Yes,No,Food,105,176,0
+209.94,13,No,No,Travel,106,114,0
+259.8,6,Yes,No,Food,127,10,0
+143.51,1,Yes,No,Electronics,218,149,0
+49.14,14,Yes,No,Electronics,47,235,0
+168.25,3,Yes,No,Travel,301,227,0
+144.61,7,Yes,No,Retail,238,97,0
+810.85,2,No,No,Electronics,208,61,0
+206.61,20,Yes,No,Retail,143,88,0
+122.82,23,Yes,No,Retail,122,188,0
+170.78,6,Yes,No,Food,344,55,0
+189.78,2,Yes,No,Digital Services,182,119,0
+102.43,16,No,No,Food,118,34,0
+401.28,9,No,No,Retail,192,60,0
+567.28,4,Yes,No,Food,235,129,0
+58.65,18,Yes,No,Food,204,51,0
+60.54,14,Yes,No,Electronics,311,114,0
+89.91,11,No,No,Digital Services,34,101,0
+178.55,22,No,No,Retail,161,211,0
+553.21,18,Yes,No,Digital Services,94,54,0
+66.4,17,Yes,Yes,Food,37,127,0
+175.37,21,Yes,No,Electronics,265,137,0
+168.58,22,Yes,No,Travel,54,99,0
+559.2,3,No,Yes,Electronics,255,125,1
+941.85,20,Yes,No,Food,148,168,0
+434.94,3,Yes,No,Retail,62,186,0
+55.75,20,Yes,No,Digital Services,218,227,0
+44.4,13,No,No,Food,220,139,0
+64.48,9,Yes,No,Electronics,67,126,0
+44.9,10,Yes,No,Electronics,111,120,0
+163.83,3,No,No,Digital Services,215,137,0
+385.84,15,Yes,No,Food,159,198,0
+52.23,18,Yes,No,Food,59,73,0
+105.03,10,No,No,Digital Services,167,100,0
+66.15,16,No,No,Electronics,256,145,0
+94.19,21,Yes,No,Retail,270,130,0
+593.86,18,Yes,No,Digital Services,185,3,0
+373.55,23,Yes,No,Digital Services,356,73,0
+202.18,11,Yes,No,Food,262,231,0
+408.98,23,No,No,Retail,17,195,0
+435.26,14,Yes,No,Travel,71,20,0
+277.56,4,Yes,No,Electronics,141,208,0
+42.25,23,No,No,Digital Services,228,235,0
+43.87,15,Yes,No,Food,17,228,0
+496.1,22,Yes,No,Retail,60,43,0
+173.55,7,No,No,Travel,299,139,0
+89.59,10,No,No,Food,87,97,0
+179.89,5,Yes,No,Retail,363,95,0
+218.32,8,No,No,Food,113,142,0
+126.74,6,No,No,Digital Services,124,118,0
+14.04,17,Yes,No,Travel,147,147,0
+300.28,19,Yes,No,Electronics,110,103,0
+14.35,4,Yes,No,Food,181,74,0
+174.33,10,Yes,No,Retail,165,178,0
+351.29,6,Yes,No,Travel,306,60,0
+150.81,1,Yes,No,Retail,47,71,0
+291.76,0,Yes,No,Retail,24,43,0
+42.89,10,Yes,No,Travel,24,145,0
+93.9,13,Yes,No,Travel,215,130,0
+114.91,23,No,No,Food,102,41,0
+214.43,10,Yes,Yes,Food,24,115,0
+261.67,15,Yes,No,Retail,226,100,0
+89.27,22,No,No,Food,39,137,0
+130.04,13,Yes,No,Electronics,220,14,0
+20.74,0,Yes,Yes,Digital Services,236,211,1
+521.55,1,No,Yes,Digital Services,352,37,1
+46.27,6,No,No,Retail,22,181,0
+68.43,20,Yes,No,Retail,23,208,0
+1048.85,10,No,No,Digital Services,230,198,0
+173.28,19,No,No,Retail,168,66,0
+69.86,8,Yes,No,Retail,13,37,0
+143.95,5,Yes,No,Digital Services,104,27,0
+373.67,10,Yes,No,Retail,203,58,0
+73.26,8,Yes,No,Retail,138,222,0
+94.58,19,Yes,No,Travel,89,35,1
+19.18,17,Yes,No,Travel,270,132,0
+92.06,3,Yes,Yes,Food,30,215,1
+178.0,8,Yes,No,Digital Services,71,20,0
+1777.24,7,No,No,Digital Services,108,1,0
+81.75,2,Yes,No,Digital Services,29,229,0
+13.87,19,No,No,Electronics,227,153,0
+252.36,21,Yes,No,Digital Services,75,118,0
+1041.51,22,Yes,No,Food,233,76,0
+31.54,16,Yes,Yes,Digital Services,225,64,0
+300.59,14,Yes,No,Retail,162,144,0
+365.98,22,Yes,No,Retail,136,201,0
+102.34,7,Yes,No,Retail,7,230,0
+371.88,15,Yes,No,Retail,108,96,0
+1167.36,11,Yes,Yes,Digital Services,303,40,1
+91.22,13,Yes,No,Food,133,11,0
+98.73,2,Yes,No,Digital Services,159,207,0
+104.58,21,Yes,No,Food,252,227,0
+183.02,3,Yes,No,Food,304,228,0
+1177.51,2,Yes,No,Food,217,188,0
+642.19,20,Yes,No,Food,287,164,0
+248.69,14,Yes,No,Food,338,25,0
+257.17,10,Yes,No,Digital Services,278,94,0
+347.04,22,No,No,Food,253,215,0
+84.09,7,Yes,No,Travel,329,234,0
+124.24,2,No,No,Travel,30,148,0
+246.66,13,Yes,No,Digital Services,289,120,0
+38.33,8,Yes,No,Food,271,150,0
+67.43,4,Yes,Yes,Retail,121,45,1
+260.53,17,No,No,Electronics,353,152,0
+122.97,7,Yes,No,Retail,327,33,0
+165.66,22,Yes,No,Retail,17,47,0
+98.08,0,Yes,No,Digital Services,282,201,0
+272.44,22,Yes,Yes,Retail,37,184,0
+353.62,13,Yes,Yes,Retail,211,222,1
+251.11,13,No,No,Food,332,123,0
+41.02,22,Yes,No,Retail,336,86,0
+390.31,18,Yes,No,Retail,304,209,0
+835.53,9,Yes,No,Retail,80,12,0
+46.99,16,Yes,No,Digital Services,39,109,0
+48.3,3,Yes,No,Travel,278,122,0
+71.79,5,Yes,No,Food,18,169,0
+240.23,3,No,Yes,Food,294,147,0
+127.52,12,Yes,No,Digital Services,338,128,0
+170.6,9,Yes,No,Travel,311,190,0
+200.94,5,Yes,No,Retail,2,73,0
+489.73,19,No,No,Retail,147,159,0
+128.32,20,Yes,No,Electronics,320,169,0
+91.1,19,Yes,No,Travel,78,8,0
+147.63,12,No,No,Electronics,112,78,0
+455.75,23,Yes,No,Food,320,81,0
+469.73,21,No,No,Electronics,338,227,0
+10.38,1,Yes,No,Food,146,232,0
+338.01,6,Yes,No,Digital Services,332,105,1
+94.88,16,No,No,Retail,327,134,0
+55.08,2,Yes,Yes,Retail,212,185,1
+170.64,12,Yes,No,Travel,58,40,0
+102.78,1,No,No,Electronics,248,165,0
+89.39,15,Yes,No,Retail,130,10,0
+491.12,9,Yes,No,Food,82,2,0
+274.42,15,Yes,No,Travel,203,167,0
+40.11,1,Yes,No,Retail,275,126,0
+23.92,15,Yes,No,Travel,243,133,0
+72.6,11,Yes,No,Food,330,143,0
+153.45,7,Yes,No,Retail,76,36,0
+43.45,19,Yes,No,Food,58,232,0
+558.0,12,Yes,No,Digital Services,183,30,0
+176.62,11,Yes,No,Retail,269,13,0
+75.26,23,Yes,No,Digital Services,112,225,0
+185.85,11,Yes,No,Electronics,313,190,0
+274.69,10,Yes,No,Retail,59,85,0
+78.26,2,Yes,No,Retail,287,53,0
+770.03,0,No,No,Retail,99,75,0
+214.84,16,Yes,No,Electronics,128,75,0
+653.19,21,No,No,Travel,101,58,0
+173.53,5,No,No,Electronics,206,22,0
+414.06,20,Yes,No,Digital Services,229,116,0
+507.31,1,Yes,No,Retail,153,225,0
+47.42,16,Yes,No,Retail,170,51,0
+523.5,16,Yes,No,Digital Services,300,35,0
+164.11,10,Yes,No,Retail,203,53,0
+160.05,12,No,No,Retail,338,3,0
+651.26,8,No,No,Retail,102,148,0
+253.2,7,Yes,No,Food,157,8,0
+364.16,1,No,Yes,Retail,308,233,0
+693.02,19,Yes,No,Retail,269,160,0
+11.67,8,Yes,No,Travel,253,220,0
+874.78,0,No,No,Food,146,132,0
+1179.33,14,Yes,No,Travel,119,18,0
+289.22,11,Yes,No,Food,18,237,0
+125.63,0,Yes,No,Digital Services,160,43,0
+66.47,22,Yes,No,Retail,44,50,0
+274.47,15,Yes,No,Electronics,341,188,0
+539.99,15,Yes,Yes,Electronics,275,226,0
+152.96,6,Yes,No,Electronics,0,186,0
+276.64,4,No,Yes,Digital Services,12,67,1
+284.61,10,Yes,No,Digital Services,255,164,0
+166.64,1,Yes,No,Digital Services,157,34,0
+297.24,17,Yes,No,Retail,7,151,0
+451.43,20,Yes,No,Travel,364,233,0
+235.51,2,Yes,No,Travel,105,52,0
+220.3,8,Yes,No,Food,11,12,0
+78.61,22,No,No,Travel,15,21,0
+394.46,1,No,No,Electronics,225,54,0
+87.73,5,No,No,Food,178,174,0
+356.57,13,Yes,No,Travel,266,169,0
+146.95,22,Yes,No,Retail,47,185,0
+420.45,10,No,Yes,Retail,243,57,0
+112.65,13,Yes,No,Food,241,172,0
+338.94,10,Yes,No,Digital Services,153,14,0
+2235.53,10,No,Yes,Food,11,165,1
+751.66,5,Yes,No,Food,205,24,0
+18.81,0,Yes,No,Food,350,135,0
+203.94,11,Yes,No,Food,189,236,0
+249.66,2,Yes,No,Electronics,249,183,0
+287.34,20,No,No,Retail,172,161,0
+234.24,20,Yes,No,Retail,138,229,0
+604.42,18,No,No,Food,92,220,0
+1053.77,3,No,No,Digital Services,200,218,0
+305.76,10,Yes,No,Electronics,3,187,1
+1038.09,17,Yes,No,Electronics,68,9,0
+99.87,6,Yes,No,Retail,184,131,0
+39.08,19,Yes,Yes,Digital Services,237,221,0
+73.41,14,No,No,Digital Services,227,145,0
+152.43,8,No,No,Travel,92,125,1
+82.29,3,Yes,No,Retail,135,198,0
+89.27,18,Yes,No,Travel,294,168,0
+46.63,17,Yes,No,Digital Services,50,169,0
+104.97,0,Yes,No,Retail,92,81,0
+381.77,12,No,Yes,Retail,357,187,0
+99.03,13,Yes,No,Food,232,25,0
+1477.35,4,Yes,Yes,Electronics,201,5,1
+886.22,11,Yes,No,Travel,324,142,0
+52.18,0,Yes,No,Retail,178,165,0
+325.24,2,No,No,Retail,321,127,0
+100.62,8,Yes,No,Food,33,135,0
+242.44,6,Yes,No,Electronics,37,175,0
+59.51,17,Yes,No,Electronics,159,91,0
+85.35,22,No,No,Food,294,132,0
+378.26,20,No,No,Retail,62,165,0
+103.54,5,Yes,Yes,Electronics,171,118,0
+344.53,3,Yes,No,Retail,324,190,0
+161.81,23,No,No,Digital Services,352,9,0
+609.76,23,No,No,Electronics,238,170,0
+140.48,13,No,No,Food,93,17,0
+56.19,7,Yes,No,Travel,164,198,0
+684.53,0,Yes,No,Food,273,98,0
+68.17,12,Yes,No,Digital Services,223,11,0
+138.22,22,Yes,No,Digital Services,160,31,0
+447.61,10,Yes,No,Digital Services,28,19,0
+316.63,23,No,No,Retail,170,78,0
+83.56,14,Yes,No,Digital Services,323,68,0
+109.06,23,Yes,No,Travel,19,173,0
+19.2,21,Yes,No,Electronics,341,95,0
+205.4,14,Yes,No,Retail,68,69,0
+97.09,16,Yes,No,Retail,184,153,0
+50.41,11,Yes,No,Food,191,121,0
+127.79,10,Yes,No,Retail,327,113,0
+455.85,11,Yes,Yes,Electronics,232,237,0
+61.91,3,Yes,No,Retail,336,142,0
+434.86,1,Yes,Yes,Retail,25,43,1
+518.13,11,Yes,No,Food,48,68,0
+166.72,11,Yes,No,Electronics,177,5,0
+340.4,21,Yes,No,Food,156,196,0
+128.41,19,Yes,No,Food,117,2,0
+126.31,18,Yes,Yes,Food,70,119,0
+262.78,6,Yes,No,Food,353,213,0
+37.2,7,Yes,No,Food,178,235,0
+110.29,9,Yes,No,Food,75,8,0
+85.17,4,Yes,No,Electronics,354,235,0
+337.6,2,No,No,Electronics,115,185,0
+102.16,12,Yes,No,Retail,178,101,0
+1069.51,16,Yes,No,Food,138,86,0
+175.46,5,Yes,No,Retail,291,192,0
+180.22,13,Yes,No,Retail,204,219,0
+281.56,2,Yes,No,Food,149,21,0
+68.05,10,No,No,Electronics,179,125,0
+514.31,4,No,No,Food,231,61,0
+197.25,3,No,No,Food,127,215,0
+223.97,19,Yes,No,Retail,257,165,0
+59.42,23,No,No,Food,24,69,0
+91.99,14,Yes,Yes,Digital Services,165,62,0
+90.26,7,Yes,No,Food,297,11,0
+132.89,9,Yes,No,Digital Services,193,119,0
+146.21,6,Yes,No,Food,75,79,0
+14.81,18,Yes,No,Digital Services,148,8,0
+56.32,14,Yes,No,Electronics,30,157,0
+738.0,22,Yes,No,Retail,242,177,0
+131.67,5,Yes,No,Electronics,12,198,0
+271.65,12,Yes,No,Retail,268,151,0
+285.17,8,No,No,Electronics,276,81,0
+85.19,0,No,No,Electronics,154,35,0
+178.43,14,No,No,Electronics,70,95,0
+806.72,2,Yes,No,Digital Services,141,145,0
+122.21,13,Yes,Yes,Retail,21,57,0
+524.94,20,No,No,Electronics,326,62,0
+59.65,13,Yes,Yes,Food,149,50,0
+213.4,5,Yes,No,Electronics,83,200,0
+56.04,9,Yes,No,Retail,234,183,0
+318.94,13,Yes,No,Food,118,65,0
+596.37,23,Yes,No,Travel,49,140,0

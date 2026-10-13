@@ -1,0 +1,1201 @@
+TransactionID,Date,CustomerAge,Gender,Product,Category,Quantity,UnitPrice,PaymentMethod,Region
+TXN00001,2025-02-02,48,Male,Running Shoes,Clothing,1,1791.11,UPI,Central
+TXN00002,2025-10-10,41,Female,Sunscreen,Beauty,1,971.5,UPI,North
+TXN00003,2025-08-27,26,Female,Mystery Novel,Books,2,707.4,UPI,West
+TXN00004,2025-06-10,29,Female,Sunscreen,Beauty,1,1081.8,UPI,Central
+TXN00005,2025-06-08,40,Male,Notebook,Books,4,748.5,Debit Card,Central
+TXN00006,2025-11-10,20,Male,Face Wash,Beauty,1,371.99,UPI,South
+TXN00007,2025-02-01,34,Female,Cookbook,Books,1,553.58,Debit Card,West
+TXN00008,2025-09-12,42,Female,Smart Watch,Electronics,1,2179.08,UPI,East
+TXN00009,2025-03-15,43,Female,Sunscreen,Beauty,1,462.76,UPI,North
+TXN00010,2025-02-04,61,Male,Hoodie,Clothing,1,2629.86,UPI,South
+TXN00011,2025-07-12,69,Female,Coffee Mug,Home & Kitchen,2,1547.89,Debit Card,West
+TXN00012,2025-12-23,56,Male,Desk Lamp,Home & Kitchen,1,2147.91,UPI,West
+TXN00013,2025-09-26,22,Female,Travel Guide,Books,2,445.19,Credit Card,East
+TXN00014,2025-10-05,39,Female,Mystery Novel,Books,4,539.2,UPI,West
+TXN00015,2025-09-19,56,Male,Hoodie,Clothing,2,1517.79,Cash,West
+TXN00016,2025-10-14,49,Female,Shampoo,Beauty,2,218.02,UPI,South
+TXN00017,2025-07-07,42,Female,Face Wash,Beauty,1,360.37,UPI,South
+TXN00018,2025-02-16,41,Male,Running Shoes,Clothing,1,1619.09,Debit Card,Central
+TXN00019,2025-11-03,39,Female,Power Bank,Electronics,1,764.35,UPI,Central
+TXN00020,2025-06-14,48,Female,Wireless Earbuds,Electronics,5,6078.49,UPI,North
+TXN00021,2025-07-02,27,Female,Lip Balm,Beauty,2,236.23,Debit Card,West
+TXN00022,2025-05-16,45,Female,Storage Box,Home & Kitchen,1,555.86,UPI,North
+TXN00023,2025-03-08,28,Male,Cookbook,Books,2,716.95,UPI,Central
+TXN00024,2025-12-05,54,Female,Running Shoes,Clothing,3,542.34,UPI,East
+TXN00025,2025-10-13,63,Male,Notebook,Books,2,822.22,UPI,West
+TXN00026,2025-08-24,44,Male,Hoodie,Clothing,2,2114.25,Cash,West
+TXN00027,2025-05-27,38,Male,Sunscreen,Beauty,4,175.48,Credit Card,West
+TXN00028,2025-10-28,67,Male,Bluetooth Speaker,Electronics,2,4604.86,Credit Card,South
+TXN00029,2025-07-19,52,Male,Cookware Set,Home & Kitchen,2,1444.84,UPI,Central
+TXN00030,2025-06-11,40,Male,Lip Balm,Beauty,1,933.08,Credit Card,East
+TXN00031,2025-06-14,19,Female,Self-Help Book,Books,1,765.99,Credit Card,East
+TXN00032,2025-03-24,18,Female,Shampoo,Beauty,5,890.19,UPI,South
+TXN00033,2025-02-03,29,Male,Wireless Earbuds,Electronics,2,3954.98,Debit Card,North
+TXN00034,2025-07-22,30,Female,Hoodie,Clothing,2,1106.16,Credit Card,East
+TXN00035,2025-11-21,56,Male,Phone Case,Electronics,2,4638.23,Debit Card,South
+TXN00036,2025-01-24,44,Female,Power Bank,Electronics,1,6235.38,UPI,West
+TXN00037,2025-11-10,70,Male,Coffee Mug,Home & Kitchen,3,1354.42,UPI,South
+TXN00038,2025-10-30,46,Female,Shampoo,Beauty,1,830.78,Debit Card,Central
+TXN00039,2025-04-12,65,Male,Face Wash,Beauty,3,580.84,Debit Card,West
+TXN00040,2025-08-19,47,Female,Travel Guide,Books,2,709.77,UPI,East
+TXN00041,2025-03-02,36,Female,Sunscreen,Beauty,1,1197.43,UPI,West
+TXN00042,2025-10-04,55,Male,Lip Balm,Beauty,1,276.43,Debit Card,West
+TXN00043,2025-09-13,41,Male,Phone Case,Electronics,3,1594.79,UPI,West
+TXN00044,2025-05-10,32,Male,Power Bank,Electronics,1,3667.54,UPI,East
+TXN00045,2025-01-25,43,Male,Cookware Set,Home & Kitchen,1,1136.82,Credit Card,Central
+TXN00046,2025-12-21,53,Female,Shampoo,Beauty,3,728.73,UPI,South
+TXN00047,2025-06-12,37,Male,USB-C Cable,Electronics,1,651.81,UPI,East
+TXN00048,2025-11-22,55,Female,Desk Lamp,Home & Kitchen,1,978.77,UPI,South
+TXN00049,2025-09-05,69,Male,Cookware Set,Home & Kitchen,1,1345.11,Cash,East
+TXN00050,2025-10-12,39,Female,Smart Watch,Electronics,3,3948.93,UPI,Central
+TXN00051,2025-10-05,33,Female,Cotton T-Shirt,Clothing,1,1943.33,Credit Card,West
+TXN00052,2025-03-13,39,Male,Mystery Novel,Books,1,681.77,Cash,South
+TXN00053,2025-05-13,62,Male,Coffee Mug,Home & Kitchen,1,1465.17,Credit Card,Central
+TXN00054,2025-06-20,27,Female,USB-C Cable,Electronics,1,5210.0,Credit Card,West
+TXN00055,2025-07-01,69,Male,Sunscreen,Beauty,1,787.24,Credit Card,East
+TXN00056,2025-01-16,39,Male,Running Shoes,Clothing,1,1643.77,UPI,North
+TXN00057,2025-07-19,62,Female,Shampoo,Beauty,1,766.82,Credit Card,East
+TXN00058,2025-02-26,59,Male,Summer Dress,Clothing,2,552.98,Cash,Central
+TXN00059,2025-09-29,59,Female,Storage Box,Home & Kitchen,4,709.97,Debit Card,East
+TXN00060,2025-09-07,66,Female,Running Shoes,Clothing,1,1618.5,UPI,North
+TXN00061,2025-12-03,27,Male,Running Shoes,Clothing,1,2482.47,UPI,North
+TXN00062,2025-09-29,49,Female,Self-Help Book,Books,4,649.66,Debit Card,Central
+TXN00063,2025-05-14,23,Female,Phone Case,Electronics,4,906.01,UPI,East
+TXN00064,2025-12-20,33,Male,Phone Case,Electronics,2,3992.49,Debit Card,West
+TXN00065,2025-05-30,20,Female,Running Shoes,Clothing,1,854.34,UPI,South
+TXN00066,2025-04-29,54,Male,Shampoo,Beauty,2,907.42,Debit Card,North
+TXN00067,2025-11-27,50,Male,Shampoo,Beauty,1,1010.18,Debit Card,East
+TXN00068,2025-05-16,57,Female,Mystery Novel,Books,1,582.9,Credit Card,West
+TXN00069,2025-01-28,27,Male,Running Shoes,Clothing,1,1778.41,UPI,South
+TXN00070,2025-06-21,35,Female,Denim Jeans,Clothing,2,1146.48,Debit Card,West
+TXN00071,2025-10-18,53,Male,Wireless Earbuds,Electronics,1,3094.44,UPI,East
+TXN00072,2025-03-11,61,Female,Water Bottle,Home & Kitchen,2,1921.42,UPI,South
+TXN00073,2025-06-18,64,Male,Self-Help Book,Books,1,684.19,Credit Card,South
+TXN00074,2025-02-17,21,Female,Face Wash,Beauty,1,671.73,Credit Card,South
+TXN00075,2025-09-08,39,Male,Desk Lamp,Home & Kitchen,3,904.88,Credit Card,South
+TXN00076,2025-06-23,18,Female,Running Shoes,Clothing,4,425.95,UPI,West
+TXN00077,2025-05-01,61,Female,Cookbook,Books,1,231.55,Credit Card,South
+TXN00078,2025-03-24,24,Female,Desk Lamp,Home & Kitchen,2,545.7,Debit Card,West
+TXN00079,2025-07-26,61,Male,USB-C Cable,Electronics,1,2646.31,UPI,South
+TXN00080,2025-09-02,26,Other,Hoodie,Clothing,1,2660.36,Credit Card,South
+TXN00081,2025-12-10,18,Female,Smart Watch,Electronics,3,3456.69,Credit Card,Central
+TXN00082,2025-06-09,64,Female,Wireless Earbuds,Electronics,1,1794.27,Debit Card,Central
+TXN00083,2025-02-28,41,Female,Bluetooth Speaker,Electronics,2,1000.36,Credit Card,East
+TXN00084,2025-10-31,40,Female,Running Shoes,Clothing,2,1145.76,Debit Card,South
+TXN00085,2025-08-18,52,Male,Cookware Set,Home & Kitchen,1,1822.25,UPI,West
+TXN00086,2025-09-13,32,Male,Cotton T-Shirt,Clothing,1,1258.36,UPI,North
+TXN00087,2025-02-05,54,Male,Cotton T-Shirt,Clothing,1,2231.26,Cash,East
+TXN00088,2025-04-25,40,Female,Notebook,Books,5,746.11,Debit Card,East
+TXN00089,2025-10-08,32,Female,Lip Balm,Beauty,2,221.9,Credit Card,West
+TXN00090,2025-10-31,38,Male,Water Bottle,Home & Kitchen,1,1397.75,Credit Card,North
+TXN00091,2025-06-08,18,Female,Running Shoes,Clothing,1,2697.74,Credit Card,North
+TXN00092,2025-10-21,33,Male,Travel Guide,Books,2,433.67,UPI,South
+TXN00093,2025-11-04,49,Female,Bluetooth Speaker,Electronics,1,663.31,Debit Card,North
+TXN00094,2025-05-22,25,Female,Denim Jeans,Clothing,2,2608.26,Debit Card,East
+TXN00095,2025-11-24,24,Male,Cookbook,Books,3,809.26,Credit Card,Central
+TXN00096,2025-04-16,52,Female,Desk Lamp,Home & Kitchen,2,1220.39,UPI,South
+TXN00097,2025-03-29,40,Male,Moisturiser,Beauty,1,707.48,UPI,East
+TXN00098,2025-09-07,25,Female,Coffee Mug,Home & Kitchen,1,584.07,UPI,South
+TXN00099,2025-08-21,57,Female,Storage Box,Home & Kitchen,1,1829.87,Debit Card,North
+TXN00100,2025-02-21,59,Female,Hoodie,Clothing,2,1546.5,Credit Card,West
+TXN00101,2025-10-31,19,Female,Wireless Earbuds,Electronics,4,558.35,UPI,South
+TXN00102,2025-03-14,28,Male,Denim Jeans,Clothing,1,2007.54,Credit Card,East
+TXN00103,2025-10-21,37,Female,Bluetooth Speaker,Electronics,2,6195.55,Cash,West
+TXN00104,2025-01-03,56,Male,Notebook,Books,2,766.74,UPI,Central
+TXN00105,2025-10-18,21,Male,Summer Dress,Clothing,1,993.0,Credit Card,North
+TXN00106,2025-10-15,60,Female,Coffee Mug,Home & Kitchen,1,259.32,Credit Card,East
+TXN00107,2025-10-12,34,Female,Face Wash,Beauty,1,1134.39,UPI,Central
+TXN00108,2025-08-31,24,Female,Sunscreen,Beauty,2,1130.77,Credit Card,East
+TXN00109,2025-06-22,63,Male,Running Shoes,Clothing,2,1631.04,Credit Card,North
+TXN00110,2025-09-15,22,Male,Summer Dress,Clothing,3,1905.79,UPI,South
+TXN00111,2025-04-12,24,Female,Cookbook,Books,4,480.83,UPI,West
+TXN00112,2025-10-12,68,Male,Cookware Set,Home & Kitchen,3,1010.52,Debit Card,West
+TXN00113,2025-07-22,45,Female,Lip Balm,Beauty,5,231.39,UPI,South
+TXN00114,2025-06-17,42,Female,Cookbook,Books,3,195.47,Credit Card,North
+TXN00115,2025-07-04,54,Female,Sunscreen,Beauty,3,356.01,Credit Card,South
+TXN00116,2025-07-27,51,Other,Bluetooth Speaker,Electronics,3,5495.34,Debit Card,South
+TXN00117,2025-01-14,50,Female,Storage Box,Home & Kitchen,3,448.96,Debit Card,West
+TXN00118,2025-02-21,19,Female,Bluetooth Speaker,Electronics,3,1744.2,Debit Card,Central
+TXN00119,2025-03-31,47,Female,Desk Lamp,Home & Kitchen,4,1274.66,Credit Card,North
+TXN00120,2025-02-11,32,Male,Cookbook,Books,2,287.8,Credit Card,West
+TXN00121,2025-06-10,60,Female,Desk Lamp,Home & Kitchen,2,484.57,UPI,West
+TXN00122,2025-09-01,44,Female,Running Shoes,Clothing,2,1708.29,UPI,West
+TXN00123,2025-08-27,24,Female,Smart Watch,Electronics,3,2613.77,UPI,Central
+TXN00124,2025-06-21,64,Male,Notebook,Books,2,608.4,UPI,North
+TXN00125,2025-11-09,33,Female,Wireless Earbuds,Electronics,3,5960.06,UPI,West
+TXN00126,2025-07-26,32,Male,Phone Case,Electronics,3,1278.61,UPI,North
+TXN00127,2025-01-29,67,Female,Wireless Earbuds,Electronics,5,5967.62,UPI,Central
+TXN00128,2025-10-07,59,Female,USB-C Cable,Electronics,1,5900.31,UPI,East
+TXN00129,2025-07-29,63,Male,Denim Jeans,Clothing,3,2372.72,Debit Card,North
+TXN00130,2025-08-20,53,Male,Desk Lamp,Home & Kitchen,3,1444.14,Credit Card,West
+TXN00131,2025-07-26,66,Female,Hoodie,Clothing,4,1850.37,Debit Card,West
+TXN00132,2025-07-22,24,Male,Phone Case,Electronics,4,4281.16,Credit Card,East
+TXN00133,2025-02-03,49,Male,Power Bank,Electronics,2,4596.55,Debit Card,South
+TXN00134,2025-07-24,33,Female,Summer Dress,Clothing,2,341.21,Debit Card,North
+TXN00135,2025-10-18,39,Male,Bluetooth Speaker,Electronics,1,6242.27,UPI,Central
+TXN00136,2025-04-21,30,Male,Storage Box,Home & Kitchen,5,1350.49,Cash,North
+TXN00137,2025-08-09,28,Female,Power Bank,Electronics,1,5156.01,UPI,Central
+TXN00138,2025-01-12,41,Male,Running Shoes,Clothing,3,1243.2,Credit Card,East
+TXN00139,2025-05-07,66,Female,Hoodie,Clothing,3,330.99,Debit Card,West
+TXN00140,2025-06-09,51,Female,Summer Dress,Clothing,2,1574.34,UPI,West
+TXN00141,2025-12-25,36,Male,Bluetooth Speaker,Electronics,1,3469.22,Credit Card,Central
+TXN00142,2025-03-20,40,Male,Bluetooth Speaker,Electronics,1,3037.48,UPI,North
+TXN00143,2025-04-11,46,Male,Notebook,Books,3,384.98,UPI,Central
+TXN00144,2025-05-30,30,Male,Power Bank,Electronics,2,1886.43,UPI,North
+TXN00145,2025-12-29,45,Male,Storage Box,Home & Kitchen,1,1231.47,UPI,Central
+TXN00146,2025-11-08,54,Female,Cookware Set,Home & Kitchen,3,919.32,UPI,South
+TXN00147,2025-01-13,30,Other,Running Shoes,Clothing,1,2724.83,Credit Card,Central
+TXN00148,2025-03-27,48,Male,Summer Dress,Clothing,4,732.32,Credit Card,North
+TXN00149,2025-10-27,55,Male,Lip Balm,Beauty,1,451.63,Credit Card,East
+TXN00150,2025-01-22,45,Female,Lip Balm,Beauty,1,423.36,Credit Card,East
+TXN00151,2025-11-09,33,Female,Running Shoes,Clothing,1,1658.27,UPI,Central
+TXN00152,2025-04-13,47,Female,Hoodie,Clothing,2,1548.2,UPI,North
+TXN00153,2025-12-01,60,Female,Phone Case,Electronics,2,4309.0,Debit Card,North
+TXN00154,2025-04-18,29,Female,Denim Jeans,Clothing,3,2675.0,Cash,West
+TXN00155,2025-06-08,48,Male,Water Bottle,Home & Kitchen,2,734.7,Credit Card,North
+TXN00156,2025-08-30,54,Male,Bluetooth Speaker,Electronics,1,4610.55,UPI,West
+TXN00157,2025-02-16,35,Female,Hoodie,Clothing,1,362.6,Debit Card,North
+TXN00158,2025-07-23,38,Female,Self-Help Book,Books,1,324.66,Debit Card,Central
+TXN00159,2025-07-04,65,Male,Wireless Earbuds,Electronics,4,3201.88,UPI,East
+TXN00160,2025-10-14,37,Female,Running Shoes,Clothing,1,377.49,UPI,Central
+TXN00161,2025-12-30,49,Male,Face Wash,Beauty,5,779.44,UPI,North
+TXN00162,2025-08-31,25,Female,USB-C Cable,Electronics,1,4521.61,Credit Card,South
+TXN00163,2025-05-30,67,Female,USB-C Cable,Electronics,1,4942.4,Cash,East
+TXN00164,2025-05-29,49,Female,USB-C Cable,Electronics,1,3526.93,Credit Card,North
+TXN00165,2025-06-02,58,Male,Self-Help Book,Books,1,591.08,UPI,North
+TXN00166,2025-10-25,49,Female,Power Bank,Electronics,3,2785.8,Credit Card,South
+TXN00167,2025-04-28,36,Male,Smart Watch,Electronics,2,603.71,Debit Card,West
+TXN00168,2025-03-02,36,Female,Smart Watch,Electronics,1,964.7,Credit Card,West
+TXN00169,2025-05-03,55,Female,Smart Watch,Electronics,2,4378.22,Debit Card,North
+TXN00170,2025-01-09,63,Male,Storage Box,Home & Kitchen,2,2190.89,UPI,North
+TXN00171,2025-02-08,24,Female,Power Bank,Electronics,4,447.19,UPI,West
+TXN00172,2025-02-02,62,Female,Storage Box,Home & Kitchen,5,1293.05,Credit Card,South
+TXN00173,2025-10-09,61,Male,Coffee Mug,Home & Kitchen,2,1689.57,Credit Card,West
+TXN00174,2025-09-21,23,Male,Face Wash,Beauty,3,1009.45,Cash,South
+TXN00175,2025-09-12,23,Female,Power Bank,Electronics,3,3703.01,Credit Card,South
+TXN00176,2025-06-18,54,Female,Face Wash,Beauty,2,781.91,UPI,South
+TXN00177,2025-09-19,62,Other,Coffee Mug,Home & Kitchen,3,1578.29,UPI,South
+TXN00178,2025-02-28,38,Male,Phone Case,Electronics,1,5632.64,Credit Card,West
+TXN00179,2025-11-25,51,Male,Lip Balm,Beauty,3,234.52,UPI,East
+TXN00180,2025-07-02,70,Male,Shampoo,Beauty,5,1118.8,Debit Card,West
+TXN00181,2025-12-09,35,Male,Cotton T-Shirt,Clothing,1,365.04,UPI,North
+TXN00182,2025-02-25,29,Female,Cookbook,Books,3,772.24,UPI,East
+TXN00183,2025-07-01,70,Female,Cotton T-Shirt,Clothing,4,491.85,Credit Card,East
+TXN00184,2025-09-12,32,Male,Desk Lamp,Home & Kitchen,1,548.99,UPI,Central
+TXN00185,2025-06-30,43,Male,Notebook,Books,2,123.04,Credit Card,East
+TXN00186,2025-06-12,41,Male,Running Shoes,Clothing,4,1413.14,Credit Card,North
+TXN00187,2025-03-02,45,Male,Face Wash,Beauty,5,467.8,Credit Card,West
+TXN00188,2025-05-20,32,Female,Cotton T-Shirt,Clothing,1,714.98,Debit Card,North
+TXN00189,2025-03-29,53,Female,Lip Balm,Beauty,1,596.2,Debit Card,Central
+TXN00190,2025-04-21,54,Male,Storage Box,Home & Kitchen,2,974.86,Debit Card,South
+TXN00191,2025-09-07,28,Female,Wireless Earbuds,Electronics,1,5071.12,UPI,West
+TXN00192,2025-08-19,43,Male,Cotton T-Shirt,Clothing,1,2532.83,UPI,West
+TXN00193,2025-08-10,21,Male,Denim Jeans,Clothing,1,1931.42,Debit Card,East
+TXN00194,2025-05-13,29,Female,USB-C Cable,Electronics,1,1115.12,Credit Card,East
+TXN00195,2025-12-17,70,Male,Phone Case,Electronics,2,2166.65,Credit Card,North
+TXN00196,2025-02-01,44,Male,Denim Jeans,Clothing,2,2583.3,Credit Card,North
+TXN00197,2025-05-06,51,Male,Smart Watch,Electronics,2,895.72,Debit Card,West
+TXN00198,2025-02-13,65,Female,Wireless Earbuds,Electronics,3,2852.16,UPI,Central
+TXN00199,2025-05-04,55,Male,Face Wash,Beauty,2,1136.76,Credit Card,Central
+TXN00200,2025-12-18,59,Female,Face Wash,Beauty,1,1145.73,UPI,South
+TXN00201,2025-05-14,55,Male,Lip Balm,Beauty,1,552.32,UPI,South
+TXN00202,2025-11-28,44,Female,Running Shoes,Clothing,1,1968.49,Credit Card,South
+TXN00203,2025-06-30,51,Male,Notebook,Books,1,476.26,Credit Card,West
+TXN00204,2025-09-13,33,Male,Water Bottle,Home & Kitchen,1,1694.59,UPI,West
+TXN00205,2025-06-16,65,Male,Wireless Earbuds,Electronics,1,544.23,Debit Card,West
+TXN00206,2025-04-08,27,Male,Phone Case,Electronics,1,1236.57,Debit Card,Central
+TXN00207,2025-10-06,64,Female,Water Bottle,Home & Kitchen,2,1409.11,Credit Card,South
+TXN00208,2025-12-20,64,Male,Wireless Earbuds,Electronics,2,1780.2,Cash,West
+TXN00209,2025-04-07,25,Female,Coffee Mug,Home & Kitchen,4,1515.41,UPI,East
+TXN00210,2025-10-12,55,Male,Travel Guide,Books,3,393.95,Debit Card,Central
+TXN00211,2025-04-06,70,Female,Bluetooth Speaker,Electronics,2,5802.87,UPI,South
+TXN00212,2025-09-19,48,Male,Power Bank,Electronics,1,5388.45,UPI,North
+TXN00213,2025-10-15,36,Female,Travel Guide,Books,2,504.41,UPI,South
+TXN00214,2025-06-14,64,Male,Coffee Mug,Home & Kitchen,1,1734.43,UPI,West
+TXN00215,2025-09-26,45,Male,Power Bank,Electronics,2,2017.5,Credit Card,Central
+TXN00216,2025-04-10,24,Female,Mystery Novel,Books,1,505.52,UPI,Central
+TXN00217,2025-01-29,31,Female,Self-Help Book,Books,2,274.04,Credit Card,North
+TXN00218,2025-02-05,54,Male,Cookware Set,Home & Kitchen,1,1914.82,UPI,East
+TXN00219,2025-06-13,42,Male,Desk Lamp,Home & Kitchen,2,1837.29,UPI,North
+TXN00220,2025-11-26,29,Female,Summer Dress,Clothing,3,2555.37,Cash,South
+TXN00221,2025-02-16,60,Female,Wireless Earbuds,Electronics,3,5746.48,Credit Card,Central
+TXN00222,2025-06-16,24,Female,Water Bottle,Home & Kitchen,2,2117.17,Cash,Central
+TXN00223,2025-09-14,29,Male,Running Shoes,Clothing,2,870.84,Credit Card,North
+TXN00224,2025-03-15,42,Male,Water Bottle,Home & Kitchen,1,2060.24,UPI,North
+TXN00225,2025-09-21,20,Female,Shampoo,Beauty,3,728.33,Credit Card,West
+TXN00226,2025-04-22,38,Male,Phone Case,Electronics,2,2948.34,Credit Card,East
+TXN00227,2025-10-23,66,Male,Storage Box,Home & Kitchen,1,1298.77,UPI,East
+TXN00228,2025-07-31,67,Male,USB-C Cable,Electronics,1,2457.0,Debit Card,Central
+TXN00229,2025-07-19,64,Female,Travel Guide,Books,4,345.07,Credit Card,Central
+TXN00230,2025-03-06,35,Female,Cotton T-Shirt,Clothing,2,903.29,Debit Card,Central
+TXN00231,2025-06-19,21,Female,Cookware Set,Home & Kitchen,2,318.98,Credit Card,West
+TXN00232,2025-11-09,61,Female,Storage Box,Home & Kitchen,2,1167.96,Credit Card,Central
+TXN00233,2025-01-08,37,Female,Summer Dress,Clothing,2,2519.4,UPI,West
+TXN00234,2025-10-04,57,Female,Desk Lamp,Home & Kitchen,2,1441.81,Cash,Central
+TXN00235,2025-06-29,24,Female,Face Wash,Beauty,1,673.07,UPI,East
+TXN00236,2025-09-20,53,Male,Desk Lamp,Home & Kitchen,2,1028.62,UPI,North
+TXN00237,2025-08-31,49,Female,Face Wash,Beauty,2,610.84,UPI,Central
+TXN00238,2025-06-07,66,Male,Self-Help Book,Books,1,283.24,Credit Card,Central
+TXN00239,2025-04-23,23,Female,Summer Dress,Clothing,3,2357.34,Cash,South
+TXN00240,2025-08-17,39,Male,Cookware Set,Home & Kitchen,1,556.69,Debit Card,East
+TXN00241,2025-02-21,70,Female,Phone Case,Electronics,2,4757.23,Debit Card,East
+TXN00242,2025-08-02,38,Male,Shampoo,Beauty,2,935.98,Cash,West
+TXN00243,2025-02-04,52,Male,Coffee Mug,Home & Kitchen,2,1328.48,Debit Card,West
+TXN00244,2025-08-26,26,Female,Denim Jeans,Clothing,2,2457.32,UPI,South
+TXN00245,2025-08-18,56,Male,Phone Case,Electronics,5,2139.96,Credit Card,Central
+TXN00246,2025-01-31,32,Female,Self-Help Book,Books,2,807.66,UPI,Central
+TXN00247,2025-10-04,48,Male,Hoodie,Clothing,3,2123.53,UPI,Central
+TXN00248,2025-06-01,64,Female,Storage Box,Home & Kitchen,3,1787.44,UPI,East
+TXN00249,2025-10-15,53,Female,Smart Watch,Electronics,1,4437.17,UPI,North
+TXN00250,2025-01-16,43,Female,Cookbook,Books,1,780.15,Cash,Central
+TXN00251,2025-03-07,28,Male,Smart Watch,Electronics,2,6457.56,Cash,North
+TXN00252,2025-06-30,36,Female,Wireless Earbuds,Electronics,1,2934.0,UPI,North
+TXN00253,2025-03-10,63,Male,Face Wash,Beauty,1,995.31,Debit Card,South
+TXN00254,2025-05-01,29,Female,Cookbook,Books,1,700.77,UPI,North
+TXN00255,2025-08-30,52,Female,Power Bank,Electronics,2,3135.15,UPI,West
+TXN00256,2025-02-22,43,Female,Hoodie,Clothing,1,2617.37,UPI,East
+TXN00257,2025-09-05,35,Male,Moisturiser,Beauty,3,533.87,UPI,South
+TXN00258,2025-02-07,55,Male,Mystery Novel,Books,2,561.06,UPI,North
+TXN00259,2025-03-05,37,Female,Denim Jeans,Clothing,3,564.86,UPI,South
+TXN00260,2025-08-03,33,Male,Coffee Mug,Home & Kitchen,1,612.84,UPI,West
+TXN00261,2025-10-17,46,Female,Shampoo,Beauty,2,1024.77,UPI,West
+TXN00262,2025-03-04,58,Female,Sunscreen,Beauty,1,536.21,Cash,South
+TXN00263,2025-04-20,63,Male,Moisturiser,Beauty,2,533.49,UPI,North
+TXN00264,2025-12-04,51,Female,Desk Lamp,Home & Kitchen,1,654.26,UPI,East
+TXN00265,2025-12-28,53,Female,USB-C Cable,Electronics,4,3373.4,Credit Card,West
+TXN00266,2025-08-01,59,Male,Travel Guide,Books,1,748.54,UPI,North
+TXN00267,2025-06-13,32,Female,Self-Help Book,Books,2,818.23,Credit Card,West
+TXN00268,2025-05-07,31,Male,Lip Balm,Beauty,1,177.13,UPI,North
+TXN00269,2025-08-12,43,Male,Bluetooth Speaker,Electronics,2,3885.15,Credit Card,South
+TXN00270,2025-08-04,51,Male,Smart Watch,Electronics,2,3223.73,Credit Card,West
+TXN00271,2025-04-18,52,Male,Face Wash,Beauty,1,775.71,Credit Card,North
+TXN00272,2025-01-09,26,Male,Wireless Earbuds,Electronics,1,3100.75,Credit Card,South
+TXN00273,2025-02-25,59,Female,Notebook,Books,1,430.94,Credit Card,North
+TXN00274,2025-12-16,37,Male,Running Shoes,Clothing,1,1479.7,UPI,South
+TXN00275,2025-06-02,64,Male,Sunscreen,Beauty,5,740.2,UPI,West
+TXN00276,2025-06-26,56,Male,Travel Guide,Books,2,510.77,Credit Card,South
+TXN00277,2025-06-20,70,Female,Hoodie,Clothing,1,1480.36,UPI,North
+TXN00278,2025-10-13,51,Male,Denim Jeans,Clothing,5,2344.59,UPI,South
+TXN00279,2025-01-24,45,Male,Water Bottle,Home & Kitchen,1,1678.58,Credit Card,North
+TXN00280,2025-01-31,27,Female,Water Bottle,Home & Kitchen,2,849.83,UPI,West
+TXN00281,2025-04-11,39,Male,Summer Dress,Clothing,3,2301.44,UPI,Central
+TXN00282,2025-06-27,63,Female,Storage Box,Home & Kitchen,4,1899.98,Credit Card,North
+TXN00283,2025-09-02,38,Female,Self-Help Book,Books,3,239.72,UPI,West
+TXN00284,2025-06-29,20,Male,Running Shoes,Clothing,2,1756.71,Debit Card,South
+TXN00285,2025-06-11,30,Female,Wireless Earbuds,Electronics,5,2104.67,Cash,North
+TXN00286,2025-12-09,49,Female,Running Shoes,Clothing,1,2147.93,Cash,West
+TXN00287,2025-02-28,51,Female,Cotton T-Shirt,Clothing,5,896.96,UPI,South
+TXN00288,2025-07-28,70,Female,Bluetooth Speaker,Electronics,3,4479.13,UPI,East
+TXN00289,2025-07-17,67,Male,Wireless Earbuds,Electronics,4,1919.02,Credit Card,East
+TXN00290,2025-06-22,46,Male,Cookware Set,Home & Kitchen,1,1197.84,Credit Card,East
+TXN00291,2025-10-22,47,Male,Running Shoes,Clothing,1,2671.62,Credit Card,North
+TXN00292,2025-04-08,60,Female,Notebook,Books,2,417.42,UPI,South
+TXN00293,2025-12-15,20,Male,Power Bank,Electronics,2,5735.79,UPI,West
+TXN00294,2025-05-02,49,Male,Bluetooth Speaker,Electronics,2,6419.71,UPI,Central
+TXN00295,2025-07-18,43,Male,Sunscreen,Beauty,4,1062.34,UPI,North
+TXN00296,2025-07-10,59,Female,Notebook,Books,2,249.38,UPI,East
+TXN00297,2025-11-07,60,Female,Running Shoes,Clothing,1,2349.15,Cash,Central
+TXN00298,2025-06-10,52,Male,Wireless Earbuds,Electronics,2,547.72,UPI,South
+TXN00299,2025-04-14,52,Male,Bluetooth Speaker,Electronics,1,2768.81,Credit Card,East
+TXN00300,2025-01-08,54,Female,Cookware Set,Home & Kitchen,1,1935.0,Cash,Central
+TXN00301,2025-05-13,48,Male,Running Shoes,Clothing,1,2021.88,UPI,Central
+TXN00302,2025-10-29,30,Female,Summer Dress,Clothing,3,1631.85,Credit Card,West
+TXN00303,2025-01-04,33,Female,USB-C Cable,Electronics,3,2735.36,Credit Card,West
+TXN00304,2025-11-24,57,Male,Water Bottle,Home & Kitchen,2,1815.21,UPI,West
+TXN00305,2025-07-18,50,Male,Notebook,Books,1,673.46,Credit Card,South
+TXN00306,2025-02-21,30,Female,Desk Lamp,Home & Kitchen,2,1110.23,Debit Card,Central
+TXN00307,2025-04-21,64,Male,Desk Lamp,Home & Kitchen,3,1979.59,Debit Card,North
+TXN00308,2025-07-22,69,Male,Phone Case,Electronics,4,1764.18,Debit Card,North
+TXN00309,2025-04-26,51,Female,Cotton T-Shirt,Clothing,2,725.98,Cash,West
+TXN00310,2025-02-09,30,Male,Summer Dress,Clothing,3,1907.01,UPI,Central
+TXN00311,2025-09-01,67,Male,Moisturiser,Beauty,2,1169.19,Debit Card,Central
+TXN00312,2025-09-03,30,Male,Notebook,Books,2,312.86,Credit Card,West
+TXN00313,2025-02-13,40,Other,Mystery Novel,Books,4,314.74,Credit Card,South
+TXN00314,2025-04-13,63,Male,Self-Help Book,Books,1,228.81,Debit Card,South
+TXN00315,2025-03-31,45,Female,Travel Guide,Books,1,791.24,Debit Card,East
+TXN00316,2025-08-29,30,Female,Mystery Novel,Books,1,296.59,Debit Card,South
+TXN00317,2025-09-24,22,Male,Wireless Earbuds,Electronics,2,3444.55,UPI,East
+TXN00318,2025-09-23,37,Other,Phone Case,Electronics,2,6443.87,Credit Card,North
+TXN00319,2025-12-09,53,Female,Cotton T-Shirt,Clothing,2,330.35,UPI,South
+TXN00320,2025-10-08,55,Female,Desk Lamp,Home & Kitchen,2,1290.8,Credit Card,Central
+TXN00321,2025-04-28,29,Male,Phone Case,Electronics,1,3500.58,Debit Card,West
+TXN00322,2025-02-09,26,Female,Sunscreen,Beauty,4,988.19,Debit Card,North
+TXN00323,2025-08-13,55,Female,Coffee Mug,Home & Kitchen,1,878.33,UPI,South
+TXN00324,2025-12-01,26,Male,Coffee Mug,Home & Kitchen,4,991.2,Credit Card,South
+TXN00325,2025-12-22,21,Male,USB-C Cable,Electronics,1,1382.82,UPI,South
+TXN00326,2025-03-26,43,Male,Running Shoes,Clothing,2,2152.04,UPI,West
+TXN00327,2025-03-28,48,Male,USB-C Cable,Electronics,2,5175.96,UPI,Central
+TXN00328,2025-01-14,30,Female,Face Wash,Beauty,3,250.33,Cash,West
+TXN00329,2025-02-21,29,Male,Desk Lamp,Home & Kitchen,1,956.59,UPI,East
+TXN00330,2025-07-22,30,Female,Sunscreen,Beauty,4,1082.2,Cash,North
+TXN00331,2025-07-19,36,Female,Hoodie,Clothing,2,306.77,UPI,North
+TXN00332,2025-05-16,18,Male,Cotton T-Shirt,Clothing,2,1046.9,Debit Card,Central
+TXN00333,2025-04-24,18,Male,Hoodie,Clothing,2,1687.61,Credit Card,West
+TXN00334,2025-10-30,37,Male,Sunscreen,Beauty,1,467.5,Credit Card,East
+TXN00335,2025-06-17,19,Female,Face Wash,Beauty,2,399.25,Credit Card,East
+TXN00336,2025-10-23,34,Male,Phone Case,Electronics,1,3179.23,Debit Card,Central
+TXN00337,2025-12-18,48,Male,Self-Help Book,Books,1,261.59,Cash,Central
+TXN00338,2025-04-26,19,Male,Power Bank,Electronics,2,3607.2,Credit Card,North
+TXN00339,2025-03-15,50,Male,Travel Guide,Books,2,671.22,UPI,South
+TXN00340,2025-12-14,50,Female,USB-C Cable,Electronics,1,3888.06,UPI,North
+TXN00341,2025-08-20,48,Male,Running Shoes,Clothing,1,532.77,Debit Card,South
+TXN00342,2025-04-17,51,Male,Moisturiser,Beauty,1,1028.85,Credit Card,West
+TXN00343,2025-08-15,60,Male,Phone Case,Electronics,1,1426.11,Credit Card,South
+TXN00344,2025-07-07,21,Male,Summer Dress,Clothing,2,2212.03,Credit Card,North
+TXN00345,2025-11-27,26,Male,Cotton T-Shirt,Clothing,1,1201.41,UPI,East
+TXN00346,2025-04-04,34,Female,Smart Watch,Electronics,4,5163.98,Debit Card,East
+TXN00347,2025-12-28,54,Female,Face Wash,Beauty,1,326.9,Debit Card,West
+TXN00348,2025-12-08,64,Male,Moisturiser,Beauty,1,305.33,Debit Card,North
+TXN00349,2025-03-07,66,Male,Notebook,Books,4,507.68,Debit Card,South
+TXN00350,2025-03-02,48,Male,Cotton T-Shirt,Clothing,1,382.34,Debit Card,West
+TXN00351,2025-07-14,39,Female,Storage Box,Home & Kitchen,2,611.86,Credit Card,West
+TXN00352,2025-01-17,39,Female,Bluetooth Speaker,Electronics,5,4802.68,Cash,Central
+TXN00353,2025-04-20,21,Male,Smart Watch,Electronics,4,5499.91,UPI,Central
+TXN00354,2025-06-08,42,Male,Power Bank,Electronics,3,846.83,Credit Card,Central
+TXN00355,2025-12-20,45,Female,Self-Help Book,Books,1,808.02,Debit Card,East
+TXN00356,2025-12-29,29,Male,Notebook,Books,2,742.06,Credit Card,Central
+TXN00357,2025-02-25,58,Female,Shampoo,Beauty,5,1056.65,UPI,East
+TXN00358,2025-11-22,61,Male,Desk Lamp,Home & Kitchen,4,1581.78,Credit Card,Central
+TXN00359,2025-02-03,34,Female,Water Bottle,Home & Kitchen,1,1532.01,UPI,South
+TXN00360,2025-10-01,66,Female,Storage Box,Home & Kitchen,1,1226.44,Cash,East
+TXN00361,2025-11-05,23,Female,Cookware Set,Home & Kitchen,1,1488.21,UPI,West
+TXN00362,2025-11-22,66,Male,Summer Dress,Clothing,1,2597.77,UPI,South
+TXN00363,2025-03-23,58,Male,USB-C Cable,Electronics,2,968.21,Credit Card,North
+TXN00364,2025-11-23,29,Male,Power Bank,Electronics,1,2291.95,UPI,Central
+TXN00365,2025-02-12,52,Female,Mystery Novel,Books,1,176.51,UPI,East
+TXN00366,2025-07-09,34,Female,Cookware Set,Home & Kitchen,1,2086.85,Credit Card,Central
+TXN00367,2025-06-21,60,Female,Travel Guide,Books,2,467.31,Credit Card,South
+TXN00368,2025-04-26,26,Male,Bluetooth Speaker,Electronics,1,4503.37,UPI,Central
+TXN00369,2025-01-09,30,Female,Coffee Mug,Home & Kitchen,2,1874.3,Credit Card,West
+TXN00370,2025-10-09,34,Male,USB-C Cable,Electronics,1,6444.65,Credit Card,West
+TXN00371,2025-05-03,28,Male,Running Shoes,Clothing,5,704.46,Debit Card,West
+TXN00372,2025-08-30,35,Male,Phone Case,Electronics,1,5267.0,UPI,South
+TXN00373,2025-05-30,49,Female,Wireless Earbuds,Electronics,2,5807.65,UPI,Central
+TXN00374,2025-05-17,51,Male,Cookbook,Books,1,158.12,Cash,Central
+TXN00375,2025-11-20,47,Female,Cotton T-Shirt,Clothing,1,2185.23,Credit Card,West
+TXN00376,2025-02-04,28,Female,Desk Lamp,Home & Kitchen,1,877.19,UPI,Central
+TXN00377,2025-09-26,28,Male,Hoodie,Clothing,1,1921.49,Debit Card,Central
+TXN00378,2025-09-30,66,Male,Summer Dress,Clothing,1,1585.12,UPI,West
+TXN00379,2025-05-19,31,Male,Coffee Mug,Home & Kitchen,2,682.47,Debit Card,East
+TXN00380,2025-04-06,23,Female,Wireless Earbuds,Electronics,2,1181.61,Debit Card,Central
+TXN00381,2025-01-02,42,Other,Self-Help Book,Books,1,211.22,Cash,North
+TXN00382,2025-12-08,18,Other,Face Wash,Beauty,2,213.66,Cash,East
+TXN00383,2025-12-12,36,Female,Sunscreen,Beauty,2,801.57,UPI,Central
+TXN00384,2025-03-29,63,Male,Hoodie,Clothing,1,1178.53,Debit Card,Central
+TXN00385,2025-01-12,32,Female,Phone Case,Electronics,1,1682.3,UPI,South
+TXN00386,2025-02-14,55,Male,Cookbook,Books,1,659.67,Credit Card,North
+TXN00387,2025-01-25,43,Male,Denim Jeans,Clothing,1,2017.12,Credit Card,South
+TXN00388,2025-10-31,36,Male,Wireless Earbuds,Electronics,2,3665.88,UPI,Central
+TXN00389,2025-11-22,53,Male,Running Shoes,Clothing,5,2637.39,UPI,East
+TXN00390,2025-02-25,49,Female,Shampoo,Beauty,5,523.96,UPI,North
+TXN00391,2025-09-30,34,Male,Desk Lamp,Home & Kitchen,5,1863.52,UPI,North
+TXN00392,2025-03-07,29,Male,Sunscreen,Beauty,2,182.65,UPI,South
+TXN00393,2025-05-15,66,Female,Face Wash,Beauty,1,913.81,Cash,South
+TXN00394,2025-08-07,26,Female,Bluetooth Speaker,Electronics,1,6428.95,Credit Card,North
+TXN00395,2025-09-20,68,Male,Self-Help Book,Books,1,780.35,Debit Card,East
+TXN00396,2025-11-16,42,Male,Denim Jeans,Clothing,1,1749.16,Debit Card,East
+TXN00397,2025-01-17,70,Male,Water Bottle,Home & Kitchen,1,1434.87,Debit Card,North
+TXN00398,2025-03-13,36,Male,Phone Case,Electronics,2,2522.73,UPI,South
+TXN00399,2025-04-13,47,Male,Travel Guide,Books,1,650.0,Debit Card,West
+TXN00400,2025-04-24,50,Female,Running Shoes,Clothing,1,2225.99,Debit Card,Central
+TXN00401,2025-12-31,35,Female,Bluetooth Speaker,Electronics,3,6489.11,Debit Card,Central
+TXN00402,2025-10-11,29,Male,Summer Dress,Clothing,1,1531.16,Cash,East
+TXN00403,2025-04-27,45,Male,Wireless Earbuds,Electronics,3,727.02,Credit Card,North
+TXN00404,2025-12-21,53,Male,Power Bank,Electronics,1,4014.53,Credit Card,Central
+TXN00405,2025-07-02,31,Male,Cookware Set,Home & Kitchen,2,394.0,Debit Card,Central
+TXN00406,2025-07-02,58,Male,Summer Dress,Clothing,1,911.91,Credit Card,South
+TXN00407,2025-06-08,51,Male,Cookbook,Books,2,376.45,Debit Card,East
+TXN00408,2025-02-22,26,Male,Hoodie,Clothing,1,2127.57,UPI,North
+TXN00409,2025-12-08,67,Female,Face Wash,Beauty,1,302.19,UPI,Central
+TXN00410,2025-01-06,20,Male,Cotton T-Shirt,Clothing,2,714.38,Credit Card,West
+TXN00411,2025-03-05,52,Male,Storage Box,Home & Kitchen,1,242.18,UPI,North
+TXN00412,2025-03-25,41,Female,Cookware Set,Home & Kitchen,1,1940.14,Cash,West
+TXN00413,2025-04-12,52,Male,Hoodie,Clothing,4,2033.76,UPI,East
+TXN00414,2025-02-18,59,Male,Self-Help Book,Books,1,151.16,Debit Card,East
+TXN00415,2025-01-07,54,Male,Denim Jeans,Clothing,2,370.73,UPI,South
+TXN00416,2025-09-05,52,Male,Wireless Earbuds,Electronics,2,3785.85,Cash,Central
+TXN00417,2025-12-20,62,Female,Storage Box,Home & Kitchen,1,729.2,UPI,East
+TXN00418,2025-02-14,55,Female,Face Wash,Beauty,2,756.4,UPI,Central
+TXN00419,2025-04-19,61,Female,Bluetooth Speaker,Electronics,1,3022.82,UPI,North
+TXN00420,2025-07-04,39,Female,Hoodie,Clothing,3,2608.28,Credit Card,East
+TXN00421,2025-12-05,28,Male,Mystery Novel,Books,1,344.49,Cash,South
+TXN00422,2025-09-11,30,Male,Face Wash,Beauty,1,847.06,Cash,Central
+TXN00423,2025-10-07,50,Male,Self-Help Book,Books,1,162.16,UPI,East
+TXN00424,2025-08-01,46,Female,Storage Box,Home & Kitchen,4,2109.51,Credit Card,West
+TXN00425,2025-06-02,22,Female,Coffee Mug,Home & Kitchen,3,2160.55,UPI,North
+TXN00426,2025-03-14,28,Female,Cotton T-Shirt,Clothing,4,2147.69,Credit Card,West
+TXN00427,2025-11-12,69,Male,Cookbook,Books,2,482.87,Credit Card,North
+TXN00428,2025-10-21,56,Female,Running Shoes,Clothing,2,849.98,UPI,South
+TXN00429,2025-01-10,58,Male,Sunscreen,Beauty,2,993.77,Credit Card,South
+TXN00430,2025-09-19,28,Male,Running Shoes,Clothing,4,2140.89,Debit Card,North
+TXN00431,2025-01-31,21,Male,Coffee Mug,Home & Kitchen,2,605.01,UPI,East
+TXN00432,2025-09-27,33,Female,Shampoo,Beauty,1,596.34,UPI,South
+TXN00433,2025-10-29,63,Female,Storage Box,Home & Kitchen,2,1098.74,UPI,East
+TXN00434,2025-02-17,44,Male,Cookbook,Books,2,764.6,UPI,West
+TXN00435,2025-06-08,59,Male,Running Shoes,Clothing,1,2009.61,UPI,North
+TXN00436,2025-02-15,43,Female,Water Bottle,Home & Kitchen,1,1468.49,Credit Card,West
+TXN00437,2025-07-27,43,Male,Hoodie,Clothing,1,1924.57,UPI,South
+TXN00438,2025-12-05,49,Male,Hoodie,Clothing,3,976.18,Debit Card,South
+TXN00439,2025-01-30,68,Female,Denim Jeans,Clothing,1,1229.28,Debit Card,East
+TXN00440,2025-05-26,41,Female,Power Bank,Electronics,3,630.82,Cash,West
+TXN00441,2025-12-22,49,Female,Bluetooth Speaker,Electronics,2,5189.69,Credit Card,West
+TXN00442,2025-04-20,66,Female,Desk Lamp,Home & Kitchen,3,1037.65,UPI,North
+TXN00443,2025-02-18,37,Female,Desk Lamp,Home & Kitchen,1,1048.39,UPI,East
+TXN00444,2025-06-28,62,Male,Water Bottle,Home & Kitchen,4,652.98,UPI,South
+TXN00445,2025-07-05,46,Female,Power Bank,Electronics,2,1637.98,Cash,South
+TXN00446,2025-08-30,64,Male,Cotton T-Shirt,Clothing,1,1769.55,Cash,Central
+TXN00447,2025-04-25,42,Male,Power Bank,Electronics,1,1780.2,UPI,North
+TXN00448,2025-12-15,51,Female,Moisturiser,Beauty,1,170.63,UPI,East
+TXN00449,2025-07-10,35,Female,Cookbook,Books,1,718.66,Credit Card,East
+TXN00450,2025-04-15,51,Male,Power Bank,Electronics,3,2665.29,UPI,South
+TXN00451,2025-12-17,35,Other,Storage Box,Home & Kitchen,4,929.48,Cash,West
+TXN00452,2025-12-04,50,Male,Power Bank,Electronics,2,3002.61,UPI,East
+TXN00453,2025-07-02,59,Female,Hoodie,Clothing,2,2337.61,UPI,West
+TXN00454,2025-01-10,41,Female,Smart Watch,Electronics,2,2323.15,UPI,South
+TXN00455,2025-08-06,40,Female,Cotton T-Shirt,Clothing,3,2195.09,UPI,Central
+TXN00456,2025-07-22,35,Male,Storage Box,Home & Kitchen,3,2076.07,UPI,West
+TXN00457,2025-02-24,56,Male,Notebook,Books,1,635.48,Debit Card,South
+TXN00458,2025-08-20,49,Male,USB-C Cable,Electronics,5,3004.84,UPI,Central
+TXN00459,2025-11-03,45,Male,Storage Box,Home & Kitchen,1,1682.97,Credit Card,Central
+TXN00460,2025-02-08,19,Female,Shampoo,Beauty,3,603.69,UPI,East
+TXN00461,2025-09-22,23,Male,Mystery Novel,Books,5,443.25,UPI,North
+TXN00462,2025-02-21,18,Female,Water Bottle,Home & Kitchen,3,1226.83,UPI,East
+TXN00463,2025-10-01,63,Male,Hoodie,Clothing,1,1094.31,UPI,West
+TXN00464,2025-06-02,63,Male,Coffee Mug,Home & Kitchen,2,363.71,UPI,South
+TXN00465,2025-01-03,21,Male,Hoodie,Clothing,1,1337.13,UPI,North
+TXN00466,2025-12-19,20,Female,Cookbook,Books,3,216.61,Debit Card,East
+TXN00467,2025-03-02,59,Male,Summer Dress,Clothing,1,1326.1,Debit Card,Central
+TXN00468,2025-08-06,45,Male,Coffee Mug,Home & Kitchen,2,1291.71,Cash,South
+TXN00469,2025-03-08,34,Female,Smart Watch,Electronics,4,6073.87,UPI,East
+TXN00470,2025-12-07,50,Female,Cotton T-Shirt,Clothing,1,390.56,Debit Card,North
+TXN00471,2025-09-27,30,Male,Mystery Novel,Books,1,604.74,Credit Card,West
+TXN00472,2025-10-21,28,Female,Desk Lamp,Home & Kitchen,2,1088.36,UPI,Central
+TXN00473,2025-06-07,37,Female,Summer Dress,Clothing,2,350.65,UPI,West
+TXN00474,2025-06-20,65,Female,Notebook,Books,1,314.65,Credit Card,East
+TXN00475,2025-08-20,58,Female,Moisturiser,Beauty,1,230.33,Debit Card,North
+TXN00476,2025-10-14,28,Female,Cotton T-Shirt,Clothing,2,841.99,Credit Card,East
+TXN00477,2025-11-06,47,Male,Cookware Set,Home & Kitchen,2,712.87,UPI,Central
+TXN00478,2025-01-07,64,Female,Desk Lamp,Home & Kitchen,2,972.68,Cash,North
+TXN00479,2025-08-31,68,Male,Storage Box,Home & Kitchen,1,1234.53,UPI,South
+TXN00480,2025-02-09,58,Female,Hoodie,Clothing,2,302.47,Cash,Central
+TXN00481,2025-04-16,24,Female,Phone Case,Electronics,1,1345.5,Debit Card,East
+TXN00482,2025-10-30,30,Female,Cookbook,Books,1,192.98,Debit Card,North
+TXN00483,2025-04-02,29,Male,Travel Guide,Books,3,548.75,Debit Card,North
+TXN00484,2025-10-18,25,Male,Sunscreen,Beauty,1,461.98,UPI,East
+TXN00485,2025-06-18,27,Male,Self-Help Book,Books,2,547.75,Credit Card,East
+TXN00486,2025-03-26,34,Female,Sunscreen,Beauty,4,344.01,Debit Card,Central
+TXN00487,2025-05-02,47,Female,Moisturiser,Beauty,2,126.65,Debit Card,Central
+TXN00488,2025-07-13,39,Female,Lip Balm,Beauty,2,1135.5,UPI,East
+TXN00489,2025-10-07,40,Male,Cookware Set,Home & Kitchen,1,372.03,UPI,East
+TXN00490,2025-08-10,31,Female,Summer Dress,Clothing,1,617.15,UPI,Central
+TXN00491,2025-12-07,26,Male,Smart Watch,Electronics,1,1251.26,Credit Card,West
+TXN00492,2025-11-13,70,Male,Water Bottle,Home & Kitchen,3,2161.62,Credit Card,South
+TXN00493,2025-10-02,49,Male,Denim Jeans,Clothing,3,1844.15,Debit Card,West
+TXN00494,2025-08-09,30,Male,Running Shoes,Clothing,1,1825.72,Debit Card,West
+TXN00495,2025-04-16,60,Female,Cookware Set,Home & Kitchen,1,2172.73,Credit Card,South
+TXN00496,2025-05-31,62,Male,Running Shoes,Clothing,1,521.1,UPI,Central
+TXN00497,2025-02-13,69,Female,USB-C Cable,Electronics,2,6343.18,Credit Card,South
+TXN00498,2025-05-17,26,Male,Face Wash,Beauty,2,324.41,UPI,East
+TXN00499,2025-12-05,51,Male,Travel Guide,Books,2,606.0,UPI,East
+TXN00500,2025-06-05,69,Female,Power Bank,Electronics,4,2933.51,UPI,West
+TXN00501,2025-02-11,60,Male,Wireless Earbuds,Electronics,1,2711.3,UPI,Central
+TXN00502,2025-08-26,29,Female,Summer Dress,Clothing,2,2628.11,UPI,South
+TXN00503,2025-12-18,65,Female,Face Wash,Beauty,2,264.15,Credit Card,South
+TXN00504,2025-11-13,40,Male,Face Wash,Beauty,1,1196.78,UPI,West
+TXN00505,2025-04-11,43,Female,Wireless Earbuds,Electronics,4,2681.62,UPI,Central
+TXN00506,2025-06-15,47,Male,Shampoo,Beauty,1,813.65,UPI,Central
+TXN00507,2025-07-13,58,Male,Wireless Earbuds,Electronics,3,6302.63,Credit Card,West
+TXN00508,2025-04-01,24,Male,Summer Dress,Clothing,3,444.0,Credit Card,West
+TXN00509,2025-04-09,46,Female,Self-Help Book,Books,4,839.83,UPI,West
+TXN00510,2025-03-28,61,Female,Bluetooth Speaker,Electronics,2,3842.04,UPI,Central
+TXN00511,2025-12-30,47,Male,Wireless Earbuds,Electronics,1,4682.04,Cash,North
+TXN00512,2025-09-30,32,Female,Running Shoes,Clothing,3,672.96,Credit Card,East
+TXN00513,2025-11-03,20,Male,Water Bottle,Home & Kitchen,3,1243.44,Credit Card,North
+TXN00514,2025-10-26,47,Female,Notebook,Books,2,645.34,Credit Card,East
+TXN00515,2025-12-17,55,Female,Cookbook,Books,3,475.87,Debit Card,South
+TXN00516,2025-02-08,47,Male,Power Bank,Electronics,1,1303.16,Debit Card,South
+TXN00517,2025-11-18,69,Male,Wireless Earbuds,Electronics,2,1851.33,UPI,Central
+TXN00518,2025-01-25,49,Male,Face Wash,Beauty,4,1039.83,Credit Card,West
+TXN00519,2025-06-23,44,Male,Denim Jeans,Clothing,1,386.18,UPI,East
+TXN00520,2025-08-05,20,Female,Mystery Novel,Books,2,672.91,Credit Card,Central
+TXN00521,2025-05-11,47,Female,Desk Lamp,Home & Kitchen,5,2198.75,UPI,North
+TXN00522,2025-02-23,26,Female,Phone Case,Electronics,3,396.02,UPI,West
+TXN00523,2025-03-12,56,Male,Lip Balm,Beauty,4,277.15,Cash,North
+TXN00524,2025-10-29,26,Female,Bluetooth Speaker,Electronics,1,4495.99,Debit Card,South
+TXN00525,2025-04-27,66,Male,Hoodie,Clothing,5,449.98,UPI,North
+TXN00526,2025-04-24,34,Female,Coffee Mug,Home & Kitchen,1,1359.07,Cash,East
+TXN00527,2025-12-04,41,Male,Water Bottle,Home & Kitchen,2,1552.2,UPI,West
+TXN00528,2025-02-22,25,Male,Water Bottle,Home & Kitchen,2,1355.7,Credit Card,West
+TXN00529,2025-12-01,29,Male,Coffee Mug,Home & Kitchen,3,898.63,Debit Card,East
+TXN00530,2025-12-03,66,Female,Self-Help Book,Books,4,663.88,UPI,Central
+TXN00531,2025-08-07,33,Other,Mystery Novel,Books,3,583.55,Credit Card,South
+TXN00532,2025-03-02,45,Female,Cookware Set,Home & Kitchen,2,575.66,Credit Card,North
+TXN00533,2025-02-26,70,Female,Smart Watch,Electronics,2,3813.28,UPI,North
+TXN00534,2025-04-14,51,Female,Shampoo,Beauty,2,1070.1,UPI,North
+TXN00535,2025-07-30,20,Female,Notebook,Books,2,640.13,UPI,East
+TXN00536,2025-02-26,36,Male,Summer Dress,Clothing,1,1479.48,Credit Card,East
+TXN00537,2025-06-16,38,Female,Summer Dress,Clothing,2,1103.96,UPI,Central
+TXN00538,2025-02-12,32,Female,Denim Jeans,Clothing,3,514.72,UPI,North
+TXN00539,2025-07-17,30,Male,Phone Case,Electronics,3,1854.46,Debit Card,South
+TXN00540,2025-01-08,44,Male,Coffee Mug,Home & Kitchen,3,172.93,UPI,Central
+TXN00541,2025-09-16,37,Male,Hoodie,Clothing,1,2766.56,UPI,North
+TXN00542,2025-01-21,33,Male,Lip Balm,Beauty,2,344.73,Debit Card,East
+TXN00543,2025-03-13,39,Female,Face Wash,Beauty,1,996.36,Debit Card,North
+TXN00544,2025-03-05,36,Male,Shampoo,Beauty,1,285.51,UPI,East
+TXN00545,2025-10-31,30,Female,Cotton T-Shirt,Clothing,2,1009.0,Debit Card,Central
+TXN00546,2025-01-20,41,Female,Denim Jeans,Clothing,1,1345.69,Debit Card,South
+TXN00547,2025-06-06,67,Female,Shampoo,Beauty,1,456.85,UPI,South
+TXN00548,2025-08-04,44,Male,Lip Balm,Beauty,2,978.19,Debit Card,East
+TXN00549,2025-07-08,49,Female,Cookware Set,Home & Kitchen,2,2113.27,Debit Card,West
+TXN00550,2025-09-06,70,Male,Cookbook,Books,2,802.73,Credit Card,Central
+TXN00551,2025-10-21,50,Female,Bluetooth Speaker,Electronics,1,1294.5,Credit Card,North
+TXN00552,2025-05-24,29,Female,Self-Help Book,Books,2,725.82,Debit Card,East
+TXN00553,2025-10-30,39,Female,Phone Case,Electronics,2,1259.87,Cash,West
+TXN00554,2025-04-27,43,Female,Phone Case,Electronics,2,5967.29,Credit Card,North
+TXN00555,2025-12-26,43,Female,Storage Box,Home & Kitchen,2,1211.65,Debit Card,Central
+TXN00556,2025-07-04,25,Male,Bluetooth Speaker,Electronics,1,2418.74,Debit Card,South
+TXN00557,2025-09-26,23,Male,Smart Watch,Electronics,4,1315.71,Debit Card,East
+TXN00558,2025-11-16,36,Female,Bluetooth Speaker,Electronics,1,422.63,Cash,Central
+TXN00559,2025-10-17,66,Male,Cotton T-Shirt,Clothing,2,919.87,UPI,West
+TXN00560,2025-11-07,56,Female,Face Wash,Beauty,1,1105.42,UPI,Central
+TXN00561,2025-07-15,62,Female,Power Bank,Electronics,2,5253.16,Credit Card,West
+TXN00562,2025-01-16,27,Female,Storage Box,Home & Kitchen,1,2138.08,Credit Card,South
+TXN00563,2025-06-29,39,Male,Shampoo,Beauty,4,210.84,Credit Card,West
+TXN00564,2025-03-08,48,Female,Bluetooth Speaker,Electronics,1,3991.9,Debit Card,West
+TXN00565,2025-11-21,41,Male,Smart Watch,Electronics,2,1931.48,Cash,South
+TXN00566,2025-03-28,40,Female,Travel Guide,Books,1,543.49,UPI,North
+TXN00567,2025-03-25,37,Male,Shampoo,Beauty,1,452.5,Debit Card,West
+TXN00568,2025-04-02,20,Female,Water Bottle,Home & Kitchen,2,731.1,UPI,East
+TXN00569,2025-08-23,63,Male,Shampoo,Beauty,2,731.23,Credit Card,West
+TXN00570,2025-07-28,67,Male,Smart Watch,Electronics,2,1477.41,UPI,North
+TXN00571,2025-12-13,22,Female,Denim Jeans,Clothing,5,1472.83,Credit Card,East
+TXN00572,2025-06-01,39,Female,Moisturiser,Beauty,3,815.89,Credit Card,Central
+TXN00573,2025-04-14,45,Male,Running Shoes,Clothing,5,620.46,Debit Card,Central
+TXN00574,2025-01-18,59,Other,Moisturiser,Beauty,1,1123.65,Credit Card,Central
+TXN00575,2025-01-03,70,Male,Coffee Mug,Home & Kitchen,3,1186.74,UPI,South
+TXN00576,2025-05-17,40,Female,Moisturiser,Beauty,2,1001.48,UPI,North
+TXN00577,2025-12-04,57,Male,Denim Jeans,Clothing,2,1934.76,UPI,East
+TXN00578,2025-07-11,67,Female,Hoodie,Clothing,5,2075.0,Cash,East
+TXN00579,2025-11-23,62,Female,Power Bank,Electronics,2,4754.21,Cash,South
+TXN00580,2025-02-07,33,Male,Power Bank,Electronics,4,5731.86,UPI,North
+TXN00581,2025-02-04,61,Male,Sunscreen,Beauty,3,774.97,UPI,North
+TXN00582,2025-11-01,39,Male,Power Bank,Electronics,1,2061.04,Credit Card,South
+TXN00583,2025-02-08,18,Male,Wireless Earbuds,Electronics,2,961.98,Credit Card,West
+TXN00584,2025-01-19,58,Female,Phone Case,Electronics,2,4078.44,UPI,North
+TXN00585,2025-05-28,62,Male,Wireless Earbuds,Electronics,4,758.07,UPI,North
+TXN00586,2025-12-04,36,Female,Shampoo,Beauty,3,365.42,UPI,South
+TXN00587,2025-09-09,41,Female,Denim Jeans,Clothing,1,451.77,UPI,Central
+TXN00588,2025-02-06,37,Female,Cookbook,Books,1,548.13,UPI,Central
+TXN00589,2025-11-02,24,Male,Wireless Earbuds,Electronics,1,1336.08,UPI,East
+TXN00590,2025-11-04,70,Female,Cookware Set,Home & Kitchen,2,1401.34,Credit Card,North
+TXN00591,2025-10-20,19,Female,Running Shoes,Clothing,1,2277.16,Credit Card,North
+TXN00592,2025-11-26,47,Male,Denim Jeans,Clothing,3,2354.7,UPI,Central
+TXN00593,2025-03-29,18,Male,Travel Guide,Books,2,361.44,Credit Card,East
+TXN00594,2025-12-24,54,Male,Mystery Novel,Books,3,548.18,Credit Card,North
+TXN00595,2025-04-28,65,Male,Self-Help Book,Books,1,559.15,Debit Card,Central
+TXN00596,2025-10-20,52,Female,Power Bank,Electronics,2,3258.26,Cash,East
+TXN00597,2025-07-31,50,Male,USB-C Cable,Electronics,1,4378.95,UPI,South
+TXN00598,2025-10-12,61,Male,Water Bottle,Home & Kitchen,4,580.68,Debit Card,East
+TXN00599,2025-08-18,69,Male,Summer Dress,Clothing,1,2748.11,Debit Card,South
+TXN00600,2025-08-23,63,Male,Moisturiser,Beauty,1,207.89,Credit Card,Central
+TXN00601,2025-08-13,30,Female,Desk Lamp,Home & Kitchen,1,1849.9,UPI,West
+TXN00602,2025-10-12,47,Female,Desk Lamp,Home & Kitchen,3,1367.9,UPI,North
+TXN00603,2025-09-27,61,Male,Moisturiser,Beauty,1,369.34,UPI,West
+TXN00604,2025-02-19,33,Female,Face Wash,Beauty,2,920.24,Cash,North
+TXN00605,2025-10-29,53,Female,Bluetooth Speaker,Electronics,3,869.56,Credit Card,East
+TXN00606,2025-07-15,19,Male,Smart Watch,Electronics,3,5112.67,UPI,West
+TXN00607,2025-04-28,64,Male,Cookware Set,Home & Kitchen,1,1359.47,Credit Card,North
+TXN00608,2025-07-07,50,Male,Cookware Set,Home & Kitchen,1,377.04,UPI,West
+TXN00609,2025-12-19,57,Male,Denim Jeans,Clothing,2,498.76,UPI,South
+TXN00610,2025-11-10,61,Male,Hoodie,Clothing,1,2177.09,Credit Card,West
+TXN00611,2025-11-01,29,Male,Face Wash,Beauty,2,422.23,Credit Card,East
+TXN00612,2025-06-18,41,Male,Sunscreen,Beauty,1,1078.23,Debit Card,North
+TXN00613,2025-10-14,63,Female,Coffee Mug,Home & Kitchen,2,1712.25,Credit Card,West
+TXN00614,2025-05-21,26,Male,Hoodie,Clothing,1,2045.48,Credit Card,South
+TXN00615,2025-09-08,61,Female,Hoodie,Clothing,2,996.52,Debit Card,Central
+TXN00616,2025-08-22,33,Female,Cookware Set,Home & Kitchen,1,1603.34,UPI,Central
+TXN00617,2025-04-02,48,Female,Running Shoes,Clothing,2,2670.37,Credit Card,North
+TXN00618,2025-04-08,45,Male,Storage Box,Home & Kitchen,1,337.7,Debit Card,West
+TXN00619,2025-01-23,54,Male,Coffee Mug,Home & Kitchen,5,818.63,UPI,South
+TXN00620,2025-02-21,62,Male,Wireless Earbuds,Electronics,2,1793.23,UPI,West
+TXN00621,2025-06-08,36,Other,Wireless Earbuds,Electronics,1,2768.49,UPI,East
+TXN00622,2025-06-24,27,Male,USB-C Cable,Electronics,1,4915.35,UPI,South
+TXN00623,2025-03-02,40,Female,Notebook,Books,1,489.91,Credit Card,West
+TXN00624,2025-06-02,50,Male,Coffee Mug,Home & Kitchen,1,1320.0,UPI,South
+TXN00625,2025-08-09,57,Male,Smart Watch,Electronics,1,2282.05,Credit Card,Central
+TXN00626,2025-03-26,57,Male,Mystery Novel,Books,4,230.21,UPI,Central
+TXN00627,2025-05-04,36,Female,Running Shoes,Clothing,2,967.33,UPI,North
+TXN00628,2025-05-15,67,Female,Hoodie,Clothing,1,2449.2,UPI,West
+TXN00629,2025-07-04,22,Male,Cookbook,Books,2,589.89,UPI,Central
+TXN00630,2025-05-14,24,Female,Wireless Earbuds,Electronics,1,2674.63,Cash,North
+TXN00631,2025-09-26,19,Female,Wireless Earbuds,Electronics,5,5207.92,UPI,West
+TXN00632,2025-04-30,67,Female,Cookware Set,Home & Kitchen,1,282.14,UPI,Central
+TXN00633,2025-06-08,27,Female,USB-C Cable,Electronics,3,1911.43,UPI,South
+TXN00634,2025-05-19,49,Female,Storage Box,Home & Kitchen,3,621.71,UPI,East
+TXN00635,2025-03-08,61,Other,Bluetooth Speaker,Electronics,1,6409.99,Credit Card,West
+TXN00636,2025-09-08,58,Male,Wireless Earbuds,Electronics,1,4692.51,Debit Card,South
+TXN00637,2025-03-27,68,Male,Phone Case,Electronics,1,4149.38,UPI,South
+TXN00638,2025-04-19,20,Female,Cotton T-Shirt,Clothing,4,312.46,Credit Card,South
+TXN00639,2025-10-17,39,Female,Smart Watch,Electronics,2,1483.51,Credit Card,South
+TXN00640,2025-12-13,44,Female,Bluetooth Speaker,Electronics,2,4258.58,Debit Card,West
+TXN00641,2025-09-02,54,Female,Cookbook,Books,3,416.18,Credit Card,South
+TXN00642,2025-12-01,50,Female,Denim Jeans,Clothing,3,2610.7,UPI,South
+TXN00643,2025-11-08,47,Male,Summer Dress,Clothing,2,2211.81,Debit Card,Central
+TXN00644,2025-06-25,34,Other,Wireless Earbuds,Electronics,2,3101.41,Debit Card,East
+TXN00645,2025-10-09,23,Male,Denim Jeans,Clothing,3,2173.79,Credit Card,Central
+TXN00646,2025-04-30,40,Female,Denim Jeans,Clothing,1,2738.51,Cash,West
+TXN00647,2025-06-18,31,Female,Storage Box,Home & Kitchen,3,1095.01,Debit Card,Central
+TXN00648,2025-07-15,47,Female,Bluetooth Speaker,Electronics,1,4301.53,UPI,North
+TXN00649,2025-12-17,60,Female,Notebook,Books,1,836.56,Debit Card,Central
+TXN00650,2025-11-06,47,Male,Cookbook,Books,3,313.97,Credit Card,Central
+TXN00651,2025-06-28,48,Female,Power Bank,Electronics,1,5802.33,Credit Card,North
+TXN00652,2025-08-27,20,Male,Power Bank,Electronics,1,949.9,Credit Card,South
+TXN00653,2025-03-15,52,Male,Phone Case,Electronics,1,4337.96,Debit Card,East
+TXN00654,2025-10-21,41,Female,Storage Box,Home & Kitchen,2,1754.82,Credit Card,East
+TXN00655,2025-07-21,24,Female,Power Bank,Electronics,3,4129.83,Credit Card,West
+TXN00656,2025-07-14,29,Female,Moisturiser,Beauty,1,645.09,UPI,West
+TXN00657,2025-10-07,59,Female,Moisturiser,Beauty,1,779.08,Credit Card,South
+TXN00658,2025-08-20,66,Male,Face Wash,Beauty,2,266.83,Cash,West
+TXN00659,2025-01-27,44,Male,Desk Lamp,Home & Kitchen,5,591.92,Debit Card,Central
+TXN00660,2025-04-16,69,Male,Mystery Novel,Books,1,330.52,UPI,East
+TXN00661,2025-03-06,27,Male,Bluetooth Speaker,Electronics,5,4026.34,Debit Card,Central
+TXN00662,2025-09-26,33,Female,Denim Jeans,Clothing,4,1404.75,Debit Card,West
+TXN00663,2025-01-13,67,Female,Denim Jeans,Clothing,1,911.19,Credit Card,Central
+TXN00664,2025-03-15,27,Female,Travel Guide,Books,3,808.59,UPI,Central
+TXN00665,2025-08-07,52,Female,Coffee Mug,Home & Kitchen,2,916.54,Credit Card,North
+TXN00666,2025-09-11,29,Male,Lip Balm,Beauty,2,590.63,UPI,Central
+TXN00667,2025-07-03,35,Female,Power Bank,Electronics,2,2869.66,UPI,North
+TXN00668,2025-11-11,43,Female,Notebook,Books,3,261.92,Credit Card,Central
+TXN00669,2025-12-02,37,Female,Water Bottle,Home & Kitchen,3,1649.84,Cash,Central
+TXN00670,2025-02-18,64,Female,Coffee Mug,Home & Kitchen,3,1069.34,UPI,South
+TXN00671,2025-12-14,69,Male,Travel Guide,Books,5,132.68,Debit Card,North
+TXN00672,2025-08-13,44,Female,Running Shoes,Clothing,2,2710.03,Cash,East
+TXN00673,2025-08-21,45,Female,Summer Dress,Clothing,3,2339.41,UPI,South
+TXN00674,2025-02-04,20,Female,Storage Box,Home & Kitchen,4,1633.3,UPI,East
+TXN00675,2025-08-15,30,Male,Wireless Earbuds,Electronics,1,5694.92,Debit Card,North
+TXN00676,2025-09-22,20,Male,Hoodie,Clothing,1,2567.02,Debit Card,North
+TXN00677,2025-07-31,63,Male,Wireless Earbuds,Electronics,2,2425.56,UPI,East
+TXN00678,2025-01-31,30,Female,Smart Watch,Electronics,3,4107.4,Credit Card,West
+TXN00679,2025-07-10,36,Female,Travel Guide,Books,1,594.87,Credit Card,South
+TXN00680,2025-12-08,62,Male,Cookware Set,Home & Kitchen,3,697.96,Debit Card,South
+TXN00681,2025-09-22,55,Female,Running Shoes,Clothing,1,854.88,Debit Card,North
+TXN00682,2025-02-20,50,Female,Summer Dress,Clothing,1,584.77,UPI,South
+TXN00683,2025-12-17,20,Male,Cotton T-Shirt,Clothing,2,1948.29,UPI,South
+TXN00684,2025-12-16,47,Female,Coffee Mug,Home & Kitchen,1,1750.88,UPI,South
+TXN00685,2025-03-03,47,Female,Mystery Novel,Books,4,713.54,Cash,South
+TXN00686,2025-10-20,34,Male,Travel Guide,Books,1,366.69,Cash,South
+TXN00687,2025-05-29,57,Male,Hoodie,Clothing,4,813.15,Debit Card,West
+TXN00688,2025-08-05,67,Female,Summer Dress,Clothing,1,1434.04,UPI,South
+TXN00689,2025-06-12,31,Female,Hoodie,Clothing,5,1667.03,Credit Card,West
+TXN00690,2025-10-13,35,Male,Storage Box,Home & Kitchen,2,2034.13,UPI,West
+TXN00691,2025-12-30,35,Female,Cotton T-Shirt,Clothing,1,2487.06,UPI,West
+TXN00692,2025-10-18,62,Female,Cookware Set,Home & Kitchen,1,2027.92,UPI,East
+TXN00693,2025-12-06,22,Male,Coffee Mug,Home & Kitchen,1,1893.04,Debit Card,Central
+TXN00694,2025-12-12,65,Male,Cotton T-Shirt,Clothing,2,2711.45,UPI,South
+TXN00695,2025-02-02,59,Other,Summer Dress,Clothing,3,1463.75,Credit Card,Central
+TXN00696,2025-04-03,43,Female,Summer Dress,Clothing,2,418.68,Cash,South
+TXN00697,2025-09-21,48,Female,Power Bank,Electronics,2,863.91,Credit Card,North
+TXN00698,2025-08-04,65,Male,Smart Watch,Electronics,2,2750.2,UPI,Central
+TXN00699,2025-01-19,58,Male,Face Wash,Beauty,2,383.46,Cash,Central
+TXN00700,2025-02-04,32,Female,Cotton T-Shirt,Clothing,2,724.85,Credit Card,North
+TXN00701,2025-07-09,20,Male,Bluetooth Speaker,Electronics,2,6212.2,Credit Card,East
+TXN00702,2025-08-13,52,Female,Desk Lamp,Home & Kitchen,3,550.61,Credit Card,East
+TXN00703,2025-03-03,25,Male,Face Wash,Beauty,5,1155.32,Debit Card,South
+TXN00704,2025-03-04,22,Male,Cotton T-Shirt,Clothing,1,2202.1,Credit Card,East
+TXN00705,2025-02-17,70,Female,Sunscreen,Beauty,1,805.04,Credit Card,West
+TXN00706,2025-07-26,43,Male,Travel Guide,Books,1,647.29,Credit Card,East
+TXN00707,2025-01-03,52,Other,Desk Lamp,Home & Kitchen,2,829.52,UPI,East
+TXN00708,2025-07-28,29,Female,Desk Lamp,Home & Kitchen,1,1475.18,Debit Card,Central
+TXN00709,2025-06-23,23,Female,Smart Watch,Electronics,4,1498.16,UPI,South
+TXN00710,2025-06-20,21,Male,Travel Guide,Books,2,851.41,UPI,West
+TXN00711,2025-09-05,36,Female,Running Shoes,Clothing,2,1054.48,UPI,South
+TXN00712,2025-07-10,18,Female,Notebook,Books,3,319.05,UPI,Central
+TXN00713,2025-09-23,40,Female,Storage Box,Home & Kitchen,1,1607.88,UPI,South
+TXN00714,2025-10-06,35,Male,Wireless Earbuds,Electronics,3,4387.16,Credit Card,Central
+TXN00715,2025-12-02,45,Female,Smart Watch,Electronics,1,3125.49,UPI,West
+TXN00716,2025-10-19,49,Male,Storage Box,Home & Kitchen,2,1446.51,UPI,South
+TXN00717,2025-07-08,34,Female,Cookware Set,Home & Kitchen,4,476.96,Debit Card,West
+TXN00718,2025-06-29,42,Female,Power Bank,Electronics,3,4490.97,Cash,South
+TXN00719,2025-03-28,22,Male,Lip Balm,Beauty,3,397.67,Credit Card,South
+TXN00720,2025-08-07,33,Female,Face Wash,Beauty,1,400.12,UPI,South
+TXN00721,2025-02-20,69,Female,Desk Lamp,Home & Kitchen,3,482.47,UPI,West
+TXN00722,2025-12-06,70,Female,Running Shoes,Clothing,2,1130.94,UPI,South
+TXN00723,2025-11-05,43,Male,Power Bank,Electronics,2,2387.19,UPI,East
+TXN00724,2025-02-13,67,Female,Moisturiser,Beauty,1,599.6,Cash,East
+TXN00725,2025-10-14,44,Female,Summer Dress,Clothing,1,776.05,Debit Card,North
+TXN00726,2025-02-12,24,Female,Cookbook,Books,2,270.55,UPI,South
+TXN00727,2025-09-21,63,Female,Summer Dress,Clothing,1,1654.35,Cash,South
+TXN00728,2025-02-02,40,Female,Coffee Mug,Home & Kitchen,3,414.2,UPI,South
+TXN00729,2025-06-28,50,Male,Cotton T-Shirt,Clothing,3,2022.24,UPI,Central
+TXN00730,2025-08-29,52,Female,Phone Case,Electronics,4,6155.27,UPI,South
+TXN00731,2025-09-24,34,Female,Face Wash,Beauty,1,569.48,UPI,East
+TXN00732,2025-06-02,56,Male,Storage Box,Home & Kitchen,4,1997.27,Debit Card,West
+TXN00733,2025-12-03,44,Male,Cookware Set,Home & Kitchen,1,351.55,UPI,West
+TXN00734,2025-10-10,37,Female,Notebook,Books,2,153.51,Credit Card,West
+TXN00735,2025-03-18,33,Female,Notebook,Books,3,682.67,UPI,East
+TXN00736,2025-09-02,57,Female,Shampoo,Beauty,1,937.12,Cash,Central
+TXN00737,2025-09-24,31,Male,Smart Watch,Electronics,1,5534.81,Credit Card,Central
+TXN00738,2025-05-02,24,Female,Storage Box,Home & Kitchen,1,266.48,Credit Card,South
+TXN00739,2025-09-27,64,Female,Travel Guide,Books,2,725.99,UPI,North
+TXN00740,2025-11-24,35,Female,Running Shoes,Clothing,3,1241.35,Cash,South
+TXN00741,2025-10-26,51,Female,Wireless Earbuds,Electronics,1,2215.53,Credit Card,Central
+TXN00742,2025-10-06,55,Female,Shampoo,Beauty,1,290.33,UPI,Central
+TXN00743,2025-08-20,62,Female,Coffee Mug,Home & Kitchen,2,2191.83,Debit Card,West
+TXN00744,2025-04-09,51,Male,Storage Box,Home & Kitchen,1,280.51,UPI,West
+TXN00745,2025-10-18,55,Male,Cookbook,Books,3,765.07,UPI,South
+TXN00746,2025-05-13,62,Male,Coffee Mug,Home & Kitchen,4,1460.96,Credit Card,East
+TXN00747,2025-07-14,67,Male,Cotton T-Shirt,Clothing,3,2137.7,UPI,North
+TXN00748,2025-04-25,20,Female,Cotton T-Shirt,Clothing,4,2079.29,Credit Card,East
+TXN00749,2025-04-25,57,Male,Hoodie,Clothing,2,2446.09,UPI,North
+TXN00750,2025-02-27,27,Male,Power Bank,Electronics,3,1480.32,UPI,North
+TXN00751,2025-12-17,65,Male,Sunscreen,Beauty,1,100.91,UPI,Central
+TXN00752,2025-02-23,20,Male,Shampoo,Beauty,1,758.38,UPI,Central
+TXN00753,2025-02-01,31,Female,Running Shoes,Clothing,2,1184.65,Cash,West
+TXN00754,2025-12-08,28,Female,Running Shoes,Clothing,1,609.47,Credit Card,West
+TXN00755,2025-07-22,49,Female,Self-Help Book,Books,4,265.19,Credit Card,South
+TXN00756,2025-06-09,18,Female,Smart Watch,Electronics,2,2390.26,UPI,East
+TXN00757,2025-09-27,18,Female,Cookware Set,Home & Kitchen,5,293.98,Debit Card,West
+TXN00758,2025-05-20,44,Female,Denim Jeans,Clothing,1,442.28,UPI,East
+TXN00759,2025-02-16,69,Female,Desk Lamp,Home & Kitchen,2,2027.85,UPI,South
+TXN00760,2025-09-24,46,Male,Phone Case,Electronics,3,2269.43,Credit Card,South
+TXN00761,2025-03-06,41,Male,Water Bottle,Home & Kitchen,1,2163.57,Credit Card,Central
+TXN00762,2025-07-21,52,Male,Hoodie,Clothing,2,2710.92,Debit Card,South
+TXN00763,2025-12-13,47,Female,Coffee Mug,Home & Kitchen,2,442.27,Debit Card,Central
+TXN00764,2025-12-08,38,Male,Phone Case,Electronics,5,4746.78,Debit Card,West
+TXN00765,2025-05-12,49,Male,Running Shoes,Clothing,3,1802.01,UPI,Central
+TXN00766,2025-10-12,18,Male,Cookware Set,Home & Kitchen,1,1565.83,UPI,East
+TXN00767,2025-08-12,30,Male,Wireless Earbuds,Electronics,2,941.57,UPI,South
+TXN00768,2025-06-24,53,Female,Wireless Earbuds,Electronics,2,1509.64,Debit Card,North
+TXN00769,2025-02-21,36,Female,Phone Case,Electronics,1,821.33,Cash,East
+TXN00770,2025-05-18,20,Male,Running Shoes,Clothing,2,1810.34,Cash,South
+TXN00771,2025-08-26,24,Other,USB-C Cable,Electronics,1,6417.54,UPI,North
+TXN00772,2025-12-27,63,Female,Mystery Novel,Books,1,644.15,Debit Card,Central
+TXN00773,2025-01-02,35,Female,Denim Jeans,Clothing,2,2076.9,Credit Card,Central
+TXN00774,2025-09-19,19,Female,Lip Balm,Beauty,1,1183.04,Debit Card,South
+TXN00775,2025-11-05,56,Female,Cookbook,Books,2,648.85,Credit Card,West
+TXN00776,2025-12-14,46,Other,USB-C Cable,Electronics,1,597.12,UPI,East
+TXN00777,2025-06-04,41,Male,Storage Box,Home & Kitchen,3,1927.36,UPI,East
+TXN00778,2025-02-13,65,Female,Cookbook,Books,1,404.45,Cash,West
+TXN00779,2025-04-09,34,Female,Water Bottle,Home & Kitchen,4,158.95,UPI,East
+TXN00780,2025-11-07,48,Female,Summer Dress,Clothing,1,1568.09,UPI,Central
+TXN00781,2025-11-17,57,Female,Summer Dress,Clothing,2,2642.54,UPI,North
+TXN00782,2025-08-21,50,Male,Wireless Earbuds,Electronics,1,1932.58,UPI,West
+TXN00783,2025-02-14,29,Male,Storage Box,Home & Kitchen,1,1157.6,Cash,Central
+TXN00784,2025-02-14,54,Male,Self-Help Book,Books,2,255.55,UPI,Central
+TXN00785,2025-06-24,57,Female,Cookbook,Books,3,165.0,UPI,North
+TXN00786,2025-08-03,24,Male,Smart Watch,Electronics,4,845.35,Debit Card,North
+TXN00787,2025-01-12,26,Male,Moisturiser,Beauty,1,899.71,Credit Card,West
+TXN00788,2025-09-08,53,Female,Cotton T-Shirt,Clothing,1,2460.19,UPI,Central
+TXN00789,2025-07-18,24,Male,Cookbook,Books,3,231.77,UPI,Central
+TXN00790,2025-01-05,64,Male,USB-C Cable,Electronics,2,2123.16,UPI,Central
+TXN00791,2025-02-04,23,Male,Mystery Novel,Books,1,272.12,UPI,North
+TXN00792,2025-06-15,69,Female,Lip Balm,Beauty,3,129.54,UPI,East
+TXN00793,2025-09-21,53,Female,Wireless Earbuds,Electronics,2,3753.6,UPI,West
+TXN00794,2025-10-29,41,Female,Wireless Earbuds,Electronics,2,4654.52,Debit Card,West
+TXN00795,2025-06-07,32,Female,Shampoo,Beauty,1,812.67,Debit Card,West
+TXN00796,2025-04-18,36,Female,USB-C Cable,Electronics,2,2736.53,Debit Card,South
+TXN00797,2025-12-20,57,Male,Storage Box,Home & Kitchen,1,1287.77,UPI,East
+TXN00798,2025-06-17,57,Female,Cookbook,Books,3,193.4,UPI,East
+TXN00799,2025-04-26,29,Female,Water Bottle,Home & Kitchen,1,466.32,Cash,Central
+TXN00800,2025-06-11,46,Other,Hoodie,Clothing,3,2629.49,Debit Card,South
+TXN00801,2025-01-05,70,Male,Denim Jeans,Clothing,3,2203.77,Credit Card,South
+TXN00802,2025-04-21,31,Male,Wireless Earbuds,Electronics,3,6024.85,UPI,North
+TXN00803,2025-07-08,54,Male,Cookbook,Books,1,835.01,UPI,North
+TXN00804,2025-12-02,27,Female,Summer Dress,Clothing,1,1923.48,Credit Card,Central
+TXN00805,2025-09-27,62,Female,Bluetooth Speaker,Electronics,2,6058.67,Credit Card,Central
+TXN00806,2025-10-13,27,Male,Summer Dress,Clothing,2,1341.76,UPI,South
+TXN00807,2025-07-18,33,Female,Cookbook,Books,4,122.82,Cash,West
+TXN00808,2025-02-10,42,Female,Bluetooth Speaker,Electronics,1,734.81,Credit Card,East
+TXN00809,2025-05-23,37,Female,Cookbook,Books,4,205.4,Credit Card,Central
+TXN00810,2025-12-30,27,Male,Moisturiser,Beauty,1,204.89,UPI,South
+TXN00811,2025-01-17,51,Female,Face Wash,Beauty,1,486.87,Debit Card,Central
+TXN00812,2025-11-17,19,Male,Self-Help Book,Books,1,666.99,Debit Card,South
+TXN00813,2025-09-07,70,Female,Moisturiser,Beauty,3,969.71,UPI,West
+TXN00814,2025-04-14,20,Male,Travel Guide,Books,1,580.37,Credit Card,South
+TXN00815,2025-10-11,35,Female,Power Bank,Electronics,1,1250.58,Credit Card,West
+TXN00816,2025-11-02,67,Female,Shampoo,Beauty,3,922.69,Debit Card,South
+TXN00817,2025-01-16,26,Male,Coffee Mug,Home & Kitchen,2,877.34,UPI,Central
+TXN00818,2025-02-08,21,Male,Water Bottle,Home & Kitchen,1,176.64,Debit Card,West
+TXN00819,2025-08-31,57,Female,Travel Guide,Books,1,338.86,Credit Card,South
+TXN00820,2025-12-31,21,Female,Mystery Novel,Books,2,377.87,UPI,Central
+TXN00821,2025-01-09,65,Female,Sunscreen,Beauty,1,401.67,UPI,West
+TXN00822,2025-08-31,41,Female,Cookware Set,Home & Kitchen,1,1814.33,UPI,East
+TXN00823,2025-02-19,64,Male,Hoodie,Clothing,2,2199.82,UPI,North
+TXN00824,2025-08-26,30,Female,Running Shoes,Clothing,1,2038.88,Credit Card,Central
+TXN00825,2025-08-16,25,Male,Denim Jeans,Clothing,2,647.51,Debit Card,West
+TXN00826,2025-02-03,69,Female,Summer Dress,Clothing,1,2319.58,UPI,West
+TXN00827,2025-09-06,58,Female,Bluetooth Speaker,Electronics,1,4514.63,Cash,Central
+TXN00828,2025-11-24,66,Female,Power Bank,Electronics,1,1548.25,UPI,West
+TXN00829,2025-11-12,34,Female,Sunscreen,Beauty,1,812.9,Credit Card,South
+TXN00830,2025-01-11,39,Female,Summer Dress,Clothing,1,1508.78,Cash,South
+TXN00831,2025-03-31,48,Male,Notebook,Books,1,462.69,Debit Card,North
+TXN00832,2025-03-29,41,Female,Water Bottle,Home & Kitchen,4,379.85,Credit Card,North
+TXN00833,2025-06-15,30,Male,Phone Case,Electronics,3,3537.57,Debit Card,West
+TXN00834,2025-02-22,37,Female,Wireless Earbuds,Electronics,1,964.58,UPI,Central
+TXN00835,2025-11-08,50,Female,USB-C Cable,Electronics,2,1360.16,UPI,North
+TXN00836,2025-10-11,20,Female,Notebook,Books,2,223.39,Credit Card,East
+TXN00837,2025-10-23,35,Female,USB-C Cable,Electronics,3,6217.77,UPI,North
+TXN00838,2025-03-14,33,Male,Cookware Set,Home & Kitchen,1,733.97,UPI,East
+TXN00839,2025-01-06,21,Male,Cookbook,Books,1,397.06,UPI,West
+TXN00840,2025-11-29,24,Male,Cookbook,Books,1,371.22,Cash,Central
+TXN00841,2025-04-16,44,Male,Bluetooth Speaker,Electronics,1,5874.24,Debit Card,Central
+TXN00842,2025-08-28,23,Female,Power Bank,Electronics,1,3812.24,Debit Card,South
+TXN00843,2025-11-28,36,Female,Smart Watch,Electronics,4,6002.83,Debit Card,Central
+TXN00844,2025-01-14,47,Male,Power Bank,Electronics,4,2194.54,UPI,West
+TXN00845,2025-01-02,64,Female,Smart Watch,Electronics,1,1056.23,UPI,South
+TXN00846,2025-01-02,23,Female,Coffee Mug,Home & Kitchen,2,1290.25,Credit Card,South
+TXN00847,2025-02-27,41,Male,Cookbook,Books,1,389.52,Credit Card,North
+TXN00848,2025-01-19,23,Male,Water Bottle,Home & Kitchen,2,1793.91,UPI,Central
+TXN00849,2025-10-27,40,Male,Coffee Mug,Home & Kitchen,2,1952.82,Credit Card,South
+TXN00850,2025-08-10,43,Female,Phone Case,Electronics,1,3256.33,Credit Card,South
+TXN00851,2025-12-24,60,Male,Lip Balm,Beauty,3,1168.49,UPI,East
+TXN00852,2025-10-20,41,Female,Storage Box,Home & Kitchen,5,1283.68,UPI,North
+TXN00853,2025-12-18,67,Female,Self-Help Book,Books,2,331.32,UPI,Central
+TXN00854,2025-03-29,25,Female,Travel Guide,Books,2,501.4,Credit Card,West
+TXN00855,2025-04-16,20,Male,Hoodie,Clothing,2,393.28,Cash,North
+TXN00856,2025-11-07,18,Male,Wireless Earbuds,Electronics,1,5294.61,Credit Card,North
+TXN00857,2025-03-31,36,Male,USB-C Cable,Electronics,1,973.83,Debit Card,North
+TXN00858,2025-01-21,28,Female,Cotton T-Shirt,Clothing,2,1071.87,Debit Card,Central
+TXN00859,2025-09-02,22,Female,Mystery Novel,Books,1,560.95,UPI,East
+TXN00860,2025-10-20,30,Female,Hoodie,Clothing,3,407.44,Credit Card,West
+TXN00861,2025-12-20,69,Male,Face Wash,Beauty,2,187.25,Credit Card,North
+TXN00862,2025-12-05,60,Female,Storage Box,Home & Kitchen,2,1577.04,Credit Card,South
+TXN00863,2025-02-13,18,Female,USB-C Cable,Electronics,1,791.43,UPI,East
+TXN00864,2025-10-09,66,Male,Hoodie,Clothing,5,1492.71,Cash,South
+TXN00865,2025-11-05,28,Female,Coffee Mug,Home & Kitchen,1,844.33,Cash,West
+TXN00866,2025-09-12,39,Male,Water Bottle,Home & Kitchen,1,617.56,UPI,Central
+TXN00867,2025-10-27,35,Female,Hoodie,Clothing,1,771.95,UPI,South
+TXN00868,2025-11-02,39,Male,Phone Case,Electronics,2,5044.98,UPI,West
+TXN00869,2025-06-12,58,Female,Lip Balm,Beauty,5,1146.7,Debit Card,Central
+TXN00870,2025-01-15,55,Female,Smart Watch,Electronics,1,1212.11,Credit Card,Central
+TXN00871,2025-06-16,49,Female,Self-Help Book,Books,4,868.55,UPI,North
+TXN00872,2025-03-15,51,Female,Phone Case,Electronics,1,4007.79,Debit Card,North
+TXN00873,2025-02-11,56,Male,Power Bank,Electronics,2,4296.21,UPI,Central
+TXN00874,2025-02-15,27,Female,Water Bottle,Home & Kitchen,1,1605.35,Credit Card,Central
+TXN00875,2025-09-12,38,Female,Cookware Set,Home & Kitchen,2,1593.44,UPI,South
+TXN00876,2025-07-04,23,Male,Storage Box,Home & Kitchen,2,1830.61,Credit Card,East
+TXN00877,2025-07-17,55,Female,Summer Dress,Clothing,2,1508.67,Credit Card,East
+TXN00878,2025-09-29,41,Male,Cookbook,Books,1,536.02,UPI,West
+TXN00879,2025-07-20,51,Male,Cookware Set,Home & Kitchen,3,813.85,UPI,West
+TXN00880,2025-08-18,47,Female,Running Shoes,Clothing,5,563.14,Cash,South
+TXN00881,2025-02-01,32,Male,Running Shoes,Clothing,2,1961.6,Credit Card,Central
+TXN00882,2025-11-07,25,Female,Bluetooth Speaker,Electronics,2,556.7,Cash,North
+TXN00883,2025-06-13,69,Female,Cookware Set,Home & Kitchen,3,715.05,Credit Card,North
+TXN00884,2025-02-26,33,Female,Wireless Earbuds,Electronics,1,929.51,Debit Card,Central
+TXN00885,2025-10-24,23,Male,Coffee Mug,Home & Kitchen,4,540.99,UPI,North
+TXN00886,2025-09-26,34,Male,Power Bank,Electronics,1,4278.2,Debit Card,Central
+TXN00887,2025-01-20,65,Male,Self-Help Book,Books,3,610.21,UPI,South
+TXN00888,2025-03-12,31,Male,Denim Jeans,Clothing,1,1352.64,UPI,South
+TXN00889,2025-01-06,70,Female,Travel Guide,Books,1,190.33,UPI,North
+TXN00890,2025-04-09,42,Male,Denim Jeans,Clothing,2,1383.43,UPI,Central
+TXN00891,2025-02-06,63,Male,Bluetooth Speaker,Electronics,2,2519.38,Cash,South
+TXN00892,2025-09-17,52,Male,Face Wash,Beauty,3,892.51,Cash,North
+TXN00893,2025-07-10,20,Male,Desk Lamp,Home & Kitchen,5,1337.0,Debit Card,East
+TXN00894,2025-12-24,44,Other,Moisturiser,Beauty,1,640.72,UPI,North
+TXN00895,2025-10-01,40,Female,Denim Jeans,Clothing,1,1517.46,Debit Card,West
+TXN00896,2025-08-12,28,Male,Desk Lamp,Home & Kitchen,1,2130.91,Debit Card,North
+TXN00897,2025-07-05,47,Male,Moisturiser,Beauty,2,931.92,UPI,East
+TXN00898,2025-01-20,23,Male,Storage Box,Home & Kitchen,2,1168.81,Credit Card,South
+TXN00899,2025-01-26,55,Female,Denim Jeans,Clothing,3,1498.06,Credit Card,North
+TXN00900,2025-08-13,61,Male,Storage Box,Home & Kitchen,3,204.28,UPI,North
+TXN00901,2025-01-02,22,Female,Desk Lamp,Home & Kitchen,1,2082.14,Credit Card,East
+TXN00902,2025-01-16,43,Male,Self-Help Book,Books,2,368.96,Debit Card,South
+TXN00903,2025-03-21,52,Male,Summer Dress,Clothing,2,939.85,UPI,North
+TXN00904,2025-11-19,21,Female,Hoodie,Clothing,2,2798.52,Credit Card,North
+TXN00905,2025-06-17,38,Male,Face Wash,Beauty,1,890.56,Credit Card,Central
+TXN00906,2025-09-16,31,Female,Storage Box,Home & Kitchen,1,247.1,Debit Card,West
+TXN00907,2025-05-31,20,Male,Moisturiser,Beauty,2,168.07,Cash,West
+TXN00908,2025-03-05,60,Male,Running Shoes,Clothing,1,363.75,Debit Card,Central
+TXN00909,2025-05-16,41,Female,Bluetooth Speaker,Electronics,3,4037.66,Credit Card,North
+TXN00910,2025-02-03,57,Male,Lip Balm,Beauty,1,178.72,Credit Card,West
+TXN00911,2025-10-09,49,Female,Bluetooth Speaker,Electronics,2,6090.34,Credit Card,West
+TXN00912,2025-03-08,64,Male,USB-C Cable,Electronics,2,6111.98,Credit Card,South
+TXN00913,2025-05-18,70,Male,Water Bottle,Home & Kitchen,4,1269.41,UPI,East
+TXN00914,2025-12-24,49,Female,Lip Balm,Beauty,1,778.3,Credit Card,West
+TXN00915,2025-08-05,36,Male,Notebook,Books,1,347.68,Debit Card,West
+TXN00916,2025-06-17,40,Male,Hoodie,Clothing,1,459.93,Credit Card,South
+TXN00917,2025-07-18,61,Male,Power Bank,Electronics,2,4885.38,Debit Card,West
+TXN00918,2025-10-14,40,Male,Mystery Novel,Books,1,199.39,Credit Card,West
+TXN00919,2025-04-03,45,Female,Smart Watch,Electronics,3,876.18,UPI,North
+TXN00920,2025-08-21,28,Male,Power Bank,Electronics,1,2264.02,UPI,East
+TXN00921,2025-11-15,70,Female,Summer Dress,Clothing,1,331.16,UPI,East
+TXN00922,2025-07-28,52,Female,Desk Lamp,Home & Kitchen,2,1039.77,UPI,South
+TXN00923,2025-06-12,35,Male,Self-Help Book,Books,3,671.99,Credit Card,North
+TXN00924,2025-02-22,49,Female,Lip Balm,Beauty,3,981.48,UPI,North
+TXN00925,2025-04-01,39,Male,Lip Balm,Beauty,3,764.74,UPI,West
+TXN00926,2025-12-12,26,Female,Power Bank,Electronics,2,5558.28,UPI,Central
+TXN00927,2025-07-17,64,Male,Cotton T-Shirt,Clothing,3,1316.26,Debit Card,East
+TXN00928,2025-04-20,64,Male,Cotton T-Shirt,Clothing,2,2421.93,Debit Card,Central
+TXN00929,2025-06-02,62,Female,Power Bank,Electronics,1,3464.81,UPI,Central
+TXN00930,2025-07-30,37,Female,Running Shoes,Clothing,2,857.59,UPI,West
+TXN00931,2025-07-16,31,Female,Cotton T-Shirt,Clothing,3,2660.36,UPI,East
+TXN00932,2025-09-13,20,Male,Wireless Earbuds,Electronics,1,2041.07,UPI,Central
+TXN00933,2025-04-04,56,Male,Desk Lamp,Home & Kitchen,2,203.71,UPI,West
+TXN00934,2025-08-25,35,Female,Sunscreen,Beauty,2,366.94,UPI,Central
+TXN00935,2025-06-11,65,Male,Wireless Earbuds,Electronics,2,2605.13,UPI,Central
+TXN00936,2025-12-10,64,Female,Coffee Mug,Home & Kitchen,1,870.27,Cash,North
+TXN00937,2025-02-27,24,Female,Face Wash,Beauty,2,677.13,Credit Card,West
+TXN00938,2025-02-24,66,Female,Sunscreen,Beauty,4,1071.44,Debit Card,West
+TXN00939,2025-06-18,25,Female,Lip Balm,Beauty,1,421.57,UPI,Central
+TXN00940,2025-07-05,43,Male,Summer Dress,Clothing,1,1601.93,UPI,South
+TXN00941,2025-09-10,43,Male,Shampoo,Beauty,1,474.15,Cash,Central
+TXN00942,2025-05-28,68,Male,USB-C Cable,Electronics,1,5403.9,UPI,East
+TXN00943,2025-11-30,52,Male,Summer Dress,Clothing,5,694.0,Credit Card,South
+TXN00944,2025-06-23,64,Female,USB-C Cable,Electronics,2,986.59,Cash,North
+TXN00945,2025-02-17,49,Female,Running Shoes,Clothing,1,1557.49,Credit Card,South
+TXN00946,2025-02-13,61,Male,Hoodie,Clothing,1,1979.72,UPI,Central
+TXN00947,2025-12-22,63,Male,USB-C Cable,Electronics,5,5242.48,Credit Card,West
+TXN00948,2025-02-18,63,Male,Lip Balm,Beauty,1,748.59,UPI,West
+TXN00949,2025-12-12,39,Male,Running Shoes,Clothing,3,2234.62,UPI,Central
+TXN00950,2025-04-12,38,Male,Summer Dress,Clothing,1,1281.78,UPI,South
+TXN00951,2025-02-04,70,Male,Wireless Earbuds,Electronics,1,552.14,Debit Card,West
+TXN00952,2025-04-22,58,Male,Cotton T-Shirt,Clothing,2,590.25,Credit Card,South
+TXN00953,2025-08-13,66,Male,Cotton T-Shirt,Clothing,1,396.81,UPI,Central
+TXN00954,2025-06-06,48,Female,Running Shoes,Clothing,2,1122.36,UPI,East
+TXN00955,2025-10-14,67,Female,Smart Watch,Electronics,1,3397.27,Credit Card,Central
+TXN00956,2025-08-12,56,Male,Moisturiser,Beauty,3,491.95,Cash,West
+TXN00957,2025-05-27,57,Female,Mystery Novel,Books,3,557.27,UPI,West
+TXN00958,2025-08-20,27,Male,Cookware Set,Home & Kitchen,3,1135.25,UPI,Central
+TXN00959,2025-12-21,48,Male,Desk Lamp,Home & Kitchen,1,1539.78,Debit Card,West
+TXN00960,2025-05-31,56,Female,Travel Guide,Books,3,640.23,Debit Card,South
+TXN00961,2025-02-26,58,Female,Self-Help Book,Books,5,368.09,Cash,East
+TXN00962,2025-05-30,68,Male,Coffee Mug,Home & Kitchen,1,859.74,UPI,East
+TXN00963,2025-11-03,35,Male,Mystery Novel,Books,1,576.42,UPI,North
+TXN00964,2025-03-21,34,Female,Mystery Novel,Books,3,585.22,Credit Card,East
+TXN00965,2025-12-13,69,Male,Lip Balm,Beauty,1,446.17,UPI,East
+TXN00966,2025-08-03,70,Female,Denim Jeans,Clothing,2,1125.79,Debit Card,South
+TXN00967,2025-08-08,27,Female,Smart Watch,Electronics,3,4618.38,UPI,North
+TXN00968,2025-04-26,38,Female,Smart Watch,Electronics,1,4331.58,Credit Card,East
+TXN00969,2025-12-02,68,Male,Denim Jeans,Clothing,2,637.63,Cash,East
+TXN00970,2025-01-14,28,Male,Storage Box,Home & Kitchen,2,1054.14,Cash,North
+TXN00971,2025-04-20,59,Male,Hoodie,Clothing,1,2531.77,Credit Card,West
+TXN00972,2025-06-02,23,Female,Water Bottle,Home & Kitchen,4,224.43,Cash,North
+TXN00973,2025-06-24,27,Other,Coffee Mug,Home & Kitchen,1,1903.09,UPI,North
+TXN00974,2025-06-23,59,Male,Lip Balm,Beauty,1,279.5,UPI,East
+TXN00975,2025-02-23,50,Female,Smart Watch,Electronics,3,3469.58,UPI,South
+TXN00976,2025-03-24,47,Female,Smart Watch,Electronics,1,2959.67,Cash,Central
+TXN00977,2025-02-04,63,Female,Face Wash,Beauty,3,111.14,Cash,North
+TXN00978,2025-07-28,34,Male,Face Wash,Beauty,1,1106.94,UPI,South
+TXN00979,2025-05-09,44,Female,Cookbook,Books,2,474.84,UPI,West
+TXN00980,2025-07-26,50,Female,Cookbook,Books,1,864.33,UPI,South
+TXN00981,2025-08-04,57,Male,Mystery Novel,Books,2,343.66,UPI,Central
+TXN00982,2025-09-14,35,Male,Summer Dress,Clothing,3,2465.69,Debit Card,West
+TXN00983,2025-07-19,51,Male,Cotton T-Shirt,Clothing,3,2605.97,UPI,Central
+TXN00984,2025-08-25,41,Male,Hoodie,Clothing,5,1692.08,Debit Card,Central
+TXN00985,2025-08-03,46,Female,Coffee Mug,Home & Kitchen,2,565.49,Credit Card,North
+TXN00986,2025-08-27,63,Male,Travel Guide,Books,3,654.49,UPI,East
+TXN00987,2025-08-14,38,Female,Denim Jeans,Clothing,2,1672.45,UPI,West
+TXN00988,2025-04-26,53,Female,Storage Box,Home & Kitchen,4,2086.29,Cash,North
+TXN00989,2025-03-31,67,Other,Hoodie,Clothing,2,1398.18,Credit Card,East
+TXN00990,2025-10-15,58,Female,Bluetooth Speaker,Electronics,4,2001.36,Credit Card,West
+TXN00991,2025-05-06,70,Female,Smart Watch,Electronics,1,1200.47,UPI,West
+TXN00992,2025-07-20,48,Male,Wireless Earbuds,Electronics,2,4646.6,Cash,East
+TXN00993,2025-03-13,32,Female,Mystery Novel,Books,3,879.81,Debit Card,Central
+TXN00994,2025-06-07,70,Female,Hoodie,Clothing,1,370.86,Debit Card,West
+TXN00995,2025-07-13,52,Male,Sunscreen,Beauty,1,914.49,Credit Card,North
+TXN00996,2025-08-17,30,Male,Water Bottle,Home & Kitchen,5,2050.21,Debit Card,South
+TXN00997,2025-07-12,34,Male,Phone Case,Electronics,2,809.91,UPI,Central
+TXN00998,2025-05-12,31,Female,Wireless Earbuds,Electronics,1,1027.55,Debit Card,North
+TXN00999,2025-12-18,62,Male,Lip Balm,Beauty,1,861.15,UPI,North
+TXN01000,2025-07-07,22,Male,Hoodie,Clothing,1,1919.91,Credit Card,South
+TXN01001,2025-10-23,57,Female,Notebook,Books,2,173.69,Cash,Central
+TXN01002,2025-09-26,47,Female,Phone Case,Electronics,4,5481.7,Cash,West
+TXN01003,2025-07-23,21,Female,Storage Box,Home & Kitchen,5,1223.02,Credit Card,North
+TXN01004,2025-11-20,50,Male,Sunscreen,Beauty,2,1097.92,Credit Card,South
+TXN01005,2025-02-16,57,Female,Bluetooth Speaker,Electronics,2,5749.64,Debit Card,Central
+TXN01006,2025-12-03,56,Male,Running Shoes,Clothing,1,2331.27,Cash,South
+TXN01007,2025-11-07,46,Male,Cookbook,Books,3,522.4,Debit Card,East
+TXN01008,2025-07-03,35,Female,Running Shoes,Clothing,1,929.28,UPI,East
+TXN01009,2025-09-25,26,Male,Summer Dress,Clothing,1,1564.94,UPI,West
+TXN01010,2025-07-09,18,Female,Running Shoes,Clothing,5,552.03,Debit Card,West
+TXN01011,2025-04-09,37,Female,Cotton T-Shirt,Clothing,4,1947.12,Debit Card,Central
+TXN01012,2025-10-19,51,Male,Moisturiser,Beauty,1,247.37,Debit Card,North
+TXN01013,2025-03-31,19,Female,Sunscreen,Beauty,2,662.29,Credit Card,East
+TXN01014,2025-04-25,70,Male,Running Shoes,Clothing,2,435.95,UPI,West
+TXN01015,2025-07-09,49,Male,Shampoo,Beauty,1,429.46,UPI,East
+TXN01016,2025-11-02,33,Female,Power Bank,Electronics,1,1777.29,Debit Card,West
+TXN01017,2025-05-21,68,Female,Bluetooth Speaker,Electronics,1,4163.19,UPI,West
+TXN01018,2025-06-30,27,Female,Coffee Mug,Home & Kitchen,2,1762.91,Credit Card,South
+TXN01019,2025-01-16,68,Male,Travel Guide,Books,2,164.7,Debit Card,North
+TXN01020,2025-02-12,32,Male,Phone Case,Electronics,2,5579.24,Debit Card,Central
+TXN01021,2025-01-21,38,Female,USB-C Cable,Electronics,1,5643.72,UPI,Central
+TXN01022,2025-01-27,40,Male,Cookware Set,Home & Kitchen,4,851.65,Debit Card,Central
+TXN01023,2025-11-14,70,Male,Lip Balm,Beauty,2,824.9,UPI,South
+TXN01024,2025-11-04,31,Male,Wireless Earbuds,Electronics,4,2826.07,UPI,South
+TXN01025,2025-10-27,69,Female,Denim Jeans,Clothing,1,685.48,UPI,South
+TXN01026,2025-01-21,36,Female,Moisturiser,Beauty,2,681.53,UPI,North
+TXN01027,2025-01-29,33,Female,Cotton T-Shirt,Clothing,3,515.9,Cash,North
+TXN01028,2025-04-13,51,Female,Bluetooth Speaker,Electronics,1,5752.6,Cash,South
+TXN01029,2025-07-26,54,Female,Smart Watch,Electronics,1,6034.38,UPI,Central
+TXN01030,2025-05-02,36,Female,Denim Jeans,Clothing,1,2354.03,Debit Card,South
+TXN01031,2025-06-27,25,Female,Cotton T-Shirt,Clothing,1,1706.32,Credit Card,East
+TXN01032,2025-03-05,38,Female,Cookbook,Books,2,554.93,Debit Card,East
+TXN01033,2025-09-24,46,Female,Storage Box,Home & Kitchen,1,2168.45,Debit Card,South
+TXN01034,2025-04-25,20,Male,Water Bottle,Home & Kitchen,1,658.2,Credit Card,Central
+TXN01035,2025-01-25,22,Male,Mystery Novel,Books,2,179.24,UPI,North
+TXN01036,2025-09-29,66,Female,Hoodie,Clothing,1,1704.85,UPI,Central
+TXN01037,2025-11-26,19,Male,Summer Dress,Clothing,1,1121.96,Credit Card,West
+TXN01038,2025-01-06,39,Female,Self-Help Book,Books,2,371.42,Cash,South
+TXN01039,2025-06-09,58,Male,USB-C Cable,Electronics,1,393.57,Credit Card,West
+TXN01040,2025-10-29,35,Male,Lip Balm,Beauty,1,755.86,UPI,East
+TXN01041,2025-09-15,44,Male,Lip Balm,Beauty,1,390.44,UPI,Central
+TXN01042,2025-11-09,22,Male,Wireless Earbuds,Electronics,1,1505.33,Cash,North
+TXN01043,2025-06-01,60,Male,Summer Dress,Clothing,2,401.08,UPI,North
+TXN01044,2025-05-16,51,Male,Wireless Earbuds,Electronics,1,2590.82,Debit Card,East
+TXN01045,2025-09-16,63,Female,Wireless Earbuds,Electronics,1,5755.66,Credit Card,Central
+TXN01046,2025-02-26,63,Female,Running Shoes,Clothing,5,1141.68,UPI,North
+TXN01047,2025-03-29,36,Male,Hoodie,Clothing,4,1997.69,UPI,West
+TXN01048,2025-08-08,20,Female,Face Wash,Beauty,1,932.2,UPI,Central
+TXN01049,2025-09-01,36,Male,Cookbook,Books,1,375.92,UPI,East
+TXN01050,2025-02-13,25,Male,Moisturiser,Beauty,2,1003.8,Debit Card,Central
+TXN01051,2025-07-05,46,Female,Denim Jeans,Clothing,3,2029.7,Debit Card,West
+TXN01052,2025-05-14,25,Female,Summer Dress,Clothing,3,1698.11,UPI,South
+TXN01053,2025-07-03,66,Male,Denim Jeans,Clothing,1,302.48,Credit Card,Central
+TXN01054,2025-12-16,49,Female,Bluetooth Speaker,Electronics,1,565.81,UPI,West
+TXN01055,2025-01-28,31,Male,Mystery Novel,Books,2,892.88,UPI,North
+TXN01056,2025-12-30,66,Male,Cotton T-Shirt,Clothing,4,2255.71,Debit Card,East
+TXN01057,2025-06-14,58,Female,Wireless Earbuds,Electronics,4,6116.03,Debit Card,West
+TXN01058,2025-10-09,41,Male,Shampoo,Beauty,1,1092.53,Debit Card,Central
+TXN01059,2025-06-04,25,Male,Running Shoes,Clothing,2,351.11,UPI,West
+TXN01060,2025-04-24,36,Male,Power Bank,Electronics,1,5219.86,Credit Card,East
+TXN01061,2025-10-09,48,Female,Smart Watch,Electronics,2,3124.55,UPI,South
+TXN01062,2025-09-08,58,Male,Coffee Mug,Home & Kitchen,4,1768.59,Cash,North
+TXN01063,2025-02-22,31,Male,Face Wash,Beauty,2,107.39,Credit Card,North
+TXN01064,2025-09-15,57,Female,Power Bank,Electronics,1,2122.43,Cash,West
+TXN01065,2025-10-02,32,Male,Cookbook,Books,2,706.03,UPI,Central
+TXN01066,2025-05-22,31,Male,Lip Balm,Beauty,2,972.32,Credit Card,North
+TXN01067,2025-12-04,41,Female,Moisturiser,Beauty,3,781.69,Debit Card,West
+TXN01068,2025-08-22,26,Male,Wireless Earbuds,Electronics,1,2202.73,UPI,East
+TXN01069,2025-05-02,39,Male,Smart Watch,Electronics,4,2258.73,Credit Card,North
+TXN01070,2025-01-04,36,Male,Self-Help Book,Books,1,874.08,Credit Card,South
+TXN01071,2025-09-04,32,Female,Cotton T-Shirt,Clothing,1,1398.03,Cash,South
+TXN01072,2025-03-18,59,Male,Desk Lamp,Home & Kitchen,1,1066.61,UPI,West
+TXN01073,2025-10-04,35,Other,Moisturiser,Beauty,1,707.57,Cash,South
+TXN01074,2025-07-11,54,Male,Phone Case,Electronics,1,2868.44,UPI,Central
+TXN01075,2025-06-20,56,Female,Lip Balm,Beauty,2,707.94,Credit Card,South
+TXN01076,2025-03-01,53,Female,Cookbook,Books,1,457.22,Credit Card,North
+TXN01077,2025-09-17,32,Male,Shampoo,Beauty,1,1009.39,UPI,North
+TXN01078,2025-03-02,61,Female,Running Shoes,Clothing,1,2572.63,Cash,East
+TXN01079,2025-06-02,30,Female,Travel Guide,Books,1,847.05,Cash,East
+TXN01080,2025-11-02,32,Female,Water Bottle,Home & Kitchen,4,1306.81,Cash,West
+TXN01081,2025-12-02,64,Male,Moisturiser,Beauty,4,586.36,Cash,East
+TXN01082,2025-12-28,36,Female,Face Wash,Beauty,1,875.76,Credit Card,North
+TXN01083,2025-12-16,54,Male,Sunscreen,Beauty,3,1022.16,Credit Card,South
+TXN01084,2025-07-22,20,Male,Cotton T-Shirt,Clothing,3,1707.46,Debit Card,East
+TXN01085,2025-03-15,50,Other,USB-C Cable,Electronics,5,4654.88,UPI,South
+TXN01086,2025-11-03,64,Male,Smart Watch,Electronics,1,4960.84,Debit Card,West
+TXN01087,2025-10-20,55,Female,Cookware Set,Home & Kitchen,1,1536.61,Credit Card,Central
+TXN01088,2025-12-28,48,Male,Storage Box,Home & Kitchen,2,1679.57,Credit Card,South
+TXN01089,2025-08-26,62,Female,Water Bottle,Home & Kitchen,3,577.72,UPI,East
+TXN01090,2025-02-21,33,Other,Hoodie,Clothing,3,1545.94,UPI,Central
+TXN01091,2025-07-03,37,Female,Face Wash,Beauty,2,747.1,UPI,South
+TXN01092,2025-06-13,21,Male,Mystery Novel,Books,1,121.93,UPI,East
+TXN01093,2025-11-04,55,Male,Phone Case,Electronics,3,5614.17,UPI,South
+TXN01094,2025-05-24,56,Female,Lip Balm,Beauty,3,771.03,UPI,West
+TXN01095,2025-04-30,57,Male,Desk Lamp,Home & Kitchen,1,414.73,UPI,West
+TXN01096,2025-01-30,57,Female,Cookware Set,Home & Kitchen,2,1823.53,Credit Card,North
+TXN01097,2025-11-01,24,Female,Wireless Earbuds,Electronics,2,4759.9,UPI,North
+TXN01098,2025-10-03,53,Female,Face Wash,Beauty,2,934.13,Debit Card,North
+TXN01099,2025-01-16,58,Female,Cookbook,Books,2,425.79,UPI,North
+TXN01100,2025-06-08,28,Male,Face Wash,Beauty,3,1039.62,Credit Card,North
+TXN01101,2025-06-25,43,Male,Notebook,Books,5,442.94,UPI,West
+TXN01102,2025-06-21,66,Female,Mystery Novel,Books,2,565.0,Credit Card,Central
+TXN01103,2025-12-02,39,Male,Running Shoes,Clothing,1,301.61,Credit Card,East
+TXN01104,2025-02-24,57,Male,Cookware Set,Home & Kitchen,1,1471.99,Credit Card,Central
+TXN01105,2025-04-22,46,Male,Hoodie,Clothing,1,2095.44,UPI,West
+TXN01106,2025-03-08,52,Female,Cookbook,Books,1,562.35,Credit Card,Central
+TXN01107,2025-03-31,51,Male,Power Bank,Electronics,1,3403.84,UPI,West
+TXN01108,2025-11-28,52,Female,Running Shoes,Clothing,2,2324.84,Credit Card,North
+TXN01109,2025-12-10,59,Male,Travel Guide,Books,1,651.47,UPI,East
+TXN01110,2025-01-17,65,Male,Running Shoes,Clothing,1,995.19,Credit Card,East
+TXN01111,2025-08-19,33,Male,Moisturiser,Beauty,3,1154.98,Credit Card,West
+TXN01112,2025-03-26,67,Female,Hoodie,Clothing,1,2068.17,Debit Card,West
+TXN01113,2025-03-12,51,Female,Notebook,Books,2,890.59,UPI,North
+TXN01114,2025-04-17,49,Male,Self-Help Book,Books,4,877.58,UPI,West
+TXN01115,2025-03-12,35,Female,Cotton T-Shirt,Clothing,2,2597.27,UPI,Central
+TXN01116,2025-06-28,40,Female,Shampoo,Beauty,1,930.91,UPI,North
+TXN01117,2025-12-30,52,Male,Summer Dress,Clothing,1,1823.57,Credit Card,East
+TXN01118,2025-08-03,37,Male,Cookware Set,Home & Kitchen,2,502.95,Debit Card,Central
+TXN01119,2025-09-21,33,Female,Coffee Mug,Home & Kitchen,2,1263.87,Debit Card,North
+TXN01120,2025-06-30,61,Female,Face Wash,Beauty,1,941.91,Credit Card,North
+TXN01121,2025-01-06,40,Male,USB-C Cable,Electronics,2,3553.27,UPI,Central
+TXN01122,2025-01-31,52,Female,Smart Watch,Electronics,2,5689.67,Debit Card,North
+TXN01123,2025-04-09,19,Female,Lip Balm,Beauty,1,220.62,UPI,West
+TXN01124,2025-03-30,22,Female,Water Bottle,Home & Kitchen,2,930.93,UPI,Central
+TXN01125,2025-11-03,62,Female,Storage Box,Home & Kitchen,1,1187.23,Debit Card,East
+TXN01126,2025-11-04,25,Other,Power Bank,Electronics,1,3008.8,UPI,East
+TXN01127,2025-11-08,60,Female,Cotton T-Shirt,Clothing,3,571.47,UPI,East
+TXN01128,2025-08-21,65,Female,Notebook,Books,1,239.75,UPI,South
+TXN01129,2025-07-23,43,Male,Wireless Earbuds,Electronics,2,5501.35,Credit Card,South
+TXN01130,2025-08-25,64,Female,Hoodie,Clothing,2,1510.96,UPI,East
+TXN01131,2025-05-29,40,Female,Notebook,Books,1,158.0,Credit Card,Central
+TXN01132,2025-09-02,68,Other,Smart Watch,Electronics,4,451.42,Credit Card,Central
+TXN01133,2025-10-17,30,Male,Sunscreen,Beauty,1,620.82,UPI,Central
+TXN01134,2025-10-06,40,Female,Denim Jeans,Clothing,1,710.95,UPI,North
+TXN01135,2025-08-13,38,Female,Notebook,Books,4,670.0,Debit Card,South
+TXN01136,2025-01-22,59,Female,Shampoo,Beauty,3,974.86,UPI,West
+TXN01137,2025-09-22,20,Female,Mystery Novel,Books,2,298.07,Debit Card,East
+TXN01138,2025-05-14,61,Male,Power Bank,Electronics,1,3991.89,Credit Card,South
+TXN01139,2025-09-29,19,Male,Storage Box,Home & Kitchen,1,466.61,UPI,South
+TXN01140,2025-07-16,34,Male,Shampoo,Beauty,2,433.94,Credit Card,North
+TXN01141,2025-11-18,49,Male,Bluetooth Speaker,Electronics,1,5816.09,Credit Card,South
+TXN01142,2025-05-04,25,Female,Power Bank,Electronics,1,3696.2,Credit Card,East
+TXN01143,2025-12-06,43,Male,Power Bank,Electronics,3,5798.22,Debit Card,East
+TXN01144,2025-11-05,70,Male,Cookbook,Books,1,295.69,Cash,East
+TXN01145,2025-05-01,61,Female,Sunscreen,Beauty,1,463.03,Debit Card,South
+TXN01146,2025-06-26,19,Male,Storage Box,Home & Kitchen,1,1115.45,Credit Card,South
+TXN01147,2025-07-13,49,Female,Sunscreen,Beauty,2,628.09,Credit Card,Central
+TXN01148,2025-10-08,49,Male,Storage Box,Home & Kitchen,2,2195.18,Credit Card,East
+TXN01149,2025-09-09,21,Male,Summer Dress,Clothing,4,586.11,UPI,South
+TXN01150,2025-11-07,52,Female,Denim Jeans,Clothing,1,2429.91,Debit Card,West
+TXN01151,2025-05-16,45,Male,Water Bottle,Home & Kitchen,1,1920.55,Debit Card,East
+TXN01152,2025-07-04,54,Female,Wireless Earbuds,Electronics,2,3752.17,UPI,East
+TXN01153,2025-06-07,33,Male,Notebook,Books,1,388.35,Cash,South
+TXN01154,2025-11-28,31,Female,Lip Balm,Beauty,2,671.15,Debit Card,West
+TXN01155,2025-04-22,57,Female,Denim Jeans,Clothing,4,1031.17,UPI,North
+TXN01156,2025-08-03,56,Female,Desk Lamp,Home & Kitchen,2,1788.17,Cash,Central
+TXN01157,2025-02-13,26,Male,USB-C Cable,Electronics,2,3414.42,UPI,East
+TXN01158,2025-11-07,29,Female,Mystery Novel,Books,5,842.16,UPI,East
+TXN01159,2025-05-21,49,Male,Self-Help Book,Books,1,605.7,UPI,South
+TXN01160,2025-05-05,61,Female,Travel Guide,Books,4,521.17,Credit Card,East
+TXN01161,2025-08-01,28,Female,Summer Dress,Clothing,2,2077.67,UPI,West
+TXN01162,2025-07-02,29,Female,Phone Case,Electronics,2,3449.19,Cash,East
+TXN01163,2025-11-06,60,Female,Wireless Earbuds,Electronics,4,5912.71,UPI,North
+TXN01164,2025-07-13,54,Male,Bluetooth Speaker,Electronics,2,1484.34,UPI,East
+TXN01165,2025-07-08,65,Female,Power Bank,Electronics,2,6336.09,Credit Card,South
+TXN01166,2025-02-08,59,Male,Wireless Earbuds,Electronics,1,5344.97,UPI,North
+TXN01167,2025-01-09,68,Male,Self-Help Book,Books,2,791.37,Debit Card,Central
+TXN01168,2025-05-26,28,Male,Wireless Earbuds,Electronics,2,3319.88,UPI,South
+TXN01169,2025-12-31,32,Male,Wireless Earbuds,Electronics,1,5498.79,Cash,East
+TXN01170,2025-12-01,30,Male,Face Wash,Beauty,3,437.45,Credit Card,North
+TXN01171,2025-08-18,20,Male,Storage Box,Home & Kitchen,2,1711.99,UPI,South
+TXN01172,2025-08-19,59,Male,Sunscreen,Beauty,1,254.5,UPI,South
+TXN01173,2025-05-23,53,Male,Water Bottle,Home & Kitchen,1,779.46,UPI,North
+TXN01174,2025-03-06,22,Male,Notebook,Books,2,467.67,Cash,Central
+TXN01175,2025-01-04,28,Female,Storage Box,Home & Kitchen,1,810.76,Credit Card,South
+TXN01176,2025-05-04,28,Male,Water Bottle,Home & Kitchen,1,943.39,UPI,East
+TXN01177,2025-04-26,39,Female,Moisturiser,Beauty,2,1002.12,UPI,East
+TXN01178,2025-03-11,42,Male,Hoodie,Clothing,1,941.69,Debit Card,East
+TXN01179,2025-04-05,33,Male,Cotton T-Shirt,Clothing,1,2163.2,UPI,East
+TXN01180,2025-01-10,67,Male,Cotton T-Shirt,Clothing,2,484.28,Debit Card,East
+TXN01181,2025-08-10,29,Male,Phone Case,Electronics,1,5059.3,Debit Card,North
+TXN01182,2025-12-05,47,Male,Shampoo,Beauty,5,971.23,UPI,West
+TXN01183,2025-09-10,41,Male,Denim Jeans,Clothing,4,1304.25,Credit Card,North
+TXN01184,2025-06-13,38,Female,Smart Watch,Electronics,2,4793.24,UPI,East
+TXN01185,2025-06-03,61,Female,Phone Case,Electronics,5,5978.1,UPI,South
+TXN01186,2025-04-23,69,Female,Moisturiser,Beauty,4,980.78,Cash,East
+TXN01187,2025-02-21,18,Female,Running Shoes,Clothing,1,1276.12,Credit Card,North
+TXN01188,2025-08-07,42,Male,Water Bottle,Home & Kitchen,3,1142.64,Debit Card,West
+TXN01189,2025-07-26,24,Male,Moisturiser,Beauty,1,957.29,Credit Card,East
+TXN01190,2025-01-03,40,Male,USB-C Cable,Electronics,2,2149.46,UPI,North
+TXN01191,2025-06-01,50,Female,Face Wash,Beauty,2,984.27,Debit Card,North
+TXN01192,2025-04-12,39,Male,Summer Dress,Clothing,1,1120.18,Credit Card,East
+TXN01193,2025-03-04,34,Female,Phone Case,Electronics,1,5306.84,UPI,West
+TXN01194,2025-09-14,34,Male,Storage Box,Home & Kitchen,5,327.94,UPI,East
+TXN01195,2025-07-11,33,Other,Cookbook,Books,1,154.63,Credit Card,West
+TXN01196,2025-08-20,35,Female,Cotton T-Shirt,Clothing,1,2794.19,Debit Card,West
+TXN01197,2025-09-18,37,Female,Coffee Mug,Home & Kitchen,1,1932.39,UPI,Central
+TXN01198,2025-12-25,54,Female,Cotton T-Shirt,Clothing,2,2507.12,Debit Card,Central
+TXN01199,2025-10-21,23,Female,Storage Box,Home & Kitchen,3,2100.12,UPI,Central
+TXN01200,2025-08-15,20,Female,Coffee Mug,Home & Kitchen,3,1048.55,UPI,West

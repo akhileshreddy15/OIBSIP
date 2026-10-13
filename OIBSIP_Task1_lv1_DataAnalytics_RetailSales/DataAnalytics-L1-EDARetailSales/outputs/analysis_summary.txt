@@ -1,0 +1,16 @@
+OASIS INFOBYTE SIP — RETAIL SALES EDA SUMMARY
+Dataset note: included data is synthetic demonstration data, not real company sales.
+Transactions: 1,200
+Total units sold: 2,437
+Total revenue: ₹4,042,145.00
+Average transaction revenue: ₹3,368.45
+Rows with missing values: 0
+Duplicate rows: 0
+
+ACTIONABLE RECOMMENDATIONS:
+1. Prioritise stock availability and product-page visibility for Wireless Earbuds, the leading product by units in this sample.
+2. Review category-specific promotions for Electronics, which contributes the most sample revenue; test campaigns and compare results before scaling.
+3. Plan monthly inventory and staffing around observed monthly peaks (2025-07) and lows (2025-05).
+4. Run a small, measurable campaign for underrepresented age groups and compare conversion and margin, rather than targeting on transaction counts alone.
+
+Limitations: results are illustrative because the dataset is synthetic. Validate insights with genuine, sufficiently complete sales data before making business decisions.

@@ -1,0 +1,13 @@
+FRAUD DETECTION SUMMARY
+Rows: 2400
+Fraud cases in dataset: 114
+Train rows: 1920
+Test rows: 480
+
+METRICS
+Accuracy: 0.9708
+Precision_Fraud: 1.0000
+Recall_Fraud: 0.3913
+F1_Fraud: 0.5625
+
+DATA NOTE: Synthetic demo data only; not suitable for real fraud decisions.

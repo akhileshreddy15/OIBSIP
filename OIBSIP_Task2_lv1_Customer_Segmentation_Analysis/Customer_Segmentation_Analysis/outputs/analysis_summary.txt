@@ -1,0 +1,19 @@
+CUSTOMER SEGMENTATION ANALYSIS
+Customers analysed: 500
+Clusters: 4
+
+CLUSTER PROFILE
+         Customers  AvgDaysSinceLastPurchase  AvgPurchaseFrequency  AvgOrderValue  AvgTotalSpend  TotalRevenue
+Cluster                                                                                                       
+0              164                     37.98                  9.67         103.19        1002.99     164490.75
+1              140                     29.61                  2.17          56.78         133.00      18619.88
+2               83                     18.27                 18.78         180.73        3376.58     280255.80
+3              113                    107.34                  2.67          66.19         179.99      20339.14
+
+INITIAL RECOMMENDATIONS
+Cluster 0: Try a re-engagement campaign with a relevant reminder or discount.
+Cluster 1: Encourage repeat purchases with onboarding offers and recommendations.
+Cluster 2: Reward with loyalty benefits and personalised premium offers.
+Cluster 3: Try a re-engagement campaign with a relevant reminder or discount.
+
+DATA NOTE: Synthetic demo data for practice; not real customer data.

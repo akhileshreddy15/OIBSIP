@@ -1,0 +1,9 @@
+Metric,Value
+transactions,1200
+total_units_sold,2437
+total_revenue,4042145.0
+average_transaction_revenue,3368.45
+missing_cells,0
+duplicate_rows,0
+top_product_by_units,Wireless Earbuds
+top_category_by_revenue,Electronics
