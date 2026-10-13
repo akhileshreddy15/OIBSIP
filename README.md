@@ -1,85 +1,84 @@
-# OASIS INFOBYTE SIP — Retail Sales Data EDA
+# Oasis Infobyte (OIBSIP) — Data Analytics Projects
 
-**Track:** Data Analytics  
-**Task:** Level 1, Task 1 — EDA on Retail Sales Data  
-**Tools:** Python, pandas, Matplotlib, Seaborn, Jupyter Notebook
+This repository contains my Data Analytics projects completed as part of my learning journey with the Oasis Infobyte (OIBSIP) internship program.
 
-## Project overview
-This beginner-friendly project explores retail transactions to identify sales trends, customer demographics, best-selling products, category revenue, numerical relationships, and one additional insight based on payment method.
+## Projects
 
-> **Dataset transparency:** `data/retail_sales.csv` is a reproducible, synthetic demonstration dataset generated for this project. It is not real company data. The charts and business recommendations are examples; do not represent them as real business findings.
+### 1. Retail Sales Analysis
+**Level:** Level 1
 
-## Folder structure
+- Analyzed retail sales data to explore sales trends and revenue patterns.
+- Performed data inspection, cleaning checks, exploratory data analysis, and visualization.
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
+
+### 2. Customer Segmentation Analysis
+**Level:** Level 1
+
+- Applied clustering techniques to group customers based on their characteristics.
+- Explored customer segments and potential marketing strategies.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+
+### 3. House Price Prediction
+**Level:** Level 2
+
+- Built regression models to estimate house prices using property features.
+- Compared models using MAE, RMSE, and R² evaluation metrics.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
+
+### 4. Fraud Detection
+**Level:** Level 2
+
+- Developed a machine learning classification model to identify potentially fraudulent transactions.
+- Evaluated model performance using precision, recall, F1-score, and a confusion matrix.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
+
+## Technologies Used
+
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Matplotlib and Seaborn
+- Jupyter Notebook
+
+## How to Run the Projects
+
+Each project is stored in its own folder and contains its own `requirements.txt` file.
+
+1. Download or clone this repository.
+2. Open the folder for the project you want to run.
+3. Install the required libraries:
+
+   ```bash
+   python -m pip install -r requirements.txt
+   ```
+
+4. Run that project's Python script. For example:
+
+   ```bash
+   python fraud_detection.py
+   ```
+
+   Use the corresponding script name for the other projects.
+
+5. Alternatively, open the project's Jupyter Notebook and run the cells in order.
+
+## Dataset Disclaimer
+
+The included datasets are synthetic practice/demo data. They are intended for learning and demonstrating analytical methods, not for real-world business, property valuation, or financial decisions. If real-world data is required for evaluation, replace the relevant dataset with a suitable public dataset and cite its source.
+
+## Repository Structure
 
 ```text
 OIBSIP/
-└── DataAnalytics-L1-EDARetailSales/
-    ├── data/
-    │   └── retail_sales.csv
-    ├── outputs/
-    │   ├── 01_monthly_sales_trend.png
-    │   ├── 02_quarterly_sales_trend.png
-    │   ├── 03_age_group_distribution.png
-    │   ├── 04_gender_breakdown.png
-    │   ├── 05_top_10_products.png
-    │   ├── 06_category_revenue.png
-    │   ├── 07_correlation_heatmap.png
-    │   ├── 08_payment_method_average_revenue.png
-    │   ├── analysis_summary.txt
-    │   └── supporting CSV summaries
-    ├── retail_sales_analysis.py
-    ├── Retail_Sales_EDA.ipynb
-    ├── requirements.txt
-    └── README.md
+├── README.md
+├── DataAnalytics-L1-EDARetailSales/
+├── DataAnalytics-L1-CustomerSegmentation/
+├── DataAnalytics-L2-HousePricePrediction/
+└── DataAnalytics-L2-FraudDetection/
 ```
 
-## Setup and run
+Each project folder contains its own code, notebook, dataset, outputs, and dependencies.
 
-### Option A — Run the Python script
+## Learning Outcomes
 
-1. Install Python 3.10 or later.
-2. Open a terminal/command prompt in this project folder.
-3. (Recommended) Create a virtual environment:
-   - Windows: `py -m venv .venv` then `.venv\\Scripts\\activate`
-   - macOS/Linux: `python3 -m venv .venv` then `source .venv/bin/activate`
-4. Install dependencies: `pip install -r requirements.txt`
-5. Run: `python retail_sales_analysis.py`
-6. Open the `outputs` folder to view the charts, CSV summaries, and text report.
-
-### Option B — Run the notebook
-
-1. Install dependencies using `pip install -r requirements.txt`.
-2. Start Jupyter: `jupyter notebook` (or open the `.ipynb` in VS Code).
-3. Open `Retail_Sales_EDA.ipynb` and run all cells from top to bottom.
-
-## Analysis checklist (matches the Oasis Infobyte task card)
-
-- [x] Load dataset; inspect shape, data types, missing values, and duplicate rows.
-- [x] Numerical descriptive statistics: mean, median, mode, standard deviation, and other summary statistics.
-- [x] Monthly and quarterly sales trends using line charts.
-- [x] Customer age-group distribution and gender breakdown.
-- [x] Top 10 best-selling products and category revenue bar chart.
-- [x] Correlation heatmap for numerical variables.
-- [x] Additional visualisation: average transaction revenue by payment method.
-- [x] Written observations and conclusion/recommendations.
-
-## Outputs
-The script creates eight PNG charts, CSV tables for summaries, and `analysis_summary.txt`. It also prints an overview and observations in the terminal.
-
-## Key definitions
-- **Revenue:** `Quantity × UnitPrice` for each transaction.
-- **Monthly/quarterly sales:** sum of transaction revenue grouped by calendar month/quarter.
-- **Best-selling products:** ranked by total units sold, not by revenue.
-- **Correlation:** describes linear association; it does not prove causation. Revenue will naturally relate to quantity and unit price because of its formula.
-
-## GitHub submission
-The task-list PDF specifies one public repository named **`OIBSIP`**. Place this project folder at:
-
-`OIBSIP/DataAnalytics-L1-EDARetailSales/`
-
-Commit the source code, notebook, README, dataset, and relevant outputs. Follow your cohort's submission form instructions.
-
-## Demo video and LinkedIn checklist
-The PDF's general workflow asks for a screen-recorded walkthrough. Begin with a 2-second title card showing your full name, assigned track, and task title. Then show the notebook/script running and open the charts/report. Post the demo on LinkedIn, tag Oasis Infobyte, and include `#oasisinfobyte` plus relevant hashtags. The task list also asks interns to leave substantive comments on at least two other cohort demo videos.
-
-Before submitting, replace the title-card placeholder with your own full name and verify the submission dates/form in your orientation email.
+Through these projects, I practiced exploratory data analysis, customer clustering, regression, classification, model evaluation, and data visualization.
